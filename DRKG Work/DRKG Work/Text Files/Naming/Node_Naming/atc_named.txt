@@ -1,0 +1,4045 @@
+A	Alimentary tract and metabolism
+A01	Stomatological preparations
+A01A	Stomatological preparations
+A01AA	Caries prophylactic agents
+A01AA03	Olaflur
+A01AA04	Stannous fluoride
+A01AA51	Sodium fluoride, combinations
+A01AB	Antiinfectives and antiseptics for local oral treatment
+A01AB06	Domiphen
+A01AB14	Benzoxonium chloride
+A01AB15	Tibezonium iodide
+A01AB19	Sodium perborate
+A01AD	Other agents for local oral treatment
+A01AD01	Epinephrine
+A01AD02	Benzydamine
+A01AD06	Adrenalone
+A01AD07	Amlexanox
+A02	Drugs for acid related disorders
+A02A	Antacids
+A02AA	Magnesium compounds
+A02AA01	Magnesium carbonate
+A02AA02	Magnesium oxide
+A02AA05	Magnesium silicate
+A02AB	Aluminium compounds
+A02AB02	Algeldrate
+A02AB03	Aluminium phosphate
+A02AB05	Aluminium acetoacetate
+A02AB06	Aloglutamol
+A02AB07	Aluminium glycinate
+A02AC	Calcium compounds
+A02AC01	Calcium carbonate
+A02AC02	Calcium silicate
+A02AD	Combinations and complexes of aluminium, calcium and magnesium compounds
+A02AD02	Magaldrate
+A02AD04	Hydrotalcite
+A02AD05	Almasilate
+A02B	Drugs for peptic ulcer and gastro-oesophageal reflux disease (gord)
+A02BA	H-receptor antagonists
+A02BA04	Nizatidine
+A02BA05	Niperotidine
+A02BA06	Roxatidine
+A02BA07	Ranitidine bismuth citrate
+A02BA08	Lafutidine
+A02BA51	Cimetidine, combinations
+A02BA53	Famotidine, combinations
+A02BB	Prostaglandins
+A02BB02	Enprostil
+A02BC	Proton pump inhibitors
+A02BC01	Omeprazole
+A02BC03	Lansoprazole
+A02BC06	Dexlansoprazole
+A02BC07	Dexrabeprazole
+A02BC54	Rabeprazole, combinations
+A02BD	Combinations for eradication of helicobacter pylori
+A02BD04	Pantoprazole, amoxicillin and clarithromycin
+A02BD06	Esomeprazole, amoxicillin and clarithromycin
+A02BD11	Pantoprazole, amoxicillin, clarithromycin and metronidazole
+A02BX	Other drugs for peptic ulcer and gastro-oesophageal reflux disease (gord)
+A02BX01	Carbenoxolone
+A02BX02	Sucralfate
+A02BX03	Pirenzepine
+A02BX04	Methiosulfonium chloride
+A02BX06	Proglumide
+A02BX08	Sulglicotide
+A02BX09	Acetoxolone
+A02BX10	Zolimidine
+A02BX11	Troxipide
+A02BX12	Bismuth subnitrate
+A02BX13	Alginic acid
+A02BX14	Rebamipide
+A02BX77	Gefarnate, combinations with psycholeptics
+A03	Drugs for functional gastrointestinal disorders
+A03A	Drugs for functional gastrointestinal disorders
+A03AA	Synthetic anticholinergics, esters with tertiary amino group
+A03AA01	Oxyphencyclimine
+A03AA03	Camylofin
+A03AA04	Mebeverine
+A03AA05	Trimebutine
+A03AA06	Rociverine
+A03AA07	Dicycloverine
+A03AA08	Dihexyverine
+A03AA09	Difemerine
+A03AA30	Piperidolate
+A03AB	Synthetic anticholinergics, quaternary ammonium compounds
+A03AB01	Benzilone
+A03AB02	Glycopyrronium bromide
+A03AB04	Penthienate
+A03AB05	Propantheline
+A03AB07	Methantheline
+A03AB08	Tridihexethyl
+A03AB10	Hexocyclium
+A03AB11	Poldine
+A03AB12	Mepenzolate
+A03AB13	Bevonium
+A03AB16	(2-benzhydryloxyethyl)diethyl-methylammonium iodide
+A03AB17	Tiemonium iodide
+A03AB18	Prifinium bromide
+A03AB19	Timepidium bromide
+A03AB21	Fenpiverinium
+A03AB53	Oxyphenonium, combinations
+A03AC	Synthetic antispasmodics, amides with tertiary amines
+A03AC02	Dimethylaminopropionylphenothiazine
+A03AC04	Nicofetamide
+A03AC05	Tiropramide
+A03AD	Papaverine and derivatives
+A03AD02	Drotaverine
+A03AD30	Moxaverine
+A03AE	Serotonin receptor antagonists
+A03AE01	Alosetron
+A03AE03	Cilansetron
+A03AX	Other drugs for functional gastrointestinal disorders
+A03AX01	Fenpiprane
+A03AX02	Diisopromine
+A03AX03	Chlorbenzoxamine
+A03AX04	Pinaverium
+A03AX05	Fenoverine
+A03AX06	Idanpramine
+A03AX07	Proxazole
+A03AX08	Alverine
+A03AX09	Trepibutone
+A03AX10	Isometheptene
+A03AX11	Caroverine
+A03AX12	Phloroglucinol
+A03AX14	Valethamate
+A03AX30	Trimethyldiphenylpropylamine
+A03B	Belladonna and derivatives, plain
+A03BA	Belladonna alkaloids, tertiary amines
+A03BA03	Hyoscyamine
+A03BB	Belladonna alkaloids, semisynthetic, quaternary ammonium compounds
+A03BB02	Methylatropine
+A03BB04	Fentonium
+A03BB05	Cimetropium bromide
+A03C	Antispasmodics in combination with psycholeptics
+A03CA	Synthetic anticholinergic agents in combination with psycholeptics
+A03CA01	Isopropamide and psycholeptics
+A03CA02	Clidinium and psycholeptics
+A03CA04	Otilonium bromide and psycholeptics
+A03CA08	Diphemanil and psycholeptics
+A03CA09	Pipenzolate and psycholeptics
+A03CA30	Emepronium and psycholeptics
+A03CB	Belladonna and derivatives in combination with psycholeptics
+A03CB01	Methylscopolamine and psycholeptics
+A03CB04	Homatropine methylbromide and psycholeptics
+A03D	Antispasmodics in combination with analgesics
+A03DA	Synthetic anticholinergic agents in combination with analgesics
+A03DA06	Trospium and analgesics
+A03DB	Belladonna and derivatives in combination with analgesics
+A03DB04	Butylscopolamine and analgesics
+A03F	Propulsives
+A03FA	Propulsives
+A03FA01	Metoclopramide
+A03FA02	Cisapride
+A03FA03	Domperidone
+A03FA04	Bromopride
+A03FA05	Alizapride
+A03FA06	Clebopride
+A03FA07	Itopride
+A03FA08	Cinitapride
+A04	Antiemetics and antinauseants
+A04A	Antiemetics and antinauseants
+A04AA	Serotonin (5ht3) antagonists
+A04AA01	Ondansetron
+A04AA02	Granisetron
+A04AA03	Tropisetron
+A04AA04	Dolasetron
+A04AA55	Palonosetron, combinations
+A04AD	Other antiemetics
+A04AD02	Cerium oxalate
+A04AD05	Metopimazine
+A04AD10	Dronabinol
+A04AD11	Nabilone
+A04AD12	Aprepitant
+A04AD13	Casopitant
+A04AD14	Rolapitant
+A04AD54	Chlorobutanol, combinations
+A05	Bile and liver therapy
+A05A	Bile therapy
+A05AA	Bile acids and derivatives
+A05AA01	Chenodeoxycholic acid
+A05AA02	Ursodeoxycholic acid
+A05AA03	Cholic acid
+A05AA04	Obeticholic acid
+A05AB	Preparations for biliary tract therapy
+A05AB01	Nicotinyl methylamide
+A05AX	Other drugs for bile therapy
+A05AX01	Piprozolin
+A05AX02	Hymecromone
+A05AX03	Cyclobutyrol
+A05B	Liver therapy, lipotropics
+A05BA	Liver therapy
+A05BA01	Arginine glutamate
+A05BA04	Citiolone
+A05BA05	Epomediol
+A05BA06	Ornithine oxoglurate
+A05BA07	Tidiacic arginine
+A05BA08	Glycyrrhizic acid
+A06	Drugs for constipation
+A06A	Drugs for constipation
+A06AA	Softeners, emollients
+A06AA01	Liquid paraffin
+A06AB	Contact laxatives
+A06AB01	Oxyphenisatine
+A06AB04	Phenolphthalein
+A06AB05	Castor oil
+A06AB08	Sodium picosulfate
+A06AB09	Bisoxatin
+A06AB52	Bisacodyl, combinations
+A06AB53	Dantron, combinations
+A06AB56	Senna glycosides, combinations
+A06AC	Bulk-forming laxatives
+A06AC06	Methylcellulose
+A06AC08	Polycarbophil calcium
+A06AC51	Ispaghula, combinations
+A06AD	Osmotically acting laxatives
+A06AD03	Magnesium peroxide
+A06AD04	Magnesium sulfate
+A06AD12	Lactitol
+A06AD13	Sodium sulfate
+A06AD14	Pentaerithrityl
+A06AD15	Macrogol
+A06AD21	Sodium tartrate
+A06AD61	Lactulose, combinations
+A06AG	Enemas
+A06AG11	Sodium lauryl sulfoacetate, incl. combinations
+A06AH	Peripheral opioid receptor antagonists
+A06AH01	Methylnaltrexone bromide
+A06AH02	Alvimopan
+A06AH03	Naloxegol
+A06AH04	Naloxone
+A06AH05	Naldemedine
+A06AX	Other drugs for constipation
+A06AX01	Glycerol
+A06AX03	Lubiprostone
+A06AX04	Linaclotide
+A06AX05	Prucalopride
+A06AX06	Tegaserod
+A06AX07	Plecanatide
+A07	Antidiarrheals, intestinal antiinflammatory/antiinfective agents
+A07A	Intestinal antiinfectives
+A07AA	Antibiotics
+A07AA06	Paromomycin
+A07AA11	Rifaximin
+A07AA12	Fidaxomicin
+A07AA51	Neomycin, combinations
+A07AB	Sulfonamides
+A07AB03	Sulfaguanidine
+A07AB04	Succinylsulfathiazole
+A07AC	Imidazole derivatives
+A07AC01	Miconazole
+A07AX	Other intestinal antiinfectives
+A07AX03	Nifuroxazide
+A07AX04	Nifurzide
+A07B	Intestinal adsorbents
+A07BA	Charcoal preparations
+A07BA51	Medicinal charcoal, combinations
+A07BC	Other intestinal adsorbents
+A07BC01	Pectin
+A07BC02	Kaolin
+A07BC05	Diosmectite
+A07BC54	Attapulgite, combinations
+A07D	Antipropulsives
+A07DA	Antipropulsives
+A07DA01	Diphenoxylate
+A07DA02	Opium
+A07DA03	Loperamide
+A07DA04	Difenoxin
+A07DA05	Loperamide oxide
+A07DA06	Eluxadoline
+A07DA52	Morphine, combinations
+A07E	Intestinal antiinflammatory agents
+A07EA	Corticosteroids acting locally
+A07EA03	Prednisone
+A07EC	Aminosalicylic acid and similar agents
+A07EC01	Sulfasalazine
+A07EC02	Mesalazine
+A07EC03	Olsalazine
+A07EC04	Balsalazide
+A07X	Other antidiarrheals
+A07XA	Other antidiarrheals
+A07XA04	Racecadotril
+A07XA06	Crofelemer
+A08	Antiobesity preparations, excl. diet products
+A08A	Antiobesity preparations, excl. diet products
+A08AA	Centrally acting antiobesity products
+A08AA01	Phentermine
+A08AA02	Fenfluramine
+A08AA03	Amfepramone
+A08AA04	Dexfenfluramine
+A08AA05	Mazindol
+A08AA06	Etilamfetamine
+A08AA07	Cathine
+A08AA08	Clobenzorex
+A08AA09	Mefenorex
+A08AA10	Sibutramine
+A08AA11	Lorcaserin
+A08AA62	Bupropion and naltrexone
+A08AB	Peripherally acting antiobesity products
+A08AB01	Orlistat
+A08AX	Other antiobesity drugs
+A08AX01	Rimonabant
+A09	Digestives, incl. enzymes
+A09A	Digestives, incl. enzymes
+A09AA	Enzyme preparations
+A09AA02	Multienzymes (lipase, protease etc.)
+A09AA04	Tilactase
+A09AB	Acid preparations
+A09AB01	Glutamic acid hydrochloride
+A09AB04	Citric acid
+A09AC	Enzyme and acid preparations, combinations
+A09AC01	Pepsin and acid preparations
+A10	Drugs used in diabetes
+A10A	Insulins and analogues
+A10AB	Insulins and analogues for injection, fast-acting
+A10AB06	Insulin glulisine
+A10AC	Insulins and analogues for injection, intermediate-acting
+A10AC01	Insulin (human)
+A10AC03	Insulin (pork)
+A10AC04	Insulin lispro
+A10AD	Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting
+A10AD02	Insulin (beef)
+A10AD06	Insulin degludec and insulin aspart
+A10AE	Insulins and analogues for injection, long-acting
+A10AE05	Insulin detemir
+A10AE54	Insulin glargine and lixisenatide
+A10AE56	Insulin degludec and liraglutide
+A10B	Blood glucose lowering drugs, excl. insulins
+A10BA	Biguanides
+A10BA01	Phenformin
+A10BA03	Buformin
+A10BB	Sulfonylureas
+A10BB01	Glibenclamide
+A10BB02	Chlorpropamide
+A10BB04	Glibornuride
+A10BB05	Tolazamide
+A10BB06	Carbutamide
+A10BB07	Glipizide
+A10BB08	Gliquidone
+A10BB09	Gliclazide
+A10BB10	Metahexamide
+A10BB11	Glisoxepide
+A10BB31	Acetohexamide
+A10BC	Sulfonamides (heterocyclic)
+A10BC01	Glymidine
+A10BD	Combinations of oral blood glucose lowering drugs
+A10BD04	Glimepiride and rosiglitazone
+A10BD09	Pioglitazone and alogliptin
+A10BD13	Metformin and alogliptin
+A10BD14	Metformin and repaglinide
+A10BD16	Metformin and canagliflozin
+A10BD17	Metformin and acarbose
+A10BD19	Linagliptin and empagliflozin
+A10BD21	Saxagliptin and dapagliflozin
+A10BD23	Metformin and ertugliflozin
+A10BF	Alpha glucosidase inhibitors
+A10BF02	Miglitol
+A10BF03	Voglibose
+A10BG	Thiazolidinediones
+A10BG01	Troglitazone
+A10BH	Dipeptidyl peptidase 4 (dpp-4) inhibitors
+A10BH02	Vildagliptin
+A10BH05	Linagliptin
+A10BH06	Gemigliptin
+A10BH07	Evogliptin
+A10BH51	Sitagliptin and simvastatin
+A10BJ	Glucagon-like peptide-1 (glp-1) analogues
+A10BJ01	Exenatide
+A10BJ04	Albiglutide
+A10BJ05	Dulaglutide
+A10BJ06	Semaglutide
+A10BK	Sodium-glucose co-transporter 2 (sglt2) inhibitors
+A10BK01	Dapagliflozin
+A10BK05	Ipragliflozin
+A10BX	Other blood glucose lowering drugs, excl. insulins
+A10BX01	Guar gum
+A10BX03	Nateglinide
+A10BX05	Pramlintide
+A10BX06	Benfluorex
+A10BX08	Mitiglinide
+A10X	Other drugs used in diabetes
+A10XA	Aldose reductase inhibitors
+A10XA01	Tolrestat
+A11	Vitamins
+A11C	Vitamin a and d, incl. combinations of the two
+A11CA	Vitamin a, plain
+A11CA02	Betacarotene
+A11CC	Vitamin d and analogues
+A11CC01	Ergocalciferol
+A11CC02	Dihydrotachysterol
+A11CC03	Alfacalcidol
+A11CC06	Calcifediol
+A11D	Vitamin b1, plain and in combination with vitamin b6 and b12
+A11DA	Vitamin b1, plain
+A11DA01	Thiamine (vit b1)
+A11DA02	Sulbutiamine
+A11DA03	Benfotiamine
+A11H	Other plain vitamin preparations
+A11HA	Other plain vitamin preparations
+A11HA01	Nicotinamide
+A11HA03	Tocopherol (vit e)
+A11HA04	Riboflavin (vit b2)
+A11HA05	Biotin
+A11HA06	Pyridoxal phosphate
+A11HA07	Inositol
+A11HA08	Tocofersolan
+A11HA32	Pantethine
+A12	Mineral supplements
+A12A	Calcium
+A12AA	Calcium
+A12AA01	Calcium phosphate
+A12AA02	Calcium glubionate
+A12AA03	Calcium gluconate
+A12AA05	Calcium lactate
+A12AA06	Calcium lactate gluconate
+A12AA07	Calcium chloride
+A12AA10	Calcium glucoheptonate
+A12AA11	Calcium pangamate
+A12AA13	Calcium citrate
+A12AA30	Calcium laevulate
+A12B	Potassium
+A12BA	Potassium
+A12BA02	Potassium citrate
+A12BA04	Potassium hydrogencarbonate
+A12BA05	Potassium gluconate
+A12BA51	Potassium chloride, combinations
+A12C	Other mineral supplements
+A12CC	Magnesium
+A12CC01	Magnesium chloride
+A12CC03	Magnesium gluconate
+A12CC05	Magnesium aspartate
+A12CC06	Magnesium lactate
+A12CC07	Magnesium levulinate
+A12CC08	Magnesium pidolate
+A12CC09	Magnesium orotate
+A12CD	Fluoride
+A12CD02	Sodium monofluorophosphate
+A12CE	Selenium
+A12CE01	Sodium selenate
+A12CE02	Sodium selenite
+A14	Anabolic agents for systemic use
+A14A	Anabolic steroids
+A14AA	Androstan derivatives
+A14AA01	Androstanolone
+A14AA02	Stanozolol
+A14AA03	Metandienone
+A14AA04	Metenolone
+A14AA05	Oxymetholone
+A14AA06	Quinbolone
+A14AA08	Oxandrolone
+A14AA09	Norethandrolone
+A14AB	Estren derivatives
+A14AB02	Ethylestrenol
+A14AB03	Oxabolone cipionate
+A16	Other alimentary tract and metabolism products
+A16A	Other alimentary tract and metabolism products
+A16AA	Amino acids and derivatives
+A16AA01	Levocarnitine
+A16AA02	Ademetionine
+A16AA03	Glutamine
+A16AA04	Mercaptamine
+A16AA05	Carglumic acid
+A16AA06	Betaine
+A16AA07	Metreleptin
+A16AB	Enzymes
+A16AB01	Alglucerase
+A16AB02	Imiglucerase
+A16AB03	Agalsidase alfa
+A16AB05	Laronidase
+A16AB06	Sacrosidase
+A16AB07	Alglucosidase alfa
+A16AB08	Galsulfase
+A16AB09	Idursulfase
+A16AB10	Velaglucerase alfa
+A16AB11	Taliglucerase alfa
+A16AB12	Elosulfase alfa
+A16AB13	Asfotase alfa
+A16AB14	Sebelipase alfa
+A16AB15	Velmanase alfa
+A16AB17	Cerliponase alfa
+A16AB18	Vestronidase alfa
+A16AX	Various alimentary tract and metabolism products
+A16AX01	Thioctic acid
+A16AX02	Anethole trithione
+A16AX03	Sodium phenylbutyrate
+A16AX04	Nitisinone
+A16AX06	Miglustat
+A16AX07	Sapropterin
+A16AX08	Teduglutide
+A16AX09	Glycerol phenylbutyrate
+A16AX10	Eliglustat
+A16AX11	Sodium benzoate
+A16AX12	Trientine
+A16AX13	Uridine triacetate
+A16AX14	Migalastat
+A16AX15	Telotristat
+B	Blood and blood forming organs
+B01	Antithrombotic agents
+B01A	Antithrombotic agents
+B01AA	Vitamin k antagonists
+B01AA01	Dicoumarol
+B01AA02	Phenindione
+B01AA03	Warfarin
+B01AA04	Phenprocoumon
+B01AA07	Acenocoumarol
+B01AA08	Ethyl biscoumacetate
+B01AA09	Clorindione
+B01AA10	Diphenadione
+B01AA11	Tioclomarol
+B01AA12	Fluindione
+B01AB	Heparin group
+B01AB02	Antithrombin iii
+B01AB04	Dalteparin
+B01AB05	Enoxaparin
+B01AB06	Nadroparin
+B01AB07	Parnaparin
+B01AB08	Reviparin
+B01AB09	Danaparoid
+B01AB10	Tinzaparin
+B01AB11	Sulodexide
+B01AB12	Bemiparin
+B01AB51	Heparin, combinations
+B01AC	Platelet aggregation inhibitors excl. heparin
+B01AC01	Ditazole
+B01AC02	Cloricromen
+B01AC03	Picotamide
+B01AC04	Clopidogrel
+B01AC05	Ticlopidine
+B01AC06	Acetylsalicylic acid
+B01AC07	Dipyridamole
+B01AC09	Epoprostenol
+B01AC10	Indobufen
+B01AC11	Iloprost
+B01AC13	Abciximab
+B01AC16	Eptifibatide
+B01AC17	Tirofiban
+B01AC18	Triflusal
+B01AC19	Beraprost
+B01AC21	Treprostinil
+B01AC22	Prasugrel
+B01AC23	Cilostazol
+B01AC24	Ticagrelor
+B01AC25	Cangrelor
+B01AC26	Vorapaxar
+B01AC27	Selexipag
+B01AD	Enzymes
+B01AD01	Streptokinase
+B01AD02	Alteplase
+B01AD03	Anistreplase
+B01AD04	Urokinase
+B01AD05	Fibrinolysin
+B01AD06	Brinase
+B01AD07	Reteplase
+B01AD08	Saruplase
+B01AD09	Ancrod
+B01AD10	Drotrecogin alfa (activated)
+B01AD11	Tenecteplase
+B01AD12	Protein c
+B01AE	Direct thrombin inhibitors
+B01AE01	Desirudin
+B01AE02	Lepirudin
+B01AE03	Argatroban
+B01AE04	Melagatran
+B01AE05	Ximelagatran
+B01AE06	Bivalirudin
+B01AE07	Dabigatran etexilate
+B01AF	Direct factor xa inhibitors
+B01AF01	Rivaroxaban
+B01AF02	Apixaban
+B01AF03	Edoxaban
+B01AX	Other antithrombotic agents
+B01AX01	Defibrotide
+B01AX05	Fondaparinux
+B01AX07	Caplacizumab
+B02	Antihemorrhagics
+B02A	Antifibrinolytics
+B02AA	Amino acids
+B02AA01	Aminocaproic acid
+B02AA02	Tranexamic acid
+B02AA03	Aminomethylbenzoic acid
+B02AB	Proteinase inhibitors
+B02AB01	Aprotinin
+B02AB02	Alfa1 antitrypsin
+B02AB04	Camostat
+B02B	Vitamin k and other hemostatics
+B02BA	Vitamin k
+B02BA01	Phytomenadione
+B02BA02	Menadione
+B02BB	Fibrinogen
+B02BB01	Fibrinogen, human
+B02BC	Local hemostatics
+B02BC02	Oxidized cellulose
+B02BC03	Tetragalacturonic acid hydroxymethylester
+B02BC06	Thrombin
+B02BC08	Calcium alginate
+B02BD	Blood coagulation factors
+B02BD02	Coagulation factor viii
+B02BD03	Factor viii inhibitor bypassing activity
+B02BD06	Von willebrand factor and coagulation factor viii in combination
+B02BD08	Coagulation factor viia
+B02BD11	Catridecacog
+B02BD13	Coagulation factor x
+B02BD14	Susoctocog alfa
+B02BX	Other systemic hemostatics
+B02BX01	Etamsylate
+B02BX02	Carbazochrome
+B02BX03	Batroxobin
+B02BX04	Romiplostim
+B02BX05	Eltrombopag
+B02BX06	Emicizumab
+B02BX07	Lusutrombopag
+B02BX08	Avatrombopag
+B02BX09	Fostamatinib
+B03	Antianemic preparations
+B03A	Iron preparations
+B03AA	Iron bivalent, oral preparations
+B03AA01	Ferrous glycine sulfate
+B03AA02	Ferrous fumarate
+B03AA03	Ferrous gluconate
+B03AA04	Ferrous carbonate
+B03AA05	Ferrous chloride
+B03AA06	Ferrous succinate
+B03AA08	Ferrous tartrate
+B03AA09	Ferrous aspartate
+B03AA10	Ferrous ascorbate
+B03AB	Iron trivalent, oral preparations
+B03AB01	Ferric sodium citrate
+B03AB02	Saccharated iron oxide
+B03AB03	Sodium feredetate
+B03AB04	Ferric hydroxide
+B03AB10	Ferric maltol
+B03AE	Iron in other combinations
+B03AE02	Iron, multivitamins and folic acid
+B03B	Vitamin b12 and folic acid
+B03BA	Vitamin b12 (cyanocobalamin and analogues)
+B03BA01	Cyanocobalamin
+B03BA04	Cobamamide
+B03BA05	Mecobalamin
+B03BA53	Hydroxocobalamin, combinations
+B03X	Other antianemic preparations
+B03XA	Other antianemic preparations
+B03XA01	Erythropoietin
+B03XA02	Darbepoetin alfa
+B03XA03	Methoxy polyethylene glycol-epoetin beta
+B03XA04	Peginesatide
+B03XA05	Roxadustat
+B05	Blood substitutes and perfusion solutions
+B05A	Blood and related products
+B05AA	Blood substitutes and plasma protein fractions
+B05AA05	Dextran
+B05AA07	Hydroxyethylstarch
+B05AA08	Hemoglobin crosfumaril
+B05AA09	Hemoglobin raffimer
+B05B	I.v. solutions
+B05BA	Solutions for parenteral nutrition
+B05BA01	Amino acids
+B05C	Irrigating solutions
+B05CA	Antiinfectives
+B05CA05	Taurolidine
+B05CA06	Mandelic acid
+B05CA07	Noxytiolin
+B05CB	Salt solutions
+B05CB02	Sodium citrate
+B05CB03	Magnesium citrate
+B05CB04	Sodium bicarbonate
+B05CX	Other irrigating solutions
+B05CX02	Sorbitol
+B05CX03	Glycine
+B05CX04	Mannitol
+B05X	I.v. solution additives
+B05XA	Electrolyte solutions
+B05XA03	Sodium chloride
+B05XA04	Ammonium chloride
+B05XA08	Sodium acetate
+B05XA10	Magnesium phosphate
+B05XA13	Hydrochloric acid
+B05XA14	Sodium glycerophosphate
+B05XA15	Potassium lactate
+B05XA17	Potassium acetate
+B05XB	Amino acids
+B05XB01	Arginine hydrochloride
+B05XB02	Alanyl glutamine
+B05XB03	Lysine
+B05XX	Other i.v. solution additives
+B05XX02	Trometamol
+B06	Other hematological agents
+B06A	Other hematological agents
+B06AA	Enzymes
+B06AA02	Fibrinolysin and desoxyribonuclease
+B06AA03	Hyaluronidase
+B06AA07	Trypsin
+B06AB	Heme products
+B06AB01	Hemin
+B06AC	Drugs used in hereditary angioedema
+B06AC01	C1-inhibitor, plasma derived
+B06AC02	Icatibant
+B06AC03	Ecallantide
+B06AC04	Conestat alfa
+B06AC05	Lanadelumab
+C	Cardiovascular system
+C01	Cardiac therapy
+C01A	Cardiac glycosides
+C01AA	Digitalis glycosides
+C01AA01	Acetyldigitoxin
+C01AA02	Acetyldigoxin
+C01AA04	Digitoxin
+C01AA05	Digoxin
+C01AA06	Lanatoside c
+C01AA07	Deslanoside
+C01AA08	Metildigoxin
+C01AA09	Gitoformate
+C01AB	Scilla glycosides
+C01AB51	Proscillaridin, combinations
+C01AC	Strophanthus glycosides
+C01AC01	G-strophanthin
+C01AC03	Cymarin
+C01AX	Other cardiac glycosides
+C01AX02	Peruvoside
+C01B	Antiarrhythmics, class i and iii
+C01BA	Antiarrhythmics, class ia
+C01BA01	Quinidine
+C01BA02	Procainamide
+C01BA03	Disopyramide
+C01BA04	Sparteine
+C01BA05	Ajmaline
+C01BA08	Prajmaline
+C01BA12	Lorajmine
+C01BA13	Hydroquinidine
+C01BB	Antiarrhythmics, class ib
+C01BB02	Mexiletine
+C01BB03	Tocainide
+C01BB04	Aprindine
+C01BC	Antiarrhythmics, class ic
+C01BC03	Propafenone
+C01BC04	Flecainide
+C01BC07	Lorcainide
+C01BC08	Encainide
+C01BC09	Ethacizine
+C01BD	Antiarrhythmics, class iii
+C01BD01	Amiodarone
+C01BD02	Bretylium tosilate
+C01BD03	Bunaftine
+C01BD04	Dofetilide
+C01BD05	Ibutilide
+C01BD06	Tedisamil
+C01BD07	Dronedarone
+C01BG	Other antiarrhythmics, class i and iii
+C01BG01	Moracizine
+C01BG07	Cibenzoline
+C01BG11	Vernakalant
+C01C	Cardiac stimulants excl. cardiac glycosides
+C01CA	Adrenergic and dopaminergic agents
+C01CA02	Isoprenaline
+C01CA03	Norepinephrine
+C01CA04	Dopamine
+C01CA05	Norfenefrine
+C01CA07	Dobutamine
+C01CA09	Metaraminol
+C01CA10	Methoxamine
+C01CA11	Mephentermine
+C01CA12	Dimetofrine
+C01CA13	Prenalterol
+C01CA14	Dopexamine
+C01CA15	Gepefrine
+C01CA17	Midodrine
+C01CA18	Octopamine
+C01CA19	Fenoldopam
+C01CA21	Cafedrine
+C01CA22	Arbutamine
+C01CA23	Theodrenaline
+C01CA25	Amezinium metilsulfate
+C01CA27	Droxidopa
+C01CA51	Etilefrine, combinations
+C01CE	Phosphodiesterase inhibitors
+C01CE01	Amrinone
+C01CE02	Milrinone
+C01CE03	Enoximone
+C01CE04	Bucladesine
+C01CX	Other cardiac stimulants
+C01CX06	Angiotensinamide
+C01CX07	Xamoterol
+C01CX08	Levosimendan
+C01CX09	Angiotensin ii
+C01D	Vasodilators used in cardiac diseases
+C01DA	Organic nitrates
+C01DA02	Glyceryl trinitrate
+C01DA08	Isosorbide dinitrate
+C01DA09	Trolnitrate
+C01DA14	Isosorbide mononitrate
+C01DA38	Tenitramine
+C01DA54	Methylpropylpropanediol dinitrate, combinations
+C01DA55	Pentaerithrityl tetranitrate, combinations
+C01DA57	Propatylnitrate, combinations
+C01DA63	Eritrityl tetranitrate, combinations
+C01DB	Quinolone vasodilators
+C01DB01	Flosequinan
+C01DX	Other vasodilators used in cardiac diseases
+C01DX01	Itramin tosilate
+C01DX03	Oxyfedrine
+C01DX05	Carbocromen
+C01DX06	Hexobendine
+C01DX07	Etafenone
+C01DX08	Heptaminol
+C01DX09	Imolamine
+C01DX10	Dilazep
+C01DX11	Trapidil
+C01DX12	Molsidomine
+C01DX13	Efloxate
+C01DX14	Cinepazet
+C01DX15	Cloridarol
+C01DX16	Nicorandil
+C01DX18	Linsidomine
+C01DX19	Nesiritide
+C01DX21	Serelaxin
+C01DX52	Prenylamine, combinations
+C01DX54	Benziodarone, combinations
+C01E	Other cardiac preparations
+C01EA	Prostaglandins
+C01EA01	Alprostadil
+C01EB	Other cardiac preparations
+C01EB02	Camphora
+C01EB05	Creatinolfosfate
+C01EB06	Fosfocreatine
+C01EB07	Fructose 1,6-diphosphate
+C01EB09	Ubidecarenone
+C01EB10	Adenosine
+C01EB11	Tiracizine
+C01EB13	Acadesine
+C01EB15	Trimetazidine
+C01EB17	Ivabradine
+C01EB18	Ranolazine
+C01EB21	Regadenoson
+C01EB22	Meldonium
+C02	Antihypertensives
+C02A	Antiadrenergic agents, centrally acting
+C02AA	Rauwolfia alkaloids
+C02AA03	Combinations of rauwolfia alkaloids
+C02AA06	Methoserpidine
+C02AA07	Bietaserpine
+C02AC	Imidazoline receptor agonists
+C02AC02	Guanfacine
+C02AC04	Tolonidine
+C02AC05	Moxonidine
+C02AC06	Rilmenidine
+C02B	Antiadrenergic agents, ganglion-blocking
+C02BA	Sulfonium derivatives
+C02BA01	Trimetaphan
+C02BB	Secondary and tertiary amines
+C02BB01	Mecamylamine
+C02C	Antiadrenergic agents, peripherally acting
+C02CA	Alpha-adrenoreceptor antagonists
+C02CA02	Indoramin
+C02CA03	Trimazosin
+C02CA04	Doxazosin
+C02CA06	Urapidil
+C02CC	Guanidine derivatives
+C02CC01	Betanidine
+C02CC03	Guanoxan
+C02CC04	Debrisoquine
+C02CC05	Guanoclor
+C02CC06	Guanazodine
+C02CC07	Guanoxabenz
+C02D	Arteriolar smooth muscle, agents acting on
+C02DB	Hydrazinophthalazine derivatives
+C02DB02	Hydralazine
+C02DB03	Endralazine
+C02DB04	Cadralazine
+C02DD	Nitroferricyanide derivatives
+C02DD01	Nitroprusside
+C02DG	Guanidine derivatives
+C02DG01	Pinacidil
+C02K	Other antihypertensives
+C02KB	Tyrosine hydroxylase inhibitors
+C02KB01	Metirosine
+C02KD	Serotonin antagonists
+C02KD01	Ketanserin
+C02KX	Antihypertensives for pulmonary arterial hypertension
+C02KX02	Ambrisentan
+C02KX03	Sitaxentan
+C02KX04	Macitentan
+C02KX05	Riociguat
+C02L	Antihypertensives and diuretics in combination
+C02LA	Rauwolfia alkaloids and diuretics in combination
+C02LA03	Deserpidine and diuretics
+C02LA51	Reserpine and diuretics, combinations with other drugs
+C02LA52	Rescinnamine and diuretics, combinations with other drugs
+C02LE	Alpha-adrenoreceptor antagonists and diuretics
+C02LE01	Prazosin and diuretics
+C02LG	Hydrazinophthalazine derivatives and diuretics
+C02LG01	Dihydralazine and diuretics
+C02LL	Mao inhibitors and diuretics
+C02LL01	Pargyline and diuretics
+C03	Diuretics
+C03A	Low-ceiling diuretics, thiazides
+C03AA	Thiazides, plain
+C03AA02	Hydroflumethiazide
+C03AA05	Polythiazide
+C03AA08	Methyclothiazide
+C03AA13	Mebutizide
+C03AB	Thiazides and potassium in combination
+C03AB01	Bendroflumethiazide and potassium
+C03AB03	Hydrochlorothiazide and potassium
+C03AB04	Chlorothiazide and potassium
+C03AB07	Cyclopenthiazide and potassium
+C03B	Low-ceiling diuretics, excl. thiazides
+C03BA	Sulfonamides, plain
+C03BA02	Quinethazone
+C03BA10	Xipamide
+C03BA11	Indapamide
+C03BA12	Clorexolone
+C03BA13	Fenquizone
+C03BB	Sulfonamides and potassium in combination
+C03BB03	Clopamide and potassium
+C03BB05	Mefruside and potassium
+C03BB07	Clofenamide and potassium
+C03BC	Mercurial diuretics
+C03BC01	Mersalyl
+C03BD	Xanthine derivatives
+C03BD01	Theobromine
+C03BX	Other low-ceiling diuretics
+C03BX03	Cicletanine
+C03C	High-ceiling diuretics
+C03CA	Sulfonamides, plain
+C03CA03	Piretanide
+C03CA04	Torasemide
+C03CC	Aryloxyacetic acid derivatives
+C03CC01	Etacrynic acid
+C03CC02	Tienilic acid
+C03CD	Pyrazolone derivatives
+C03CD01	Muzolimine
+C03D	Potassium-sparing agents
+C03DA	Aldosterone antagonists
+C03DA01	Spironolactone
+C03DA02	Potassium canrenoate
+C03DA03	Canrenone
+C03DA04	Eplerenone
+C03DB	Other potassium-sparing agents
+C03DB01	Amiloride
+C03DB02	Triamterene
+C03E	Diuretics and potassium-sparing agents in combination
+C03EA	Low-ceiling diuretics and potassium-sparing agents
+C03EA03	Epitizide and potassium-sparing agents
+C03EA12	Metolazone and potassium-sparing agents
+C03EB	High-ceiling diuretics and potassium-sparing agents
+C03EB01	Furosemide and potassium-sparing agents
+C03X	Other diuretics
+C03XA	Vasopressin antagonists
+C03XA01	Tolvaptan
+C03XA02	Conivaptan
+C04	Peripheral vasodilators
+C04A	Peripheral vasodilators
+C04AA	2-amino-1-phenylethanol derivatives
+C04AA01	Isoxsuprine
+C04AA02	Buphenine
+C04AA31	Bamethan
+C04AC	Nicotinic acid and derivatives
+C04AC03	Inositol nicotinate
+C04AC07	Ciclonicate
+C04AD	Purine derivatives
+C04AD01	Pentifylline
+C04AD02	Xantinol nicotinate
+C04AD03	Pentoxifylline
+C04AD04	Etofylline nicotinate
+C04AE	Ergot alkaloids
+C04AE02	Nicergoline
+C04AE54	Dihydroergocristine, combinations
+C04AF	Enzymes
+C04AF01	Kallidinogenase
+C04AX	Other peripheral vasodilators
+C04AX01	Cyclandelate
+C04AX02	Phenoxybenzamine
+C04AX07	Vincamine
+C04AX10	Moxisylyte
+C04AX11	Bencyclane
+C04AX17	Vinburnine
+C04AX19	Suloctidil
+C04AX20	Buflomedil
+C04AX21	Naftidrofuryl
+C04AX23	Butalamine
+C04AX24	Visnadine
+C04AX26	Cetiedil
+C04AX27	Cinepazide
+C04AX28	Ifenprodil
+C04AX30	Azapetine
+C04AX32	Fasudil
+C05	Vasoprotectives
+C05A	Agents for treatment of hemorrhoids and anal fissures for topical use
+C05AA	Corticosteroids
+C05AA11	Fluocinonide
+C05AD	Local anesthetics
+C05AD02	Tetracaine
+C05AD03	Benzocaine
+C05AD06	Oxetacaine
+C05AX	Other agents for treatment of hemorrhoids and anal fissures for topical use
+C05AX04	Zinc preparations
+C05B	Antivaricose therapy
+C05BA	Heparins or heparinoids for topical use
+C05BA02	Sodium apolate
+C05BA04	Pentosan polysulfate sodium
+C05BB	Sclerosing agents for local injection
+C05BB01	Monoethanolamine oleate
+C05BB02	Polidocanol
+C05BB03	Invert sugar
+C05BB04	Sodium tetradecyl sulfate
+C05BB05	Phenol
+C05BX	Other sclerosing agents
+C05BX01	Calcium dobesilate
+C05C	Capillary stabilizing agents
+C05CA	Bioflavonoids
+C05CA01	Rutoside
+C05CA02	Monoxerutin
+C05CA03	Diosmin
+C05CA04	Troxerutin
+C05CA05	Hidrosmin
+C05CX	Other capillary stabilizing agents
+C05CX01	Tribenoside
+C05CX02	Naftazone
+C05CX03	Hippocastani semen
+C07	Beta blocking agents
+C07A	Beta blocking agents
+C07AA	Beta blocking agents, non-selective
+C07AA01	Alprenolol
+C07AA06	Timolol
+C07AA07	Sotalol
+C07AA14	Mepindolol
+C07AA16	Tertatolol
+C07AA17	Bopindolol
+C07AA19	Bupranolol
+C07AA27	Cloranolol
+C07AB	Beta blocking agents, selective
+C07AB01	Practolol
+C07AB04	Acebutolol
+C07AB06	Bevantolol
+C07AB08	Celiprolol
+C07AB09	Esmolol
+C07AB10	Epanolol
+C07AB11	S-atenolol
+C07AB13	Talinolol
+C07AB14	Landiolol
+C07AG	Alpha and beta blocking agents
+C07AG02	Carvedilol
+C07B	Beta blocking agents and thiazides
+C07BA	Beta blocking agents, non-selective, and thiazides
+C07BA02	Oxprenolol and thiazides
+C07BA12	Nadolol and thiazides
+C07BG	Alpha and beta blocking agents and thiazides
+C07BG01	Labetalol and thiazides
+C07C	Beta blocking agents and other diuretics
+C07CA	Beta blocking agents, non-selective, and other diuretics
+C07CA03	Pindolol and other diuretics
+C07CA23	Penbutolol and other diuretics
+C07CB	Beta blocking agents, selective, and other diuretics
+C07CB53	Atenolol and other diuretics, combinations
+C07F	Beta blocking agents, other combinations
+C07FB	Beta blocking agents and calcium channel blockers
+C07FB02	Metoprolol and felodipine
+C07FX	Beta blocking agents, other combinations
+C07FX01	Propranolol and other combinations
+C07FX04	Bisoprolol and acetylsalicylic acid
+C08	Calcium channel blockers
+C08C	Selective calcium channel blockers with mainly vascular effects
+C08CA	Dihydropyridine derivatives
+C08CA03	Isradipine
+C08CA04	Nicardipine
+C08CA06	Nimodipine
+C08CA07	Nisoldipine
+C08CA08	Nitrendipine
+C08CA09	Lacidipine
+C08CA10	Nilvadipine
+C08CA11	Manidipine
+C08CA12	Barnidipine
+C08CA14	Cilnidipine
+C08CA15	Benidipine
+C08CA16	Clevidipine
+C08CA55	Nifedipine, combinations
+C08CX	Other selective calcium channel blockers with mainly vascular effects
+C08CX01	Mibefradil
+C08D	Selective calcium channel blockers with direct cardiac effects
+C08DA	Phenylalkylamine derivatives
+C08DA02	Gallopamil
+C08DB	Benzothiazepine derivatives
+C08DB01	Diltiazem
+C08E	Non-selective calcium channel blockers
+C08EA	Phenylalkylamine derivatives
+C08EA01	Fendiline
+C08EA02	Bepridil
+C08EX	Other non-selective calcium channel blockers
+C08EX01	Lidoflazine
+C08EX02	Perhexiline
+C09	Agents acting on the renin-angiotensin system
+C09A	Ace inhibitors, plain
+C09AA	Ace inhibitors, plain
+C09AA01	Captopril
+C09AA06	Quinapril
+C09AA10	Trandolapril
+C09AA11	Spirapril
+C09AA12	Delapril
+C09AA13	Moexipril
+C09AA14	Temocapril
+C09AA16	Imidapril
+C09B	Ace inhibitors, combinations
+C09BA	Ace inhibitors and diuretics
+C09BA02	Enalapril and diuretics
+C09BA03	Lisinopril and diuretics
+C09BA07	Benazepril and diuretics
+C09BA08	Cilazapril and diuretics
+C09BA09	Fosinopril and diuretics
+C09BA15	Zofenopril and diuretics
+C09BB	Ace inhibitors and calcium channel blockers
+C09BB10	Trandolapril and verapamil
+C09BX	Ace inhibitors, other combinations
+C09BX01	Perindopril, amlodipine and indapamide
+C09BX03	Ramipril, amlodipine and hydrochlorothiazide
+C09C	Angiotensin ii receptor blockers (arbs), plain
+C09CA	Angiotensin ii receptor blockers (arbs), plain
+C09CA01	Losartan
+C09CA04	Irbesartan
+C09CA05	Tasosartan
+C09CA09	Azilsartan medoxomil
+C09D	Angiotensin ii receptor blockers (arbs), combinations
+C09DA	Angiotensin ii receptor blockers (arbs) and diuretics
+C09DA02	Eprosartan and diuretics
+C09DA08	Olmesartan medoxomil and diuretics
+C09DA10	Fimasartan and diuretics
+C09DB	Angiotensin ii receptor blockers (arbs) and calcium channel blockers
+C09DB04	Telmisartan and amlodipine
+C09DB07	Candesartan and amlodipine
+C09DB08	Valsartan and lercanidipine
+C09DX	Angiotensin ii receptor blockers (arbs), other combinations
+C09DX04	Valsartan and sacubitril
+C09DX05	Valsartan and nebivolol
+C09X	Other agents acting on the renin-angiotensin system
+C09XA	Renin-inhibitors
+C09XA01	Remikiren
+C09XA54	Aliskiren, amlodipine and hydrochlorothiazide
+C10	Lipid modifying agents
+C10A	Lipid modifying agents, plain
+C10AA	Hmg coa reductase inhibitors
+C10AA02	Lovastatin
+C10AA03	Pravastatin
+C10AA04	Fluvastatin
+C10AA06	Cerivastatin
+C10AA08	Pitavastatin
+C10AB	Fibrates
+C10AB01	Clofibrate
+C10AB02	Bezafibrate
+C10AB03	Aluminium clofibrate
+C10AB04	Gemfibrozil
+C10AB06	Simfibrate
+C10AB07	Ronifibrate
+C10AB08	Ciprofibrate
+C10AB09	Etofibrate
+C10AB10	Clofibride
+C10AB11	Choline fenofibrate
+C10AC	Bile acid sequestrants
+C10AC01	Colestyramine
+C10AC02	Colestipol
+C10AC04	Colesevelam
+C10AD	Nicotinic acid and derivatives
+C10AD01	Niceritrol
+C10AD02	Nicotinic acid
+C10AD03	Nicofuranose
+C10AD04	Aluminium nicotinate
+C10AD05	Nicotinyl alcohol (pyridylcarbinol)
+C10AD06	Acipimox
+C10AX	Other lipid modifying agents
+C10AX01	Dextrothyroxine
+C10AX02	Probucol
+C10AX03	Tiadenol
+C10AX05	Meglutol
+C10AX10	Alipogene tiparvovec
+C10AX11	Mipomersen
+C10AX12	Lomitapide
+C10AX13	Evolocumab
+C10AX14	Alirocumab
+C10B	Lipid modifying agents, combinations
+C10BA	Combinations of various lipid modifying agents
+C10BA02	Simvastatin and ezetimibe
+C10BA03	Pravastatin and fenofibrate
+C10BX	Lipid modifying agents in combination with other drugs
+C10BX10	Rosuvastatin and valsartan
+C10BX15	Atorvastatin and perindopril
+D	Dermatologicals
+D01	Antifungals for dermatological use
+D01A	Antifungals for topical use
+D01AA	Antibiotics
+D01AA01	Nystatin
+D01AA04	Pecilocin
+D01AA07	Pyrrolnitrin
+D01AC	Imidazole and triazole derivatives
+D01AC01	Clotrimazole
+D01AC04	Chlormidazole
+D01AC06	Tiabendazole
+D01AC09	Sulconazole
+D01AC10	Bifonazole
+D01AC11	Oxiconazole
+D01AC12	Fenticonazole
+D01AC17	Eberconazole
+D01AC18	Luliconazole
+D01AC19	Efinaconazole
+D01AE	Other antifungals for topical use
+D01AE01	Bromochlorosalicylanilide
+D01AE03	Tribromometacresol
+D01AE04	Undecylenic acid
+D01AE06	2-(4-chlorphenoxy)-ethanol
+D01AE07	Chlorphenesin
+D01AE08	Ticlatone
+D01AE09	Sulbentine
+D01AE10	Ethyl hydroxybenzoate
+D01AE11	Haloprogin
+D01AE12	Salicylic acid
+D01AE13	Selenium sulfide
+D01AE14	Ciclopirox
+D01AE15	Terbinafine
+D01AE16	Amorolfine
+D01AE17	Dimazole
+D01AE18	Tolnaftate
+D01AE19	Tolciclate
+D01AE22	Naftifine
+D01AE23	Butenafine
+D01AE24	Tavaborole
+D01B	Antifungals for systemic use
+D01BA	Antifungals for systemic use
+D01BA01	Griseofulvin
+D02	Emollients and protectives
+D02A	Emollients and protectives
+D02AE	Carbamide products
+D02AE01	Carbamide
+D02B	Protectives against uv-radiation
+D02BA	Protectives against uv-radiation for topical use
+D02BA01	Aminobenzoic acid
+D02BA02	Octinoxate
+D02BB	Protectives against uv-radiation for systemic use
+D02BB02	Afamelanotide
+D03	Preparations for treatment of wounds and ulcers
+D03A	Cicatrizants
+D03AX	Other cicatrizants
+D03AX02	Dextranomer
+D03AX03	Dexpanthenol
+D03AX04	Calcium pantothenate
+D03AX06	Becaplermin
+D03AX10	Enoxolone
+D03AX11	Sodium chlorite
+D03AX12	Trolamine
+D03B	Enzymes
+D03BA	Proteolytic enzymes
+D03BA02	Collagenase
+D03BA03	Bromelains
+D04	Antipruritics, incl. antihistamines, anesthetics, etc.
+D04A	Antipruritics, incl. antihistamines, anesthetics, etc.
+D04AA	Antihistamines for topical use
+D04AA01	Thonzylamine
+D04AA02	Mepyramine
+D04AA09	Chloropyramine
+D04AA12	Tolpropamine
+D04AA14	Clemastine
+D04AA32	Diphenhydramine
+D04AA34	Chlorphenoxamine
+D04AB	Anesthetics for topical use
+D04AB02	Cinchocaine
+D04AB05	Quinisocaine
+D04AB07	Pramocaine
+D05	Antipsoriatics
+D05A	Antipsoriatics for topical use
+D05AC	Antracen derivatives
+D05AC01	Dithranol
+D05AX	Other antipsoriatics for topical use
+D05AX01	Fumaric acid
+D05AX03	Calcitriol
+D05AX04	Tacalcitol
+D05AX05	Tazarotene
+D05AX52	Calcipotriol, combinations
+D05B	Antipsoriatics for systemic use
+D05BA	Psoralens for systemic use
+D05BA01	Trioxysalen
+D05BA02	Methoxsalen
+D05BA03	Bergapten
+D05BB	Retinoids for treatment of psoriasis
+D05BB01	Etretinate
+D05BB02	Acitretin
+D06	Antibiotics and chemotherapeutics for dermatological use
+D06A	Antibiotics for topical use
+D06AA	Tetracycline and derivatives
+D06AA02	Chlortetracycline
+D06AX	Other antibiotics for topical use
+D06AX10	Virginiamycin
+D06AX13	Retapamulin
+D06AX14	Ozenoxacin
+D06B	Chemotherapeutics for topical use
+D06BA	Sulfonamides
+D06BA01	Silver sulfadiazine
+D06BB	Antivirals
+D06BB04	Podophyllotoxin
+D06BB06	Penciclovir
+D06BB08	Ibacitabine
+D06BB09	Edoxudine
+D06BB10	Imiquimod
+D06BB11	Docosanol
+D06BB12	Sinecatechins
+D06BX	Other chemotherapeutics
+D06BX02	Ingenol mebutate
+D07	Corticosteroids, dermatological preparations
+D07A	Corticosteroids, plain
+D07AB	Corticosteroids, moderately potent (group ii)
+D07AB01	Clobetasone
+D07AB02	Hydrocortisone butyrate
+D07AB03	Flumetasone
+D07AB04	Fluocortin
+D07AB05	Fluperolone
+D07AB09	Triamcinolone
+D07AB10	Alclometasone
+D07AB11	Hydrocortisone buteprate
+D07AB21	Clocortolone
+D07AC	Corticosteroids, potent (group iii)
+D07AC02	Fluclorolone
+D07AC03	Desoximetasone
+D07AC05	Fluocortolone
+D07AC06	Diflucortolone
+D07AC09	Budesonide
+D07AC10	Diflorasone
+D07AC11	Amcinonide
+D07AC12	Halometasone
+D07AC13	Mometasone
+D07AC14	Methylprednisolone aceponate
+D07AC16	Hydrocortisone aceponate
+D07AC18	Prednicarbate
+D07AC19	Difluprednate
+D07AC21	Ulobetasol
+D07AD	Corticosteroids, very potent (group iv)
+D07AD01	Clobetasol
+D07AD02	Halcinonide
+D07C	Corticosteroids, combinations with antibiotics
+D07CC	Corticosteroids, potent, combinations with antibiotics
+D07CC03	Fludroxycortide and antibiotics
+D07CC04	Beclometasone and antibiotics
+D07X	Corticosteroids, other combinations
+D07XB	Corticosteroids, moderately potent, other combinations
+D07XB03	Fluprednidene
+D07XB04	Fluorometholone
+D08	Antiseptics and disinfectants
+D08A	Antiseptics and disinfectants
+D08AA	Acridine derivatives
+D08AA02	Aminoacridine
+D08AA03	Euflavine
+D08AC	Biguanides and amidines
+D08AC01	Dibrompropamidine
+D08AC05	Polihexanide
+D08AE	Phenol and derivatives
+D08AE01	Hexachlorophene
+D08AE02	Policresulen
+D08AE04	Triclosan
+D08AE05	Chloroxylenol
+D08AE06	Biphenylol
+D08AF	Nitrofuran derivatives
+D08AF01	Nitrofural
+D08AG	Iodine products
+D08AG03	Iodine
+D08AG04	Diiodohydroxypropane
+D08AH	Quinoline derivatives
+D08AH01	Dequalinium
+D08AJ	Quaternary ammonium compounds
+D08AJ03	Cetylpyridinium
+D08AJ04	Cetrimide
+D08AJ06	Didecyldimethylammonium chloride
+D08AJ10	Decamethoxine
+D08AJ58	Benzethonium chloride, combinations
+D08AK	Mercurial products
+D08AK01	Mercuric amidochloride
+D08AK02	Phenylmercuric borate
+D08AK03	Mercuric chloride
+D08AK04	Merbromin
+D08AK06	Thiomersal
+D08AK30	Mercuric iodide
+D08AL	Silver compounds
+D08AL01	Silver nitrate
+D08AL30	Silver
+D08AX	Other antiseptics and disinfectants
+D08AX01	Hydrogen peroxide
+D08AX02	Eosin
+D08AX03	Propanol
+D08AX04	Tosylchloramide sodium
+D08AX05	Isopropanol
+D08AX07	Sodium hypochlorite
+D09	Medicated dressings
+D09A	Medicated dressings
+D09AA	Medicated dressings with antiinfectives
+D09AA01	Framycetin
+D09AA04	Phenylmercuric nitrate
+D09AA05	Benzododecinium
+D09AA08	Aluminium chlorohydrate
+D09AA13	Iodoform
+D10	Anti-acne preparations
+D10A	Anti-acne preparations for topical use
+D10AA	Corticosteroids, combinations for treatment of acne
+D10AA02	Methylprednisolone
+D10AB	Preparations containing sulfur
+D10AB01	Bithionol
+D10AB02	Sulfur
+D10AB03	Tioxolone
+D10AD	Retinoids for topical use in acne
+D10AD03	Adapalene
+D10AD04	Isotretinoin
+D10AD05	Motretinide
+D10AD06	Trifarotene
+D10AD51	Tretinoin, combinations
+D10AE	Peroxides
+D10AE01	Benzoyl peroxide
+D10AF	Antiinfectives for treatment of acne
+D10AF01	Clindamycin
+D10AF04	Meclocycline
+D10AF05	Nadifloxacin
+D10AF06	Sulfacetamide
+D10AX	Other anti-acne preparations for topical use
+D10AX01	Aluminium chloride
+D10AX02	Resorcinol
+D10AX03	Azelaic acid
+D10AX04	Aluminium oxide
+D10AX05	Dapsone
+D11	Other dermatological preparations
+D11A	Other dermatological preparations
+D11AC	Medicated shampoos
+D11AC09	Xenysalate
+D11AH	Agents for dermatitis, excluding corticosteroids
+D11AH01	Tacrolimus
+D11AH02	Pimecrolimus
+D11AH04	Alitretinoin
+D11AH05	Dupilumab
+D11AH06	Crisaborole
+D11AX	Other dermatologicals
+D11AX01	Minoxidil
+D11AX02	Gamolenic acid
+D11AX04	Lithium succinate
+D11AX06	Mequinol
+D11AX10	Finasteride
+D11AX11	Hydroquinone
+D11AX12	Pyrithione zinc
+D11AX13	Monobenzone
+D11AX21	Brimonidine
+D11AX24	Deoxycholic acid
+G	Genito urinary system and sex hormones
+G01	Gynecological antiinfectives and antiseptics
+G01A	Antiinfectives and antiseptics, excl. combinations with corticosteroids
+G01AA	Antibiotics
+G01AA02	Natamycin
+G01AA03	Amphotericin b
+G01AA04	Candicidin
+G01AA08	Carfecillin
+G01AA11	Pentamycin
+G01AB	Arsenic compounds
+G01AB01	Acetarsol
+G01AC	Quinoline derivatives
+G01AC01	Diiodohydroxyquinoline
+G01AC02	Clioquinol
+G01AD	Organic acids
+G01AD01	Lactic acid
+G01AD03	Ascorbic acid
+G01AE	Sulfonamides
+G01AE01	Sulfatolamide
+G01AE10	Combinations of sulfonamides
+G01AF	Imidazole derivatives
+G01AF05	Econazole
+G01AF06	Ornidazole
+G01AF07	Isoconazole
+G01AF11	Ketoconazole
+G01AF13	Azanidazole
+G01AF14	Propenidazole
+G01AF16	Omoconazole
+G01AF18	Flutrimazole
+G01AF19	Sertaconazole
+G01AF20	Combinations of imidazole derivatives
+G01AG	Triazole derivatives
+G01AG02	Terconazole
+G01AX	Other antiinfectives and antiseptics
+G01AX01	Clodantoin
+G01AX02	Inosine
+G01AX05	Nifuratel
+G01AX06	Furazolidone
+G01AX09	Methylrosaniline
+G01AX11	Povidone-iodine
+G01AX13	Protiofate
+G01AX15	Copper usnate
+G01AX16	Hexetidine
+G01AX17	Dapivirine
+G01AX66	Octenidine, combinations
+G02	Other gynecologicals
+G02A	Uterotonics
+G02AB	Ergot alkaloids
+G02AB03	Ergometrine
+G02AC	Ergot alkaloids and oxytocin incl. analogues, in combination
+G02AC01	Methylergometrine and oxytocin
+G02AD	Prostaglandins
+G02AD01	Dinoprost
+G02AD02	Dinoprostone
+G02AD03	Gemeprost
+G02AD04	Carboprost
+G02AD05	Sulprostone
+G02AD06	Misoprostol
+G02C	Other gynecologicals
+G02CA	Sympathomimetics, labour repressants
+G02CA01	Ritodrine
+G02CB	Prolactine inhibitors
+G02CB02	Lisuride
+G02CB04	Quinagolide
+G02CB05	Metergoline
+G02CB06	Terguride
+G02CC	Antiinflammatory products for vaginal administration
+G02CC01	Ibuprofen
+G02CC02	Naproxen
+G02CX	Other gynecologicals
+G02CX01	Atosiban
+G02CX02	Flibanserin
+G02CX03	Agni casti fructus
+G02CX04	Cimicifugae rhizoma
+G03	Sex hormones and modulators of the genital system
+G03A	Hormonal contraceptives for systemic use
+G03AA	Progestogens and estrogens, fixed combinations
+G03AA05	Norethisterone and ethinylestradiol
+G03AA10	Gestodene and ethinylestradiol
+G03AA11	Norgestimate and ethinylestradiol
+G03AA13	Norelgestromin and ethinylestradiol
+G03AA14	Nomegestrol and estradiol
+G03AA15	Chlormadinone and ethinylestradiol
+G03AB	Progestogens and estrogens, sequential preparations
+G03AB02	Lynestrenol and ethinylestradiol
+G03AB03	Levonorgestrel and ethinylestradiol
+G03AB08	Dienogest and estradiol
+G03AC	Progestogens
+G03AC04	Quingestanol
+G03AC07	Norgestrienone
+G03AC08	Etonogestrel
+G03AC09	Desogestrel
+G03AC10	Drospirenone
+G03AD	Emergency contraceptives
+G03AD02	Ulipristal
+G03B	Androgens
+G03BA	3-oxoandrosten (4) derivatives
+G03BA01	Fluoxymesterone
+G03BA02	Methyltestosterone
+G03BA03	Testosterone
+G03BB	5-androstanon (3) derivatives
+G03BB01	Mesterolone
+G03C	Estrogens
+G03CA	Natural and semisynthetic estrogens, plain
+G03CA06	Chlorotrianisene
+G03CA09	Promestriene
+G03CA57	Conjugated estrogens
+G03CB	Synthetic estrogens, plain
+G03CB01	Dienestrol
+G03CB04	Moxestrol
+G03CC	Estrogens, combinations with other drugs
+G03CC03	Methallenestril
+G03CC04	Estrone
+G03CC06	Estriol
+G03CX	Other estrogens
+G03CX01	Tibolone
+G03D	Progestogens
+G03DA	Pregnen (4) derivatives
+G03DA02	Medroxyprogesterone
+G03DB	Pregnadien derivatives
+G03DB05	Demegestone
+G03DB07	Promegestone
+G03DC	Estren derivatives
+G03DC01	Allylestrenol
+G03DC06	Etynodiol
+G03DC31	Methylestrenolone
+G03E	Androgens and female sex hormones in combination
+G03EA	Androgens and estrogens
+G03EA03	Prasterone and estrogen
+G03F	Progestogens and estrogens in combination
+G03FA	Progestogens and estrogens, fixed combinations
+G03FA02	Hydroxyprogesterone and estrogen
+G03FA04	Progesterone and estrogen
+G03FA09	Noretynodrel and estrogen
+G03FA10	Norgestrel and estrogen
+G03FA14	Dydrogesterone and estrogen
+G03FA16	Trimegestone and estrogen
+G03FB	Progestogens and estrogens, sequential preparations
+G03FB04	Megestrol and estrogen
+G03FB07	Medrogestone and estrogen
+G03G	Gonadotropins and other ovulation stimulants
+G03GA	Gonadotropins
+G03GA01	Chorionic gonadotrophin
+G03GA02	Human menopausal gonadotrophin
+G03GA04	Urofollitropin
+G03GA07	Lutropin alfa
+G03GA08	Choriogonadotropin alfa
+G03GA09	Corifollitropin alfa
+G03GA10	Follitropin delta
+G03GB	Ovulation stimulants, synthetic
+G03GB01	Cyclofenil
+G03GB02	Clomifene
+G03GB03	Epimestrol
+G03H	Antiandrogens
+G03HB	Antiandrogens and estrogens
+G03HB01	Cyproterone and estrogen
+G03X	Other sex hormones and modulators of the genital system
+G03XA	Antigonadotropins and similar agents
+G03XA01	Danazol
+G03XA02	Gestrinone
+G03XB	Progesterone receptor modulators
+G03XB01	Mifepristone
+G03XC	Selective estrogen receptor modulators
+G03XC01	Raloxifene
+G03XC02	Bazedoxifene
+G03XC03	Lasofoxifene
+G03XC04	Ormeloxifene
+G03XC05	Ospemifene
+G04	Urologicals
+G04B	Urologicals
+G04BD	Drugs for urinary frequency and incontinence
+G04BD02	Flavoxate
+G04BD03	Meladrazine
+G04BD04	Oxybutynin
+G04BD05	Terodiline
+G04BD06	Propiverine
+G04BD07	Tolterodine
+G04BD08	Solifenacin
+G04BD10	Darifenacin
+G04BD11	Fesoterodine
+G04BD12	Mirabegron
+G04BD13	Desfesoterodine
+G04BE	Drugs used in erectile dysfunction
+G04BE02	Papaverine
+G04BE04	Yohimbine
+G04BE07	Apomorphine
+G04BE08	Tadalafil
+G04BE09	Vardenafil
+G04BE10	Avanafil
+G04BE11	Udenafil
+G04BX	Other urologicals
+G04BX01	Magnesium hydroxide
+G04BX03	Acetohydroxamic acid
+G04BX06	Phenazopyridine
+G04BX10	Succinimide
+G04BX12	Phenyl salicylate
+G04BX14	Dapoxetine
+G04BX16	Tiopronin
+G04C	Drugs used in benign prostatic hypertrophy
+G04CA	Alpha-adrenoreceptor antagonists
+G04CA01	Alfuzosin
+G04CA03	Terazosin
+G04CA04	Silodosin
+G04CA52	Tamsulosin and dutasteride
+G04CB	Testosterone-5-alpha reductase inhibitors
+G04CB02	Dutasteride
+G04CX	Other drugs used in benign prostatic hypertrophy
+G04CX03	Mepartricin
+H	Systemic hormonal preparations, excl. sex hormones and insulins
+H01	Pituitary and hypothalamic hormones and analogues
+H01A	Anterior pituitary lobe hormones and analogues
+H01AA	Acth
+H01AA01	Corticotropin
+H01AA02	Tetracosactide
+H01AB	Thyrotropin
+H01AB01	Thyrotropin alfa
+H01AC	Somatropin and somatropin agonists
+H01AC01	Somatropin
+H01AC02	Somatrem
+H01AC03	Mecasermin
+H01AC05	Mecasermin rinfabate
+H01AC06	Tesamorelin
+H01AX	Other anterior pituitary lobe hormones and analogues
+H01AX01	Pegvisomant
+H01B	Posterior pituitary lobe hormones
+H01BA	Vasopressin and analogues
+H01BA02	Desmopressin
+H01BA03	Lypressin
+H01BA04	Terlipressin
+H01BA05	Ornipressin
+H01BB	Oxytocin and analogues
+H01BB01	Demoxytocin
+H01BB03	Carbetocin
+H01C	Hypothalamic hormones
+H01CA	Gonadotropin-releasing hormones
+H01CA02	Nafarelin
+H01CB	Somatostatin and analogues
+H01CB01	Somatostatin
+H01CB02	Octreotide
+H01CB03	Lanreotide
+H01CB04	Vapreotide
+H01CB05	Pasireotide
+H01CC	Anti-gonadotropin-releasing hormones
+H01CC01	Ganirelix
+H01CC02	Cetrorelix
+H02	Corticosteroids for systemic use
+H02A	Corticosteroids for systemic use, plain
+H02AA	Mineralocorticoids
+H02AA01	Aldosterone
+H02AB	Glucocorticoids
+H02AB05	Paramethasone
+H02AB10	Cortisone
+H02AB11	Prednylidene
+H02AB12	Rimexolone
+H02AB13	Deflazacort
+H02AB14	Cloprednol
+H02AB15	Meprednisone
+H02AB17	Cortivazol
+H02C	Antiadrenal preparations
+H02CA	Anticorticosteroids
+H02CA01	Trilostane
+H03	Thyroid therapy
+H03A	Thyroid preparations
+H03AA	Thyroid hormones
+H03AA01	Levothyroxine sodium
+H03AA03	Combinations of levothyroxine and liothyronine
+H03AA04	Tiratricol
+H03B	Antithyroid preparations
+H03BA	Thiouracils
+H03BA01	Methylthiouracil
+H03BA02	Propylthiouracil
+H03BA03	Benzylthiouracil
+H03BB	Sulfur-containing imidazole derivatives
+H03BB01	Carbimazole
+H03BB52	Thiamazole, combinations
+H03BC	Perchlorates
+H03BC01	Potassium perchlorate
+H03BX	Other antithyroid preparations
+H03BX02	Dibromotyrosine
+H04	Pancreatic hormones
+H04A	Glycogenolytic hormones
+H04AA	Glycogenolytic hormones
+H04AA01	Glucagon
+H05	Calcium homeostasis
+H05A	Parathyroid hormones and analogues
+H05AA	Parathyroid hormones and analogues
+H05AA02	Teriparatide
+H05AA03	Parathyroid hormone
+H05B	Anti-parathyroid agents
+H05BA	Calcitonin preparations
+H05BA01	Calcitonin (salmon synthetic)
+H05BA02	Calcitonin (pork natural)
+H05BA03	Calcitonin (human synthetic)
+H05BA04	Elcatonin
+H05BX	Other anti-parathyroid agents
+H05BX01	Cinacalcet
+H05BX02	Paricalcitol
+H05BX03	Doxercalciferol
+H05BX04	Etelcalcetide
+J	Antiinfectives for systemic use
+J01	Antibacterials for systemic use
+J01A	Tetracyclines
+J01AA	Tetracyclines
+J01AA01	Demeclocycline
+J01AA02	Doxycycline
+J01AA04	Lymecycline
+J01AA05	Metacycline
+J01AA06	Oxytetracycline
+J01AA08	Minocycline
+J01AA10	Penimepicycline
+J01AA11	Clomocycline
+J01AA13	Eravacycline
+J01AA20	Combinations of tetracyclines
+J01B	Amphenicols
+J01BA	Amphenicols
+J01BA02	Thiamphenicol
+J01C	Beta-lactam antibacterials, penicillins
+J01CA	Penicillins with extended spectrum
+J01CA07	Epicillin
+J01CA11	Mecillinam
+J01CA12	Piperacillin
+J01CA14	Metampicillin
+J01CA15	Talampicillin
+J01CA16	Sulbenicillin
+J01CA18	Hetacillin
+J01CA19	Aspoxicillin
+J01CE	Beta-lactamase sensitive penicillins
+J01CE03	Propicillin
+J01CE04	Azidocillin
+J01CE06	Penamecillin
+J01CE07	Clometocillin
+J01CG	Beta-lactamase inhibitors
+J01CG01	Sulbactam
+J01CG02	Tazobactam
+J01CR	Combinations of penicillins, incl. beta-lactamase inhibitors
+J01CR50	Combinations of penicillins
+J01D	Other beta-lactam antibacterials
+J01DB	First-generation cephalosporins
+J01DB01	Cefalexin
+J01DB02	Cefaloridine
+J01DB03	Cefalotin
+J01DB04	Cefazolin
+J01DB05	Cefadroxil
+J01DB06	Cefazedone
+J01DB07	Cefatrizine
+J01DB08	Cefapirin
+J01DB09	Cefradine
+J01DB10	Cefacetrile
+J01DB11	Cefroxadine
+J01DB12	Ceftezole
+J01DC	Second-generation cephalosporins
+J01DC01	Cefoxitin
+J01DC03	Cefamandole
+J01DC04	Cefaclor
+J01DC05	Cefotetan
+J01DC06	Cefonicid
+J01DC07	Cefotiam
+J01DC08	Loracarbef
+J01DC09	Cefmetazole
+J01DC10	Cefprozil
+J01DC11	Ceforanide
+J01DC12	Cefminox
+J01DC13	Cefbuperazone
+J01DC14	Flomoxef
+J01DD	Third-generation cephalosporins
+J01DD01	Cefotaxime
+J01DD02	Ceftazidime
+J01DD03	Cefsulodin
+J01DD04	Ceftriaxone
+J01DD05	Cefmenoxime
+J01DD06	Latamoxef
+J01DD07	Ceftizoxime
+J01DD08	Cefixime
+J01DD09	Cefodizime
+J01DD10	Cefetamet
+J01DD11	Cefpiramide
+J01DD12	Cefoperazone
+J01DD13	Cefpodoxime
+J01DD14	Ceftibuten
+J01DD15	Cefdinir
+J01DD16	Cefditoren
+J01DD17	Cefcapene
+J01DE	Fourth-generation cephalosporins
+J01DE01	Cefepime
+J01DE02	Cefpirome
+J01DE03	Cefozopran
+J01DF	Monobactams
+J01DF01	Aztreonam
+J01DF02	Carumonam
+J01DH	Carbapenems
+J01DH02	Meropenem
+J01DH03	Ertapenem
+J01DH04	Doripenem
+J01DH05	Biapenem
+J01DH51	Imipenem and cilastatin
+J01DH52	Meropenem and vaborbactam
+J01DI	Other cephalosporins and penems
+J01DI01	Ceftobiprole medocaril
+J01DI02	Ceftaroline fosamil
+J01DI03	Faropenem
+J01E	Sulfonamides and trimethoprim
+J01EA	Trimethoprim and derivatives
+J01EA02	Brodimoprim
+J01EA03	Iclaprim
+J01EB	Short-acting sulfonamides
+J01EB01	Sulfaisodimidine
+J01EB02	Sulfamethizole
+J01EB03	Sulfadimidine
+J01EB05	Sulfafurazole
+J01EB07	Sulfathiazole
+J01EB08	Sulfathiourea
+J01ED	Long-acting sulfonamides
+J01ED01	Sulfadimethoxine
+J01ED03	Sulfametomidine
+J01ED04	Sulfametoxydiazine
+J01ED05	Sulfamethoxypyridazine
+J01ED06	Sulfaperin
+J01ED07	Sulfamerazine
+J01ED09	Sulfamazone
+J01EE	Combinations of sulfonamides and trimethoprim, incl. derivatives
+J01EE04	Sulfamoxole and trimethoprim
+J01EE06	Sulfadiazine and tetroxoprim
+J01F	Macrolides, lincosamides and streptogramins
+J01FA	Macrolides
+J01FA01	Erythromycin
+J01FA03	Midecamycin
+J01FA06	Roxithromycin
+J01FA07	Josamycin
+J01FA08	Troleandomycin
+J01FA11	Miocamycin
+J01FA12	Rokitamycin
+J01FA13	Dirithromycin
+J01FA14	Flurithromycin
+J01FA15	Telithromycin
+J01FA16	Solithromycin
+J01FF	Lincosamides
+J01FF02	Lincomycin
+J01FG	Streptogramins
+J01FG01	Pristinamycin
+J01G	Aminoglycoside antibacterials
+J01GB	Other aminoglycosides
+J01GB08	Sisomicin
+J01GB09	Dibekacin
+J01GB10	Ribostamycin
+J01GB11	Isepamicin
+J01GB12	Arbekacin
+J01GB13	Bekanamycin
+J01M	Quinolone antibacterials
+J01MA	Fluoroquinolones
+J01MA01	Ofloxacin
+J01MA03	Pefloxacin
+J01MA04	Enoxacin
+J01MA05	Temafloxacin
+J01MA08	Fleroxacin
+J01MA09	Sparfloxacin
+J01MA10	Rufloxacin
+J01MA11	Grepafloxacin
+J01MA12	Levofloxacin
+J01MA13	Trovafloxacin
+J01MA15	Gemifloxacin
+J01MA17	Prulifloxacin
+J01MA18	Pazufloxacin
+J01MA19	Garenoxacin
+J01MA21	Sitafloxacin
+J01MA23	Delafloxacin
+J01MB	Other quinolones
+J01MB01	Rosoxacin
+J01MB02	Nalidixic acid
+J01MB03	Piromidic acid
+J01MB04	Pipemidic acid
+J01MB05	Oxolinic acid
+J01MB06	Cinoxacin
+J01MB07	Flumequine
+J01MB08	Nemonoxacin
+J01R	Combinations of antibacterials
+J01RA	Combinations of antibacterials
+J01RA04	Spiramycin and metronidazole
+J01RA07	Azithromycin, fluconazole and secnidazole
+J01RA08	Tetracycline and oleandomycin
+J01RA11	Ciprofloxacin and tinidazole
+J01RA13	Norfloxacin and tinidazole
+J01X	Other antibacterials
+J01XA	Glycopeptide antibacterials
+J01XA01	Vancomycin
+J01XA02	Teicoplanin
+J01XA03	Telavancin
+J01XA04	Dalbavancin
+J01XA05	Oritavancin
+J01XB	Polymyxins
+J01XB01	Colistin
+J01XE	Nitrofuran derivatives
+J01XE01	Nitrofurantoin
+J01XE02	Nifurtoinol
+J01XE03	Furazidin
+J01XX	Other antibacterials
+J01XX01	Fosfomycin
+J01XX02	Xibornol
+J01XX03	Clofoctol
+J01XX04	Spectinomycin
+J01XX05	Methenamine
+J01XX07	Nitroxoline
+J01XX08	Linezolid
+J01XX09	Daptomycin
+J01XX10	Bacitracin
+J01XX11	Tedizolid
+J02	Antimycotics for systemic use
+J02A	Antimycotics for systemic use
+J02AA	Antibiotics
+J02AA02	Hachimycin
+J02AC	Triazole derivatives
+J02AC02	Itraconazole
+J02AC03	Voriconazole
+J02AC04	Posaconazole
+J02AC05	Isavuconazole
+J02AX	Other antimycotics for systemic use
+J02AX01	Flucytosine
+J02AX04	Caspofungin
+J02AX05	Micafungin
+J02AX06	Anidulafungin
+J04	Antimycobacterials
+J04A	Drugs for treatment of tuberculosis
+J04AA	Aminosalicylic acid and derivatives
+J04AA02	Sodium aminosalicylate
+J04AB	Antibiotics
+J04AB01	Cycloserine
+J04AB04	Rifabutin
+J04AB05	Rifapentine
+J04AB30	Capreomycin
+J04AD	Thiocarbamide derivatives
+J04AD01	Protionamide
+J04AD02	Tiocarlide
+J04AD03	Ethionamide
+J04AK	Other drugs for treatment of tuberculosis
+J04AK01	Pyrazinamide
+J04AK02	Ethambutol
+J04AK03	Terizidone
+J04AK04	Morinamide
+J04AK05	Bedaquiline
+J04AK06	Delamanid
+J04AM	Combinations of drugs for treatment of tuberculosis
+J04AM01	Streptomycin and isoniazid
+J04AM02	Rifampicin and isoniazid
+J04AM04	Thioacetazone and isoniazid
+J04AM08	Isoniazid, sulfamethoxazole, trimethoprim and pyridoxine
+J04B	Drugs for treatment of lepra
+J04BA	Drugs for treatment of lepra
+J04BA01	Clofazimine
+J04BA03	Aldesulfone sodium
+J05	Antivirals for systemic use
+J05A	Direct acting antivirals
+J05AA	Thiosemicarbazones
+J05AA01	Metisazone
+J05AB	Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+J05AB01	Aciclovir
+J05AB02	Idoxuridine
+J05AB03	Vidarabine
+J05AB06	Ganciclovir
+J05AB09	Famciclovir
+J05AB11	Valaciclovir
+J05AB12	Cidofovir
+J05AB14	Valganciclovir
+J05AB15	Brivudine
+J05AC	Cyclic amines
+J05AC02	Rimantadine
+J05AC03	Tromantadine
+J05AD	Phosphonic acid derivatives
+J05AD01	Foscarnet
+J05AE	Protease inhibitors
+J05AE01	Saquinavir
+J05AE02	Indinavir
+J05AE04	Nelfinavir
+J05AE05	Amprenavir
+J05AE07	Fosamprenavir
+J05AE08	Atazanavir
+J05AE09	Tipranavir
+J05AF	Nucleoside and nucleotide reverse transcriptase inhibitors
+J05AF02	Didanosine
+J05AF03	Zalcitabine
+J05AF04	Stavudine
+J05AF08	Adefovir dipivoxil
+J05AF10	Entecavir
+J05AF11	Telbivudine
+J05AF12	Clevudine
+J05AG	Non-nucleoside reverse transcriptase inhibitors
+J05AG01	Nevirapine
+J05AG02	Delavirdine
+J05AG04	Etravirine
+J05AH	Neuraminidase inhibitors
+J05AH01	Zanamivir
+J05AH02	Oseltamivir
+J05AH03	Peramivir
+J05AP	Antivirals for treatment of hcv infections
+J05AP01	Ribavirin
+J05AP02	Telaprevir
+J05AP03	Boceprevir
+J05AP04	Faldaprevir
+J05AP06	Asunaprevir
+J05AP07	Daclatasvir
+J05AP08	Sofosbuvir
+J05AP09	Dasabuvir
+J05AP51	Sofosbuvir and ledipasvir
+J05AP53	Ombitasvir, paritaprevir and ritonavir
+J05AP54	Elbasvir and grazoprevir
+J05AP55	Sofosbuvir and velpatasvir
+J05AP56	Sofosbuvir, velpatasvir and voxilaprevir
+J05AP57	Glecaprevir and pibrentasvir
+J05AR	Antivirals for treatment of hiv infections, combinations
+J05AR02	Lamivudine and abacavir
+J05AR04	Zidovudine, lamivudine and abacavir
+J05AR06	Emtricitabine, tenofovir disoproxil and efavirenz
+J05AR09	Emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat
+J05AR10	Lopinavir and ritonavir
+J05AR13	Lamivudine, abacavir and dolutegravir
+J05AR14	Darunavir and cobicistat
+J05AR16	Lamivudine and raltegravir
+J05AR19	Emtricitabine, tenofovir alafenamide and rilpivirine
+J05AR20	Emtricitabine, tenofovir alafenamide and bictegravir
+J05AR24	Lamivudine, tenofovir disoproxil and doravirine
+J05AX	Other antivirals
+J05AX01	Moroxydine
+J05AX02	Lysozyme
+J05AX05	Inosine pranobex
+J05AX06	Pleconaril
+J05AX07	Enfuvirtide
+J05AX09	Maraviroc
+J05AX10	Maribavir
+J05AX13	Umifenovir
+J05AX18	Letermovir
+J05AX23	Ibalizumab
+J06	Immune sera and immunoglobulins
+J06A	Immune sera
+J06AA	Immune sera
+J06AA06	Rabies serum
+J06B	Immunoglobulins
+J06BB	Specific immunoglobulins
+J06BB02	Tetanus immunoglobulin
+J06BB09	Cytomegalovirus immunoglobulin
+J06BB16	Palivizumab
+J06BB17	Motavizumab
+J06BB18	Raxibacumab
+J06BB21	Bezlotoxumab
+J06BB22	Obiltoxaximab
+J06BC	Other immunoglobulins
+J06BC01	Nebacumab
+J07	Vaccines
+J07A	Bacterial vaccines
+J07AF	Diphtheria vaccines
+J07AF01	Diphtheria toxoid
+J07AM	Tetanus vaccines
+J07AM51	Tetanus toxoid, combinations with diphtheria toxoid
+J07B	Viral vaccines
+J07BH	Rota virus diarrhea vaccines
+J07BH01	Rota virus, live attenuated
+J07BJ	Rubella vaccines
+J07BJ01	Rubella, live attenuated
+J07BL	Yellow fever vaccines
+J07BL01	Yellow fever, live attenuated
+L	Antineoplastic and immunomodulating agents
+L01	Antineoplastic agents
+L01A	Alkylating agents
+L01AA	Nitrogen mustard analogues
+L01AA01	Cyclophosphamide
+L01AA02	Chlorambucil
+L01AA03	Melphalan
+L01AA05	Chlormethine
+L01AA06	Ifosfamide
+L01AA07	Trofosfamide
+L01AA08	Prednimustine
+L01AA09	Bendamustine
+L01AB	Alkyl sulfonates
+L01AB01	Busulfan
+L01AB02	Treosulfan
+L01AB03	Mannosulfan
+L01AC	Ethylene imines
+L01AC01	Thiotepa
+L01AC02	Triaziquone
+L01AC03	Carboquone
+L01AD	Nitrosoureas
+L01AD01	Carmustine
+L01AD02	Lomustine
+L01AD03	Semustine
+L01AD04	Streptozocin
+L01AD05	Fotemustine
+L01AD06	Nimustine
+L01AD07	Ranimustine
+L01AD08	Uramustine
+L01AG	Epoxides
+L01AG01	Etoglucid
+L01AX	Other alkylating agents
+L01AX01	Mitobronitol
+L01AX02	Pipobroman
+L01AX03	Temozolomide
+L01AX04	Dacarbazine
+L01B	Antimetabolites
+L01BA	Folic acid analogues
+L01BA03	Raltitrexed
+L01BA04	Pemetrexed
+L01BA05	Pralatrexate
+L01BB	Purine analogues
+L01BB02	Mercaptopurine
+L01BB03	Tioguanine
+L01BB05	Fludarabine
+L01BB06	Clofarabine
+L01BB07	Nelarabine
+L01BC	Pyrimidine analogues
+L01BC01	Cytarabine
+L01BC03	Tegafur
+L01BC04	Carmofur
+L01BC05	Gemcitabine
+L01BC06	Capecitabine
+L01BC07	Azacitidine
+L01BC08	Decitabine
+L01BC09	Floxuridine
+L01BC52	Fluorouracil, combinations
+L01BC59	Trifluridine, combinations
+L01C	Plant alkaloids and other natural products
+L01CA	Vinca alkaloids and analogues
+L01CA01	Vinblastine
+L01CA02	Vincristine
+L01CA03	Vindesine
+L01CA04	Vinorelbine
+L01CA05	Vinflunine
+L01CA06	Vintafolide
+L01CB	Podophyllotoxin derivatives
+L01CB01	Etoposide
+L01CB02	Teniposide
+L01CC	Colchicine derivatives
+L01CC01	Demecolcine
+L01CD	Taxanes
+L01CD01	Paclitaxel
+L01CD02	Docetaxel
+L01CD03	Paclitaxel poliglumex
+L01CD04	Cabazitaxel
+L01CX	Other plant alkaloids and natural products
+L01CX01	Trabectedin
+L01D	Cytotoxic antibiotics and related substances
+L01DA	Actinomycines
+L01DA01	Dactinomycin
+L01DB	Anthracyclines and related substances
+L01DB01	Doxorubicin
+L01DB02	Daunorubicin
+L01DB03	Epirubicin
+L01DB04	Aclarubicin
+L01DB05	Zorubicin
+L01DB06	Idarubicin
+L01DB07	Mitoxantrone
+L01DB08	Pirarubicin
+L01DB09	Valrubicin
+L01DB10	Amrubicin
+L01DB11	Pixantrone
+L01DC	Other cytotoxic antibiotics
+L01DC01	Bleomycin
+L01DC02	Plicamycin
+L01DC03	Mitomycin
+L01DC04	Ixabepilone
+L01X	Other antineoplastic agents
+L01XA	Platinum compounds
+L01XA01	Cisplatin
+L01XA02	Carboplatin
+L01XA03	Oxaliplatin
+L01XA04	Satraplatin
+L01XB	Methylhydrazines
+L01XB01	Procarbazine
+L01XC	Monoclonal antibodies
+L01XC01	Edrecolomab
+L01XC02	Rituximab
+L01XC03	Trastuzumab
+L01XC05	Gemtuzumab ozogamicin
+L01XC06	Cetuximab
+L01XC07	Bevacizumab
+L01XC08	Panitumumab
+L01XC09	Catumaxomab
+L01XC10	Ofatumumab
+L01XC11	Ipilimumab
+L01XC12	Brentuximab vedotin
+L01XC13	Pertuzumab
+L01XC14	Trastuzumab emtansine
+L01XC15	Obinutuzumab
+L01XC16	Dinutuximab beta
+L01XC17	Nivolumab
+L01XC18	Pembrolizumab
+L01XC19	Blinatumomab
+L01XC21	Ramucirumab
+L01XC22	Necitumumab
+L01XC23	Elotuzumab
+L01XC24	Daratumumab
+L01XC25	Mogamulizumab
+L01XC26	Inotuzumab ozogamicin
+L01XC27	Olaratumab
+L01XC28	Durvalumab
+L01XC29	Bermekimab
+L01XC31	Avelumab
+L01XC32	Atezolizumab
+L01XD	Sensitizers used in photodynamic/radiation therapy
+L01XD01	Porfimer sodium
+L01XD03	Methyl aminolevulinate
+L01XD04	Aminolevulinic acid
+L01XD05	Temoporfin
+L01XD06	Efaproxiral
+L01XD07	Padeliporfin
+L01XX	Other antineoplastic agents
+L01XX01	Amsacrine
+L01XX02	Asparaginase
+L01XX03	Altretamine
+L01XX05	Hydroxycarbamide
+L01XX07	Lonidamine
+L01XX08	Pentostatin
+L01XX10	Masoprocol
+L01XX11	Estramustine
+L01XX16	Mitoguazone
+L01XX18	Tiazofurine
+L01XX23	Mitotane
+L01XX24	Pegaspargase
+L01XX27	Arsenic trioxide
+L01XX29	Denileukin diftitox
+L01XX35	Anagrelide
+L01XX36	Oblimersen
+L01XX37	Sitimagene ceradenovec
+L01XX40	Omacetaxine mepesuccinate
+L01XX41	Eribulin
+L01XX51	Talimogene laherparepvec
+L01XX52	Venetoclax
+L01XX53	Vosaroxin
+L01XX57	Plitidepsin
+L01XX58	Epacadostat
+L01XX59	Enasidenib
+L02	Endocrine therapy
+L02A	Hormones and related agents
+L02AA	Estrogens
+L02AA02	Polyestradiol phosphate
+L02AA04	Fosfestrol
+L02AB	Progestogens
+L02AB03	Gestonorone
+L02AE	Gonadotropin releasing hormone analogues
+L02AE01	Buserelin
+L02AE03	Goserelin
+L02AE04	Triptorelin
+L02AE05	Histrelin
+L02AE51	Leuprorelin and bicalutamide
+L02B	Hormone antagonists and related agents
+L02BA	Anti-estrogens
+L02BA01	Tamoxifen
+L02BA02	Toremifene
+L02BA03	Fulvestrant
+L02BB	Anti-androgens
+L02BB01	Flutamide
+L02BB02	Nilutamide
+L02BB03	Bicalutamide
+L02BB04	Enzalutamide
+L02BB05	Apalutamide
+L02BG	Aromatase inhibitors
+L02BG01	Aminoglutethimide
+L02BG02	Formestane
+L02BG03	Anastrozole
+L02BG04	Letrozole
+L02BG05	Vorozole
+L02BG06	Exemestane
+L02BX	Other hormone antagonists and related agents
+L02BX01	Abarelix
+L02BX02	Degarelix
+L02BX03	Abiraterone
+L03	Immunostimulants
+L03A	Immunostimulants
+L03AA	Colony stimulating factors
+L03AA02	Filgrastim
+L03AA03	Molgramostim
+L03AA09	Sargramostim
+L03AA10	Lenograstim
+L03AA12	Ancestim
+L03AA13	Pegfilgrastim
+L03AA14	Lipegfilgrastim
+L03AA15	Balugrastim
+L03AA17	Pegteograstim
+L03AB	Interferons
+L03AB04	Interferon alfa-2a
+L03AB05	Interferon alfa-2b
+L03AB06	Interferon alfa-n1
+L03AB07	Interferon beta-1a
+L03AB08	Interferon beta-1b
+L03AB09	Interferon alfacon-1
+L03AB10	Peginterferon alfa-2b
+L03AB11	Peginterferon alfa-2a
+L03AB12	Albinterferon alfa-2b
+L03AB13	Peginterferon beta-1a
+L03AB14	Cepeginterferon alfa-2b
+L03AB15	Ropeginterferon alfa-2b
+L03AC	Interleukins
+L03AC01	Aldesleukin
+L03AC02	Oprelvekin
+L03AX	Other immunostimulants
+L03AX01	Lentinan
+L03AX02	Roquinimex
+L03AX03	Bcg vaccine
+L03AX04	Pegademase
+L03AX05	Pidotimod
+L03AX09	Thymopentin
+L03AX11	Tasonermin
+L03AX13	Glatiramer acetate
+L03AX14	Histamine dihydrochloride
+L03AX15	Mifamurtide
+L03AX16	Plerixafor
+L03AX17	Sipuleucel-t
+L03AX18	Cridanimod
+L04	Immunosuppressants
+L04A	Immunosuppressants
+L04AA	Selective immunosuppressants
+L04AA02	Muromonab-cd3
+L04AA03	Antilymphocyte immunoglobulin (horse)
+L04AA04	Antithymocyte immunoglobulin (rabbit)
+L04AA06	Mycophenolic acid
+L04AA13	Leflunomide
+L04AA15	Alefacept
+L04AA19	Gusperimus
+L04AA21	Efalizumab
+L04AA22	Abetimus
+L04AA23	Natalizumab
+L04AA24	Abatacept
+L04AA25	Eculizumab
+L04AA26	Belimumab
+L04AA27	Fingolimod
+L04AA28	Belatacept
+L04AA29	Tofacitinib
+L04AA31	Teriflunomide
+L04AA32	Apremilast
+L04AA33	Vedolizumab
+L04AA34	Alemtuzumab
+L04AA35	Begelomab
+L04AA36	Ocrelizumab
+L04AA37	Baricitinib
+L04AA38	Ozanimod
+L04AA39	Emapalumab
+L04AA40	Cladribine
+L04AB	Tumor necrosis factor alpha (tnf-alpha) inhibitors
+L04AB01	Etanercept
+L04AB02	Infliximab
+L04AB03	Afelimomab
+L04AB04	Adalimumab
+L04AB05	Certolizumab pegol
+L04AB06	Golimumab
+L04AC	Interleukin inhibitors
+L04AC01	Daclizumab
+L04AC02	Basiliximab
+L04AC03	Anakinra
+L04AC04	Rilonacept
+L04AC05	Ustekinumab
+L04AC07	Tocilizumab
+L04AC08	Canakinumab
+L04AC09	Briakinumab
+L04AC10	Secukinumab
+L04AC11	Siltuximab
+L04AC12	Brodalumab
+L04AC13	Ixekizumab
+L04AC14	Sarilumab
+L04AC15	Sirukumab
+L04AC16	Guselkumab
+L04AC17	Tildrakizumab
+L04AD	Calcineurin inhibitors
+L04AD01	Ciclosporin
+L04AD03	Voclosporin
+L04AX	Other immunosuppressants
+L04AX01	Azathioprine
+L04AX02	Thalidomide
+L04AX03	Methotrexate
+L04AX04	Lenalidomide
+L04AX05	Pirfenidone
+L04AX06	Pomalidomide
+L04AX07	Dimethyl fumarate
+M	Musculo-skeletal system
+M01	Antiinflammatory and antirheumatic products
+M01A	Antiinflammatory and antirheumatic products, non-steroids
+M01AA	Butylpyrazolidines
+M01AA02	Mofebutazone
+M01AA03	Oxyphenbutazone
+M01AA06	Kebuzone
+M01AB	Acetic acid derivatives and related substances
+M01AB02	Sulindac
+M01AB03	Tolmetin
+M01AB04	Zomepirac
+M01AB06	Alclofenac
+M01AB07	Bumadizone
+M01AB08	Etodolac
+M01AB09	Lonazolac
+M01AB10	Fentiazac
+M01AB11	Acemetacin
+M01AB12	Difenpiramide
+M01AB13	Oxametacin
+M01AB14	Proglumetacin
+M01AB15	Ketorolac
+M01AB16	Aceclofenac
+M01AB17	Bufexamac
+M01AC	Oxicams
+M01AC01	Piroxicam
+M01AC02	Tenoxicam
+M01AC04	Droxicam
+M01AC05	Lornoxicam
+M01AC56	Meloxicam, combinations
+M01AE	Propionic acid derivatives
+M01AE03	Ketoprofen
+M01AE04	Fenoprofen
+M01AE05	Fenbufen
+M01AE06	Benoxaprofen
+M01AE07	Suprofen
+M01AE08	Pirprofen
+M01AE10	Indoprofen
+M01AE11	Tiaprofenic acid
+M01AE12	Oxaprozin
+M01AE13	Ibuproxam
+M01AE14	Dexibuprofen
+M01AE15	Flunoxaprofen
+M01AE16	Alminoprofen
+M01AE18	Naproxcinod
+M01AG	Fenamates
+M01AG01	Mefenamic acid
+M01AG02	Tolfenamic acid
+M01AG03	Flufenamic acid
+M01AG04	Meclofenamic acid
+M01AH	Coxibs
+M01AH01	Celecoxib
+M01AH02	Rofecoxib
+M01AH03	Valdecoxib
+M01AH04	Parecoxib
+M01AH05	Etoricoxib
+M01AH06	Lumiracoxib
+M01AH07	Polmacoxib
+M01AX	Other antiinflammatory and antirheumatic agents, non-steroids
+M01AX01	Nabumetone
+M01AX04	Azapropazone
+M01AX05	Glucosamine
+M01AX13	Proquazone
+M01AX18	Feprazone
+M01AX21	Diacerein
+M01AX22	Morniflumate
+M01AX23	Tenidap
+M01AX24	Oxaceprol
+M01AX25	Chondroitin sulfate
+M01B	Antiinflammatory/antirheumatic agents in combination
+M01BA	Antiinflammatory/antirheumatic agents in combination with corticosteroids
+M01BA01	Phenylbutazone and corticosteroids
+M01C	Specific antirheumatic agents
+M01CA	Quinolines
+M01CA03	Oxycinchophen
+M01CB	Gold preparations
+M01CB01	Sodium aurothiomalate
+M01CB02	Sodium aurotiosulfate
+M01CB03	Auranofin
+M01CB04	Aurothioglucose
+M01CB05	Aurotioprol
+M01CC	Penicillamine and similar agents
+M01CC01	Penicillamine
+M01CC02	Bucillamine
+M02	Topical products for joint and muscular pain
+M02A	Topical products for joint and muscular pain
+M02AA	Antiinflammatory preparations, non-steroids for topical use
+M02AA06	Etofenamate
+M02AA08	Felbinac
+M02AA11	Bendazac
+M02AA17	Niflumic acid
+M02AA19	Flurbiprofen
+M02AA22	Suxibuzone
+M02AA24	Nifenazone
+M02AA26	Nimesulide
+M02AA27	Dexketoprofen
+M02AB	Capsaicin and similar agents
+M02AB01	Capsaicin
+M02AB02	Zucapsaicin
+M02AX	Other topical products for joint and muscular pain
+M02AX02	Tolazoline
+M02AX03	Dimethyl sulfoxide
+M02AX05	Idrocilamide
+M03	Muscle relaxants
+M03A	Muscle relaxants, peripherally acting agents
+M03AA	Curare alkaloids
+M03AA01	Alcuronium
+M03AA02	Tubocurarine
+M03AB	Choline derivatives
+M03AB01	Suxamethonium
+M03AC	Other quaternary ammonium compounds
+M03AC01	Pancuronium
+M03AC02	Gallamine
+M03AC03	Vecuronium
+M03AC04	Atracurium
+M03AC05	Hexafluronium
+M03AC06	Pipecuronium bromide
+M03AC07	Doxacurium chloride
+M03AC08	Fazadinium bromide
+M03AC09	Rocuronium bromide
+M03AC10	Mivacurium chloride
+M03AC11	Cisatracurium
+M03AX	Other muscle relaxants, peripherally acting agents
+M03AX01	Botulinum toxin
+M03B	Muscle relaxants, centrally acting agents
+M03BA	Carbamic acid esters
+M03BA02	Carisoprodol
+M03BA04	Styramate
+M03BA05	Febarbamate
+M03BA71	Phenprobamate, combinations with psycholeptics
+M03BA73	Methocarbamol, combinations with psycholeptics
+M03BB	Oxazol, thiazine, and triazine derivatives
+M03BB02	Chlormezanone
+M03BB03	Chlorzoxazone
+M03BC	Ethers, chemically close to antihistamines
+M03BC51	Orphenadrine, combinations
+M03BX	Other centrally acting agents
+M03BX01	Baclofen
+M03BX02	Tizanidine
+M03BX03	Pridinol
+M03BX04	Tolperisone
+M03BX05	Thiocolchicoside
+M03BX06	Mephenesin
+M03BX07	Tetrazepam
+M03BX08	Cyclobenzaprine
+M03BX09	Eperisone
+M03BX30	Fenyramidol
+M03C	Muscle relaxants, directly acting agents
+M03CA	Dantrolene and derivatives
+M03CA01	Dantrolene
+M04	Antigout preparations
+M04A	Antigout preparations
+M04AA	Preparations inhibiting uric acid production
+M04AA01	Allopurinol
+M04AA02	Tisopurine
+M04AA03	Febuxostat
+M04AB	Preparations increasing uric acid excretion
+M04AB01	Probenecid
+M04AB02	Sulfinpyrazone
+M04AB03	Benzbromarone
+M04AB04	Isobromindione
+M04AB05	Lesinurad
+M04AC	Preparations with no effect on uric acid metabolism
+M04AC01	Colchicine
+M04AC02	Cinchophen
+M04AX	Other antigout preparations
+M04AX02	Pegloticase
+M05	Drugs for treatment of bone diseases
+M05B	Drugs affecting bone structure and mineralization
+M05BA	Bisphosphonates
+M05BA02	Clodronic acid
+M05BA03	Pamidronic acid
+M05BA05	Tiludronic acid
+M05BA06	Ibandronic acid
+M05BB	Bisphosphonates, combinations
+M05BB01	Etidronic acid and calcium, sequential
+M05BB03	Alendronic acid and colecalciferol
+M05BB07	Risedronic acid and colecalciferol
+M05BB08	Zoledronic acid, calcium and colecalciferol, sequential
+M05BB09	Ibandronic acid and colecalciferol
+M05BC	Bone morphogenetic proteins
+M05BC01	Dibotermin alfa
+M05BC02	Eptotermin alfa
+M05BX	Other drugs affecting bone structure and mineralization
+M05BX01	Ipriflavone
+M05BX03	Strontium ranelate
+M05BX04	Denosumab
+M05BX05	Burosumab
+M05BX06	Romosozumab
+M09	Other drugs for disorders of the musculo-skeletal system
+M09A	Other drugs for disorders of the musculo-skeletal system
+M09AA	Quinine and derivatives
+M09AA01	Hydroquinine
+M09AA72	Quinine, combinations with psycholeptics
+M09AB	Enzymes
+M09AB01	Chymopapain
+M09AX	Other drugs for disorders of the musculo-skeletal system
+M09AX03	Ataluren
+M09AX04	Drisapersen
+M09AX05	Aceneuramic acid
+M09AX06	Eteplirsen
+M09AX07	Nusinersen
+N	Nervous system
+N01	Anesthetics
+N01A	Anesthetics, general
+N01AA	Ethers
+N01AA01	Diethyl ether
+N01AA02	Vinyl ether
+N01AB	Halogenated hydrocarbons
+N01AB01	Halothane
+N01AB02	Chloroform
+N01AB04	Enflurane
+N01AB05	Trichloroethylene
+N01AB06	Isoflurane
+N01AB07	Desflurane
+N01AB08	Sevoflurane
+N01AF	Barbiturates, plain
+N01AF02	Hexobarbital
+N01AF03	Thiopental
+N01AG	Barbiturates in combination with other drugs
+N01AG01	Narcobarbital
+N01AH	Opioid anesthetics
+N01AH01	Fentanyl
+N01AH02	Alfentanil
+N01AH03	Sufentanil
+N01AH04	Phenoperidine
+N01AH05	Anileridine
+N01AH06	Remifentanil
+N01AX	Other general anesthetics
+N01AX03	Ketamine
+N01AX04	Propanidid
+N01AX05	Alfaxalone
+N01AX07	Etomidate
+N01AX10	Propofol
+N01AX11	Sodium oxybate
+N01AX13	Nitrous oxide
+N01AX14	Esketamine
+N01AX15	Xenon
+N01B	Anesthetics, local
+N01BA	Esters of aminobenzoic acid
+N01BA01	Metabutethamine
+N01BA04	Chloroprocaine
+N01BA52	Procaine, combinations
+N01BB	Amides
+N01BB01	Bupivacaine
+N01BB05	Butanilicaine
+N01BB07	Etidocaine
+N01BB09	Ropivacaine
+N01BB10	Levobupivacaine
+N01BB53	Mepivacaine, combinations
+N01BB54	Prilocaine, combinations
+N01BB58	Articaine, combinations
+N01BX	Other local anesthetics
+N01BX01	Ethyl chloride
+N01BX02	Dyclonine
+N02	Analgesics
+N02A	Opioids
+N02AA	Natural opium alkaloids
+N02AA04	Nicomorphine
+N02AA53	Hydromorphone and naloxone
+N02AA56	Oxycodone and naltrexone
+N02AA58	Dihydrocodeine, combinations
+N02AA79	Codeine, combinations with psycholeptics
+N02AB	Phenylpiperidine derivatives
+N02AB01	Ketobemidone
+N02AB02	Pethidine
+N02AC	Diphenylpropylamine derivatives
+N02AC01	Dextromoramide
+N02AC03	Piritramide
+N02AC04	Dextropropoxyphene
+N02AC05	Bezitramide
+N02AD	Benzomorphan derivatives
+N02AD01	Pentazocine
+N02AD02	Phenazocine
+N02AF	Morphinan derivatives
+N02AF01	Butorphanol
+N02AF02	Nalbuphine
+N02AJ	Opioids in combination with non-opioid analgesics
+N02AJ13	Tramadol and paracetamol
+N02AX	Other opioids
+N02AX01	Tilidine
+N02AX03	Dezocine
+N02AX05	Meptazinol
+N02AX06	Tapentadol
+N02B	Other analgesics and antipyretics
+N02BA	Salicylic acid and derivatives
+N02BA02	Aloxiprin
+N02BA03	Choline salicylate
+N02BA06	Salsalate
+N02BA07	Ethenzamide
+N02BA08	Morpholine salicylate
+N02BA09	Dipyrocetyl
+N02BA10	Benorilate
+N02BA11	Diflunisal
+N02BA14	Guacetisal
+N02BA15	Carbasalate calcium
+N02BA16	Imidazole salicylate
+N02BA75	Salicylamide, combinations with psycholeptics
+N02BB	Pyrazolones
+N02BB51	Phenazone, combinations excl. psycholeptics
+N02BB53	Aminophenazone, combinations excl. psycholeptics
+N02BB72	Metamizole sodium, combinations with psycholeptics
+N02BB74	Propyphenazone, combinations with psycholeptics
+N02BE	Anilides
+N02BE04	Bucetin
+N02BE05	Propacetamol
+N02BE71	Paracetamol, combinations with psycholeptics
+N02BE73	Phenacetin, combinations with psycholeptics
+N02BG	Other analgesics and antipyretics
+N02BG02	Rimazolium
+N02BG04	Floctafenine
+N02BG05	Viminol
+N02BG06	Nefopam
+N02BG07	Flupirtine
+N02BG08	Ziconotide
+N02BG09	Methoxyflurane
+N02C	Antimigraine preparations
+N02CA	Ergot alkaloids
+N02CA02	Ergotamine
+N02CA04	Methysergide
+N02CA51	Dihydroergotamine, combinations
+N02CB	Corticosteroid derivatives
+N02CB01	Flumedroxone
+N02CC	Selective serotonin (5ht1) agonists
+N02CC01	Sumatriptan
+N02CC02	Naratriptan
+N02CC03	Zolmitriptan
+N02CC04	Rizatriptan
+N02CC05	Almotriptan
+N02CC06	Eletriptan
+N02CC07	Frovatriptan
+N02CX	Other antimigraine preparations
+N02CX01	Pizotifen
+N02CX03	Iprazochrome
+N02CX05	Dimetotiazine
+N02CX06	Oxetorone
+N03	Antiepileptics
+N03A	Antiepileptics
+N03AA	Barbiturates and derivatives
+N03AA01	Methylphenobarbital
+N03AA04	Barbexaclone
+N03AA30	Metharbital
+N03AB	Hydantoin derivatives
+N03AB01	Ethotoin
+N03AB02	Phenytoin
+N03AB03	Amino(diphenylhydantoin) valeric acid
+N03AB04	Mephenytoin
+N03AB05	Fosphenytoin
+N03AC	Oxazolidine derivatives
+N03AC01	Paramethadione
+N03AC02	Trimethadione
+N03AC03	Ethadione
+N03AD	Succinimide derivatives
+N03AD01	Ethosuximide
+N03AD02	Phensuximide
+N03AD03	Mesuximide
+N03AE	Benzodiazepine derivatives
+N03AE01	Clonazepam
+N03AF	Carboxamide derivatives
+N03AF01	Carbamazepine
+N03AF02	Oxcarbazepine
+N03AF03	Rufinamide
+N03AF04	Eslicarbazepine
+N03AG	Fatty acid derivatives
+N03AG01	Valproic acid
+N03AG02	Valpromide
+N03AG04	Vigabatrin
+N03AG05	Progabide
+N03AG06	Tiagabine
+N03AX	Other antiepileptics
+N03AX03	Sultiame
+N03AX07	Phenacemide
+N03AX09	Lamotrigine
+N03AX10	Felbamate
+N03AX11	Topiramate
+N03AX12	Gabapentin
+N03AX13	Pheneturide
+N03AX14	Levetiracetam
+N03AX15	Zonisamide
+N03AX16	Pregabalin
+N03AX17	Stiripentol
+N03AX18	Lacosamide
+N03AX19	Carisbamate
+N03AX21	Retigabine
+N03AX22	Perampanel
+N03AX23	Brivaracetam
+N03AX24	Cannabidiol
+N03AX30	Beclamide
+N04	Anti-parkinson drugs
+N04A	Anticholinergic agents
+N04AA	Tertiary amines
+N04AA01	Trihexyphenidyl
+N04AA02	Biperiden
+N04AA03	Metixene
+N04AA04	Procyclidine
+N04AA05	Profenamine
+N04AA08	Dexetimide
+N04AA09	Phenglutarimide
+N04AA10	Mazaticol
+N04AA11	Bornaprine
+N04AA12	Tropatepine
+N04AB	Ethers chemically close to antihistamines
+N04AB01	Etanautine
+N04AC	Ethers of tropine or tropine derivatives
+N04AC01	Benzatropine
+N04AC30	Etybenzatropine
+N04B	Dopaminergic agents
+N04BA	Dopa and dopa derivatives
+N04BA03	Levodopa, decarboxylase inhibitor and comt inhibitor
+N04BA04	Melevodopa
+N04BA06	Etilevodopa and decarboxylase inhibitor
+N04BB	Adamantane derivatives
+N04BB01	Amantadine
+N04BC	Dopamine agonists
+N04BC01	Bromocriptine
+N04BC02	Pergolide
+N04BC03	Dihydroergocryptine mesylate
+N04BC04	Ropinirole
+N04BC05	Pramipexole
+N04BC06	Cabergoline
+N04BC08	Piribedil
+N04BC09	Rotigotine
+N04BD	Monoamine oxidase b inhibitors
+N04BD01	Selegiline
+N04BD02	Rasagiline
+N04BD03	Safinamide
+N04BX	Other dopaminergic agents
+N04BX01	Tolcapone
+N04BX02	Entacapone
+N04BX03	Budipine
+N04BX04	Opicapone
+N05	Psycholeptics
+N05A	Antipsychotics
+N05AA	Phenothiazines with aliphatic side-chain
+N05AA01	Chlorpromazine
+N05AA02	Levomepromazine
+N05AA03	Promazine
+N05AA04	Acepromazine
+N05AA05	Triflupromazine
+N05AA06	Cyamemazine
+N05AA07	Chlorproethazine
+N05AB	Phenothiazines with piperazine structure
+N05AB01	Dixyrazine
+N05AB02	Fluphenazine
+N05AB03	Perphenazine
+N05AB04	Prochlorperazine
+N05AB05	Thiopropazate
+N05AB06	Trifluoperazine
+N05AB07	Acetophenazine
+N05AB08	Thioproperazine
+N05AB09	Butaperazine
+N05AB10	Perazine
+N05AC	Phenothiazines with piperidine structure
+N05AC01	Periciazine
+N05AC02	Thioridazine
+N05AC03	Mesoridazine
+N05AC04	Pipotiazine
+N05AD	Butyrophenone derivatives
+N05AD01	Haloperidol
+N05AD02	Trifluperidol
+N05AD03	Melperone
+N05AD04	Moperone
+N05AD05	Pipamperone
+N05AD06	Bromperidol
+N05AD07	Benperidol
+N05AD08	Droperidol
+N05AD09	Fluanisone
+N05AE	Indole derivatives
+N05AE01	Oxypertine
+N05AE02	Molindone
+N05AE03	Sertindole
+N05AE04	Ziprasidone
+N05AE05	Lurasidone
+N05AF	Thioxanthene derivatives
+N05AF01	Flupentixol
+N05AF02	Clopenthixol
+N05AF03	Chlorprothixene
+N05AF04	Tiotixene
+N05AF05	Zuclopenthixol
+N05AG	Diphenylbutylpiperidine derivatives
+N05AG01	Fluspirilene
+N05AG02	Pimozide
+N05AG03	Penfluridol
+N05AH	Diazepines, oxazepines, thiazepines and oxepines
+N05AH01	Loxapine
+N05AH02	Clozapine
+N05AH03	Olanzapine
+N05AH04	Quetiapine
+N05AH05	Asenapine
+N05AH06	Clotiapine
+N05AL	Benzamides
+N05AL01	Sulpiride
+N05AL02	Sultopride
+N05AL03	Tiapride
+N05AL04	Remoxipride
+N05AL05	Amisulpride
+N05AL06	Veralipride
+N05AN	Lithium
+N05AN01	Lithium
+N05AX	Other antipsychotics
+N05AX07	Prothipendyl
+N05AX08	Risperidone
+N05AX10	Mosapramine
+N05AX11	Zotepine
+N05AX12	Aripiprazole
+N05AX13	Paliperidone
+N05AX14	Iloperidone
+N05AX15	Cariprazine
+N05AX16	Brexpiprazole
+N05AX17	Pimavanserin
+N05B	Anxiolytics
+N05BA	Benzodiazepine derivatives
+N05BA01	Diazepam
+N05BA02	Chlordiazepoxide
+N05BA03	Medazepam
+N05BA04	Oxazepam
+N05BA07	Adinazolam
+N05BA08	Bromazepam
+N05BA09	Clobazam
+N05BA10	Ketazolam
+N05BA11	Prazepam
+N05BA12	Alprazolam
+N05BA13	Halazepam
+N05BA14	Pinazepam
+N05BA15	Camazepam
+N05BA16	Nordazepam
+N05BA17	Fludiazepam
+N05BA18	Ethyl loflazepate
+N05BA19	Etizolam
+N05BA21	Clotiazepam
+N05BA22	Cloxazolam
+N05BA23	Tofisopam
+N05BA24	Bentazepam
+N05BA56	Lorazepam, combinations
+N05BB	Diphenylmethane derivatives
+N05BB01	Hydroxyzine
+N05BB02	Captodiame
+N05BC	Carbamates
+N05BC03	Emylcamate
+N05BC04	Mebutamate
+N05BC51	Meprobamate, combinations
+N05BD	Dibenzo-bicyclo-octadiene derivatives
+N05BD01	Benzoctamine
+N05BE	Azaspirodecanedione derivatives
+N05BE01	Buspirone
+N05BX	Other anxiolytics
+N05BX01	Mephenoxalone
+N05BX02	Gedocarnil
+N05BX03	Etifoxine
+N05BX04	Fabomotizole
+N05C	Hypnotics and sedatives
+N05CA	Barbiturates, plain
+N05CA02	Amobarbital
+N05CA03	Butobarbital
+N05CA04	Barbital
+N05CA05	Aprobarbital
+N05CA07	Talbutal
+N05CA08	Vinylbital
+N05CA09	Vinbarbital
+N05CA10	Cyclobarbital
+N05CA11	Heptabarbital
+N05CA12	Reposal
+N05CA21	Allobarbital
+N05CA22	Proxibarbal
+N05CB	Barbiturates, combinations
+N05CB01	Combinations of barbiturates
+N05CC	Aldehydes and derivatives
+N05CC01	Chloral hydrate
+N05CC02	Chloralodol
+N05CC03	Acetylglycinamide chloral hydrate
+N05CC04	Dichloralphenazone
+N05CC05	Paraldehyde
+N05CD	Benzodiazepine derivatives
+N05CD01	Flurazepam
+N05CD02	Nitrazepam
+N05CD03	Flunitrazepam
+N05CD04	Estazolam
+N05CD05	Triazolam
+N05CD06	Lormetazepam
+N05CD07	Temazepam
+N05CD08	Midazolam
+N05CD09	Brotizolam
+N05CD10	Quazepam
+N05CD11	Loprazolam
+N05CD12	Doxefazepam
+N05CD13	Cinolazepam
+N05CE	Piperidinedione derivatives
+N05CE01	Glutethimide
+N05CE02	Methyprylon
+N05CE03	Pyrithyldione
+N05CF	Benzodiazepine related drugs
+N05CF01	Zopiclone
+N05CF02	Zolpidem
+N05CF03	Zaleplon
+N05CF04	Eszopiclone
+N05CH	Melatonin receptor agonists
+N05CH01	Melatonin
+N05CH02	Ramelteon
+N05CH03	Tasimelteon
+N05CM	Other hypnotics and sedatives
+N05CM03	Bromisoval
+N05CM04	Carbromal
+N05CM05	Scopolamine
+N05CM06	Propiomazine
+N05CM07	Triclofos
+N05CM08	Ethchlorvynol
+N05CM09	Valerianae radix
+N05CM10	Hexapropymate
+N05CM12	Apronal
+N05CM13	Valnoctamide
+N05CM16	Niaprazine
+N05CM18	Dexmedetomidine
+N05CM19	Suvorexant
+N05CX	Hypnotics and sedatives in combination, excl. barbiturates
+N05CX02	Methaqualone, combinations
+N05CX03	Methylpentynol, combinations
+N05CX04	Clomethiazole, combinations
+N06	Psychoanaleptics
+N06A	Antidepressants
+N06AA	Non-selective monoamine reuptake inhibitors
+N06AA01	Desipramine
+N06AA02	Imipramine
+N06AA03	Imipramine oxide
+N06AA04	Clomipramine
+N06AA05	Opipramol
+N06AA06	Trimipramine
+N06AA07	Lofepramine
+N06AA08	Dibenzepin
+N06AA09	Amitriptyline
+N06AA10	Nortriptyline
+N06AA11	Protriptyline
+N06AA12	Doxepin
+N06AA13	Iprindole
+N06AA15	Butriptyline
+N06AA16	Dosulepin
+N06AA17	Amoxapine
+N06AA18	Dimetacrine
+N06AA19	Amineptine
+N06AA21	Maprotiline
+N06AA23	Quinupramine
+N06AB	Selective serotonin reuptake inhibitors
+N06AB02	Zimeldine
+N06AB04	Citalopram
+N06AB05	Paroxetine
+N06AB06	Sertraline
+N06AB07	Alaproclate
+N06AB08	Fluvoxamine
+N06AB09	Etoperidone
+N06AB10	Escitalopram
+N06AF	Monoamine oxidase inhibitors, non-selective
+N06AF01	Isocarboxazid
+N06AF02	Nialamide
+N06AF03	Phenelzine
+N06AF04	Tranylcypromine
+N06AF05	Iproniazide
+N06AF06	Iproclozide
+N06AG	Monoamine oxidase a inhibitors
+N06AG02	Moclobemide
+N06AG03	Toloxatone
+N06AX	Other antidepressants
+N06AX01	Oxitriptan
+N06AX02	Tryptophan
+N06AX03	Mianserin
+N06AX04	Nomifensine
+N06AX05	Trazodone
+N06AX06	Nefazodone
+N06AX07	Minaprine
+N06AX08	Bifemelane
+N06AX09	Viloxazine
+N06AX10	Oxaflozane
+N06AX11	Mirtazapine
+N06AX13	Medifoxamine
+N06AX14	Tianeptine
+N06AX15	Pivagabine
+N06AX16	Venlafaxine
+N06AX17	Milnacipran
+N06AX18	Reboxetine
+N06AX19	Gepirone
+N06AX21	Duloxetine
+N06AX22	Agomelatine
+N06AX23	Desvenlafaxine
+N06AX24	Vilazodone
+N06AX25	Hyperici herba
+N06AX26	Vortioxetine
+N06B	Psychostimulants, agents used for adhd and nootropics
+N06BA	Centrally acting sympathomimetics
+N06BA01	Amfetamine
+N06BA02	Dexamfetamine
+N06BA03	Metamfetamine
+N06BA04	Methylphenidate
+N06BA05	Pemoline
+N06BA06	Fencamfamin
+N06BA07	Modafinil
+N06BA08	Fenozolone
+N06BA09	Atomoxetine
+N06BA10	Fenetylline
+N06BA11	Dexmethylphenidate
+N06BA12	Lisdexamfetamine
+N06BA13	Armodafinil
+N06BC	Xanthine derivatives
+N06BC02	Propentofylline
+N06BX	Other psychostimulants and nootropics
+N06BX01	Meclofenoxate
+N06BX02	Pyritinol
+N06BX03	Piracetam
+N06BX04	Deanol
+N06BX05	Fipexide
+N06BX06	Citicoline
+N06BX07	Oxiracetam
+N06BX08	Pirisudanol
+N06BX09	Linopirdine
+N06BX10	Nizofenone
+N06BX11	Aniracetam
+N06BX12	Acetylcarnitine
+N06BX13	Idebenone
+N06BX14	Prolintane
+N06BX15	Pipradrol
+N06BX16	Pramiracetam
+N06BX17	Adrafinil
+N06BX18	Vinpocetine
+N06BX21	Tetramethylglycoluril
+N06BX22	Phenibut
+N06C	Psycholeptics and psychoanaleptics in combination
+N06CA	Antidepressants in combination with psycholeptics
+N06CA02	Melitracen and psycholeptics
+N06CA03	Fluoxetine and psycholeptics
+N06D	Anti-dementia drugs
+N06DA	Anticholinesterases
+N06DA01	Tacrine
+N06DA03	Rivastigmine
+N06DA04	Galantamine
+N06DA05	Ipidacrine
+N06DA52	Donepezil and memantine
+N06DX	Other anti-dementia drugs
+N06DX02	Ginkgo folium
+N07	Other nervous system drugs
+N07A	Parasympathomimetics
+N07AA	Anticholinesterases
+N07AA01	Neostigmine
+N07AA02	Pyridostigmine
+N07AA03	Distigmine
+N07AA30	Ambenonium
+N07AB	Choline esters
+N07AB01	Carbachol
+N07AB02	Bethanechol
+N07AX	Other parasympathomimetics
+N07AX01	Pilocarpine
+N07AX02	Choline alfoscerate
+N07AX03	Cevimeline
+N07B	Drugs used in addictive disorders
+N07BA	Drugs used in nicotine dependence
+N07BA01	Nicotine
+N07BA03	Varenicline
+N07BA04	Cytisine
+N07BB	Drugs used in alcohol dependence
+N07BB02	Calcium carbimide
+N07BB03	Acamprosate
+N07BB05	Nalmefene
+N07BC	Drugs used in opioid dependence
+N07BC01	Buprenorphine
+N07BC02	Methadone
+N07BC03	Levacetylmethadol
+N07BC04	Lofexidine
+N07BC05	Levomethadone
+N07BC06	Diamorphine
+N07C	Antivertigo preparations
+N07CA	Antivertigo preparations
+N07CA01	Betahistine
+N07CA03	Flunarizine
+N07CA04	Acetylleucine
+N07CA52	Cinnarizine, combinations
+N07X	Other nervous system drugs
+N07XX	Other nervous system drugs
+N07XX01	Tirilazad
+N07XX02	Riluzole
+N07XX03	Xaliproden
+N07XX05	Amifampridine
+N07XX06	Tetrabenazine
+N07XX07	Fampridine
+N07XX08	Tafamidis
+N07XX10	Laquinimod
+N07XX11	Pitolisant
+N07XX12	Patisiran
+N07XX13	Valbenazine
+N07XX14	Edaravone
+P	Antiparasitic products, insecticides and repellents
+P01	Antiprotozoals
+P01A	Agents against amoebiasis and other protozoal diseases
+P01AA	Hydroxyquinoline derivatives
+P01AA01	Broxyquinoline
+P01AA04	Chlorquinaldol
+P01AA05	Tilbroquinol
+P01AB	Nitroimidazole derivatives
+P01AB06	Nimorazole
+P01AB07	Secnidazole
+P01AC	Dichloroacetamide derivatives
+P01AC01	Diloxanide
+P01AC02	Clefamide
+P01AC03	Etofamide
+P01AC04	Teclozan
+P01AR	Arsenic compounds
+P01AR01	Arsthinol
+P01AR02	Difetarsone
+P01AX	Other agents against amoebiasis and other protozoal diseases
+P01AX01	Chiniofon
+P01AX02	Emetine
+P01AX04	Phanquinone
+P01AX05	Mepacrine
+P01AX06	Atovaquone
+P01AX07	Trimetrexate
+P01AX08	Tenonitrozole
+P01AX09	Dehydroemetine
+P01AX10	Fumagillin
+P01AX11	Nitazoxanide
+P01B	Antimalarials
+P01BA	Aminoquinolines
+P01BA01	Chloroquine
+P01BA02	Hydroxychloroquine
+P01BA03	Primaquine
+P01BB	Biguanides
+P01BB01	Proguanil
+P01BB02	Cycloguanil embonate
+P01BD	Diaminopyrimidines
+P01BD01	Pyrimethamine
+P01BE	Artemisinin and derivatives, plain
+P01BE01	Artemisinin
+P01BE03	Artesunate
+P01BE04	Artemotil
+P01BF	Artemisinin and derivatives, combinations
+P01BF01	Artemether and lumefantrine
+P01BF02	Artesunate and mefloquine
+P01BF03	Artesunate and amodiaquine
+P01BF05	Artenimol and piperaquine
+P01BF06	Artesunate and pyronaridine
+P01BX	Other antimalarials
+P01BX01	Halofantrine
+P01BX02	Arterolane and piperaquine
+P01C	Agents against leishmaniasis and trypanosomiasis
+P01CA	Nitroimidazole derivatives
+P01CA02	Benznidazole
+P01CA03	Fexinidazole
+P01CB	Antimony compounds
+P01CB01	Meglumine antimonate
+P01CB02	Sodium stibogluconate
+P01CC	Nitrofuran derivatives
+P01CC01	Nifurtimox
+P01CD	Arsenic compounds
+P01CD01	Melarsoprol
+P01CX	Other agents against leishmaniasis and trypanosomiasis
+P01CX01	Pentamidine isethionate
+P01CX02	Suramin sodium
+P01CX03	Eflornithine
+P02	Anthelmintics
+P02B	Antitrematodals
+P02BA	Quinoline derivatives and related substances
+P02BA01	Praziquantel
+P02BA02	Oxamniquine
+P02BB	Organophosphorous compounds
+P02BB01	Metrifonate
+P02BX	Other antitrematodal agents
+P02BX02	Niridazole
+P02BX03	Stibophen
+P02BX04	Triclabendazole
+P02C	Antinematodal agents
+P02CA	Benzimidazole derivatives
+P02CA03	Albendazole
+P02CA04	Ciclobendazole
+P02CA05	Flubendazole
+P02CA06	Fenbendazole
+P02CA51	Mebendazole, combinations
+P02CB	Piperazine and derivatives
+P02CB01	Piperazine
+P02CB02	Diethylcarbamazine
+P02CC	Tetrahydropyrimidine derivatives
+P02CC01	Pyrantel
+P02CC02	Oxantel
+P02CE	Imidazothiazole derivatives
+P02CE01	Levamisole
+P02CF	Avermectines
+P02CF01	Ivermectin
+P02CX	Other antinematodals
+P02CX01	Pyrvinium
+P02CX02	Bephenium
+P02D	Anticestodals
+P02DA	Salicylic acid derivatives
+P02DA01	Niclosamide
+P02DX	Other anticestodals
+P02DX01	Desaspidin
+P02DX02	Dichlorophen
+P03	Ectoparasiticides, incl. scabicides, insecticides and repellents
+P03A	Ectoparasiticides, incl. scabicides
+P03AA	Sulfur containing products
+P03AA01	Dixanthogen
+P03AA03	Mesulfen
+P03AA04	Disulfiram
+P03AA05	Thiram
+P03AB	Chlorine containing products
+P03AB02	Lindane
+P03AB51	Clofenotane, combinations
+P03AC	Pyrethrines, incl. synthetic compounds
+P03AC52	Bioallethrin, combinations
+P03AC53	Phenothrin, combinations
+P03AC54	Permethrin, combinations
+P03AX	Other ectoparasiticides, incl. scabicides
+P03AX01	Benzyl benzoate
+P03AX03	Malathion
+P03AX04	Quassia
+P03AX06	Benzyl alcohol
+P03B	Insecticides and repellents
+P03BA	Pyrethrines
+P03BA01	Cyfluthrin
+P03BA02	Cypermethrin
+P03BA03	Decamethrin
+P03BA04	Tetramethrin
+P03BX	Other insecticides and repellents
+P03BX01	Diethyltoluamide
+P03BX02	Dimethylphthalate
+P03BX03	Dibutylphthalate
+P03BX04	Dibutylsuccinate
+P03BX05	Dimethylcarbate
+P03BX06	Etohexadiol
+R	Respiratory system
+R01	Nasal preparations
+R01A	Decongestants and other nasal preparations for topical use
+R01AA	Sympathomimetics, plain
+R01AA02	Cyclopentamine
+R01AA09	Tramazoline
+R01AA10	Metizoline
+R01AA11	Tuaminoheptane
+R01AA12	Fenoxazoline
+R01AA13	Tymazoline
+R01AA15	Indanazoline
+R01AB	Sympathomimetics, combinations excl. corticosteroids
+R01AB02	Naphazoline
+R01AB06	Xylometazoline
+R01AC	Antiallergic agents, excl. corticosteroids
+R01AC02	Levocabastine
+R01AC05	Spaglumic acid
+R01AD	Corticosteroids
+R01AD04	Flunisolide
+R01AD06	Betamethasone
+R01AD53	Dexamethasone, combinations
+R01AD57	Tixocortol, combinations
+R01AX	Other nasal preparations
+R01AX05	Ritiometan
+R01AX06	Mupirocin
+R01B	Nasal decongestants for systemic use
+R01BA	Sympathomimetics
+R01BA51	Phenylpropanolamine, combinations
+R01BA52	Pseudoephedrine, combinations
+R02	Throat preparations
+R02A	Throat preparations
+R02AA	Antiseptics
+R02AA01	Ambazone
+R02AA03	Dichlorobenzyl alcohol
+R02AA05	Chlorhexidine
+R02AA10	Myristyl-benzalkonium
+R02AA12	Hexylresorcinol
+R02AA13	Acriflavinium chloride
+R02AA14	Oxyquinoline
+R02AA16	Benzalkonium
+R02AB	Antibiotics
+R02AB03	Fusafungine
+R02AB30	Gramicidin
+R03	Drugs for obstructive airway diseases
+R03A	Adrenergics, inhalants
+R03AB	Non-selective beta-adrenoreceptor agonists
+R03AB03	Orciprenaline
+R03AC	Selective beta-2-adrenoreceptor agonists
+R03AC05	Rimiterol
+R03AC06	Hexoprenaline
+R03AC17	Bitolterol
+R03AC18	Indacaterol
+R03AK	Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics
+R03AK04	Salbutamol and sodium cromoglicate
+R03AK05	Reproterol and sodium cromoglicate
+R03AK06	Salmeterol and fluticasone
+R03AL	Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+R03AL06	Olodaterol and tiotropium bromide
+R03AL08	Vilanterol, umeclidinium bromide and fluticasone furoate
+R03AL09	Formoterol, glycopyrronium bromide and beclometasone
+R03B	Other drugs for obstructive airway diseases, inhalants
+R03BA	Glucocorticoids
+R03BA05	Fluticasone
+R03BA08	Ciclesonide
+R03BB	Anticholinergics
+R03BB01	Ipratropium bromide
+R03BB02	Oxitropium bromide
+R03BB05	Aclidinium bromide
+R03BC	Antiallergic agents, excl. corticosteroids
+R03BC03	Nedocromil
+R03BX	Other drugs for obstructive airway diseases, inhalants
+R03BX01	Fenspiride
+R03C	Adrenergics for systemic use
+R03CB	Non-selective beta-adrenoreceptor agonists
+R03CB02	Methoxyphenamine
+R03CC	Selective beta-2-adrenoreceptor agonists
+R03CC04	Fenoterol
+R03CC07	Pirbuterol
+R03CC08	Procaterol
+R03CC09	Tretoquinol
+R03CC10	Carbuterol
+R03CC11	Tulobuterol
+R03CC12	Bambuterol
+R03CC13	Clenbuterol
+R03CC53	Terbutaline, combinations
+R03CC63	Clenbuterol and ambroxol
+R03D	Other systemic drugs for obstructive airway diseases
+R03DA	Xanthines
+R03DA03	Proxyphylline
+R03DA08	Bamifylline
+R03DA09	Acefylline piperazine
+R03DA10	Bufylline
+R03DA11	Doxofylline
+R03DA20	Combinations of xanthines
+R03DA54	Theophylline, combinations excl. psycholeptics
+R03DA55	Aminophylline, combinations
+R03DB	Xanthines and adrenergics
+R03DB06	Etamiphylline and adrenergics
+R03DC	Leukotriene receptor antagonists
+R03DC01	Zafirlukast
+R03DC02	Pranlukast
+R03DC03	Montelukast
+R03DC04	Ibudilast
+R03DX	Other systemic drugs for obstructive airway diseases
+R03DX02	Eprozinol
+R03DX05	Omalizumab
+R03DX06	Seratrodast
+R03DX07	Roflumilast
+R03DX08	Reslizumab
+R03DX09	Mepolizumab
+R03DX10	Benralizumab
+R05	Cough and cold preparations
+R05C	Expectorants, excl. combinations with cough suppressants
+R05CA	Expectorants
+R05CA01	Tyloxapol
+R05CA03	Guaifenesin
+R05CA04	Ipecacuanha
+R05CA05	Althea root
+R05CA06	Senega
+R05CA07	Antimony pentasulfide
+R05CA08	Creosote
+R05CA11	Levoverbenone
+R05CA12	Hederae helicis folium
+R05CA13	Cineole
+R05CB	Mucolytics
+R05CB01	Acetylcysteine
+R05CB02	Bromhexine
+R05CB03	Carbocisteine
+R05CB04	Eprazinone
+R05CB05	Mesna
+R05CB07	Sobrerol
+R05CB08	Domiodol
+R05CB09	Letosteine
+R05CB11	Stepronin
+R05CB13	Dornase alfa (desoxyribonuclease)
+R05CB14	Neltenexine
+R05CB15	Erdosteine
+R05D	Cough suppressants, excl. combinations with expectorants
+R05DA	Opium alkaloids and derivatives
+R05DA03	Hydrocodone
+R05DA06	Normethadone
+R05DA07	Noscapine
+R05DA08	Pholcodine
+R05DA09	Dextromethorphan
+R05DA10	Thebacon
+R05DA11	Dimemorfan
+R05DA12	Acetyldihydrocodeine
+R05DB	Other cough suppressants
+R05DB01	Benzonatate
+R05DB02	Benproperine
+R05DB03	Clobutinol
+R05DB04	Isoaminile
+R05DB05	Pentoxyverine
+R05DB07	Oxolamine
+R05DB09	Oxeladin
+R05DB10	Clofedanol
+R05DB11	Pipazetate
+R05DB12	Bibenzonium bromide
+R05DB13	Butamirate
+R05DB14	Fedrilate
+R05DB15	Zipeprol
+R05DB16	Dibunate
+R05DB17	Droxypropine
+R05DB18	Prenoxdiazine
+R05DB19	Dropropizine
+R05DB21	Cloperastine
+R05DB22	Meprotixol
+R05DB23	Piperidione
+R05DB24	Tipepidine
+R05DB25	Morclofone
+R05DB26	Nepinalone
+R05DB27	Levodropropizine
+R05DB28	Dimethoxanate
+R06	Antihistamines for systemic use
+R06A	Antihistamines for systemic use
+R06AA	Aminoalkyl ethers
+R06AA01	Bromazine
+R06AA08	Carbinoxamine
+R06AA09	Doxylamine
+R06AA10	Trimethobenzamide
+R06AA57	Diphenylpyraline, combinations
+R06AB	Substituted alkylamines
+R06AB03	Dimetindene
+R06AB05	Pheniramine
+R06AB06	Dexbrompheniramine
+R06AB07	Talastine
+R06AB51	Brompheniramine, combinations
+R06AB52	Dexchlorpheniramine, combinations
+R06AB54	Chlorphenamine, combinations
+R06AC	Substituted ethylene diamines
+R06AC04	Tripelennamine
+R06AC05	Methapyrilene
+R06AC52	Histapyrrodine, combinations
+R06AD	Phenothiazine derivatives
+R06AD01	Alimemazine
+R06AD03	Thiethylperazine
+R06AD04	Methdilazine
+R06AD05	Hydroxyethylpromethazine
+R06AD06	Thiazinam
+R06AD07	Mequitazine
+R06AD08	Oxomemazine
+R06AD09	Isothipendyl
+R06AD52	Promethazine, combinations
+R06AE	Piperazine derivatives
+R06AE03	Cyclizine
+R06AE04	Chlorcyclizine
+R06AE06	Oxatomide
+R06AE07	Cetirizine
+R06AE09	Levocetirizine
+R06AE51	Buclizine, combinations
+R06AE55	Meclozine, combinations
+R06AX	Other antihistamines for systemic use
+R06AX01	Bamipine
+R06AX02	Cyproheptadine
+R06AX03	Thenalidine
+R06AX04	Phenindamine
+R06AX05	Antazoline
+R06AX07	Triprolidine
+R06AX09	Azatadine
+R06AX11	Astemizole
+R06AX12	Terfenadine
+R06AX13	Loratadine
+R06AX15	Mebhydrolin
+R06AX16	Deptropine
+R06AX18	Acrivastine
+R06AX19	Azelastine
+R06AX21	Tritoqualine
+R06AX22	Ebastine
+R06AX23	Pimethixene
+R06AX25	Mizolastine
+R06AX26	Fexofenadine
+R06AX27	Desloratadine
+R06AX28	Rupatadine
+R06AX29	Bilastine
+R06AX31	Quifenadine
+R06AX32	Sequifenadine
+R06AX58	Pyrrobutamine, combinations
+R07	Other respiratory system products
+R07A	Other respiratory system products
+R07AA	Lung surfactants
+R07AA01	Colfosceril palmitate
+R07AB	Respiratory stimulants
+R07AB01	Doxapram
+R07AB02	Nikethamide
+R07AB04	Etamivan
+R07AB05	Bemegride
+R07AB06	Prethcamide
+R07AB07	Almitrine
+R07AB08	Dimefline
+R07AB09	Mepixanox
+R07AB53	Pentetrazol, combinations
+R07AX	Other respiratory system products
+R07AX01	Nitric oxide
+R07AX30	Ivacaftor and lumacaftor
+R07AX31	Ivacaftor and tezacaftor
+S	Sensory organs
+S01	Ophthalmologicals
+S01A	Antiinfectives
+S01AA	Antibiotics
+S01AA05	Tyrothricin
+S01AA11	Gentamicin
+S01AA12	Tobramycin
+S01AA13	Fusidic acid
+S01AA15	Dihydrostreptomycin
+S01AA16	Rifamycin
+S01AA21	Amikacin
+S01AA22	Micronomicin
+S01AA23	Netilmicin
+S01AA24	Kanamycin
+S01AA25	Azidamfenicol
+S01AA27	Cefuroxime
+S01AB	Sulfonamides
+S01AB03	Sulfadicramide
+S01AB05	Sulfafenazol
+S01AD	Antivirals
+S01AD08	Fomivirsen
+S01AE	Fluoroquinolones
+S01AE04	Lomefloxacin
+S01AE06	Gatifloxacin
+S01AE07	Moxifloxacin
+S01AE08	Besifloxacin
+S01AX	Other antiinfectives
+S01AX05	Bibrocathol
+S01AX07	Sodium borate
+S01AX10	Sodium propionate
+S01AX15	Propamidine
+S01AX16	Picloxydine
+S01B	Antiinflammatory agents
+S01BA	Corticosteroids, plain
+S01BA08	Medrysone
+S01BA11	Desonide
+S01BA12	Formocortal
+S01BA14	Loteprednol
+S01BC	Antiinflammatory agents, non-steroids
+S01BC09	Pranoprofen
+S01BC10	Nepafenac
+S01BC11	Bromfenac
+S01C	Antiinflammatory agents and antiinfectives in combination
+S01CA	Corticosteroids and antiinfectives in combination
+S01CA02	Prednisolone and antiinfectives
+S01CA10	Fluocinolone acetonide and antiinfectives
+S01CB	Corticosteroids/antiinfectives/mydriatics in combination
+S01CB03	Hydrocortisone
+S01CC	Antiinflammatory agents, non-steroids and antiinfectives in combination
+S01CC01	Diclofenac and antiinfectives
+S01CC02	Indometacin and antiinfectives
+S01E	Antiglaucoma preparations and miotics
+S01EA	Sympathomimetics in glaucoma therapy
+S01EA02	Dipivefrine
+S01EA03	Apraclonidine
+S01EA04	Clonidine
+S01EB	Parasympathomimetics
+S01EB03	Ecothiopate
+S01EB04	Demecarium
+S01EB05	Physostigmine
+S01EB09	Acetylcholine
+S01EB10	Paraoxon
+S01EB58	Aceclidine, combinations
+S01EC	Carbonic anhydrase inhibitors
+S01EC03	Dorzolamide
+S01EC05	Methazolamide
+S01EC54	Brinzolamide, combinations
+S01ED	Beta blocking agents
+S01ED02	Betaxolol
+S01ED03	Levobunolol
+S01ED06	Befunolol
+S01ED54	Metipranolol, combinations
+S01ED55	Carteolol, combinations
+S01EE	Prostaglandin analogues
+S01EE01	Latanoprost
+S01EE02	Unoprostone
+S01EE03	Bimatoprost
+S01EE04	Travoprost
+S01EE05	Tafluprost
+S01EX	Other antiglaucoma preparations
+S01EX01	Guanethidine
+S01EX02	Dapiprazole
+S01EX05	Netarsudil
+S01F	Mydriatics and cycloplegics
+S01FA	Anticholinergics
+S01FA01	Atropine
+S01FA05	Homatropine
+S01FA06	Tropicamide
+S01FA54	Cyclopentolate, combinations
+S01FB	Sympathomimetics excl. antiglaucoma preparations
+S01FB01	Phenylephrine
+S01FB02	Ephedrine
+S01FB03	Ibopamine
+S01G	Decongestants and antiallergics
+S01GA	Sympathomimetics used as decongestants
+S01GA02	Tetryzoline
+S01GA04	Oxymetazoline
+S01GA06	Oxedrine
+S01GX	Other antiallergics
+S01GX05	Lodoxamide
+S01GX06	Emedastine
+S01GX08	Ketotifen
+S01GX09	Olopatadine
+S01GX10	Epinastine
+S01GX11	Alcaftadine
+S01H	Local anesthetics
+S01HA	Local anesthetics
+S01HA01	Cocaine
+S01HA02	Oxybuprocaine
+S01HA04	Proxymetacaine
+S01HA07	Lidocaine
+S01J	Diagnostic agents
+S01JA	Colouring agents
+S01JA01	Fluorescein
+S01JA02	Rose bengal sodium
+S01K	Surgical aids
+S01KA	Viscoelastic substances
+S01KA02	Hypromellose
+S01KA51	Hyaluronic acid, combinations
+S01KX	Other surgical aids
+S01KX01	Chymotrypsin
+S01L	Ocular vascular disorder agents
+S01LA	Antineovascularisation agents
+S01LA01	Verteporfin
+S01LA02	Anecortave
+S01LA03	Pegaptanib
+S01LA04	Ranibizumab
+S01LA05	Aflibercept
+S01X	Other ophthalmologicals
+S01XA	Other ophthalmologicals
+S01XA01	Guaiazulen
+S01XA04	Potassium iodide
+S01XA05	Sodium edetate
+S01XA06	Ethylmorphine
+S01XA11	Nandrolone
+S01XA22	Ocriplasmin
+S01XA23	Sirolimus
+S01XA24	Cenegermin
+S01XA25	Lifitegrast
+S02	Otologicals
+S02A	Antiinfectives
+S02AA	Antiinfectives
+S02AA03	Boric acid
+S02AA04	Aluminium acetotartrate
+S02AA08	Tetracycline
+S02AA10	Acetic acid
+S02AA11	Polymyxin b
+S02C	Corticosteroids and antiinfectives in combination
+S02CA	Corticosteroids and antiinfectives in combination
+S02CA07	Fludrocortisone and antiinfectives
+S03	Ophthalmological and otological preparations
+S03A	Antiinfectives
+S03AA	Antiinfectives
+S03AA05	Hexamidine
+S03AA08	Chloramphenicol
+V	Various
+V01	Allergens
+V01A	Allergens
+V01AA	Allergen extracts
+V01AA03	House dust mites
+V03	All other therapeutic products
+V03A	All other therapeutic products
+V03AB	Antidotes
+V03AB02	Nalorphine
+V03AB04	Pralidoxime
+V03AB08	Sodium nitrite
+V03AB09	Dimercaprol
+V03AB13	Obidoxime
+V03AB14	Protamine
+V03AB16	Ethanol
+V03AB17	Methylthioninium chloride
+V03AB18	Potassium permanganate
+V03AB20	Copper sulfate
+V03AB22	Amyl nitrite
+V03AB24	Digitalis antitoxin
+V03AB25	Flumazenil
+V03AB26	Methionine
+V03AB27	4-dimethylaminophenol
+V03AB31	Prussian blue
+V03AB32	Glutathione
+V03AB34	Fomepizole
+V03AB35	Sugammadex
+V03AB36	Phentolamine
+V03AB37	Idarucizumab
+V03AB38	Andexanet alfa
+V03AC	Iron chelating agents
+V03AC01	Deferoxamine
+V03AC02	Deferiprone
+V03AC03	Deferasirox
+V03AE	Drugs for treatment of hyperkalemia and hyperphosphatemia
+V03AE01	Polystyrene sulfonate
+V03AE02	Sevelamer
+V03AE03	Lanthanum carbonate
+V03AE04	Calcium acetate and magnesium carbonate
+V03AE06	Colestilan
+V03AE08	Ferric citrate
+V03AE10	Sodium zirconium cyclosilicate
+V03AF	Detoxifying agents for antineoplastic treatment
+V03AF02	Dexrazoxane
+V03AF05	Amifostine
+V03AF06	Sodium folinate
+V03AF07	Rasburicase
+V03AF08	Palifermin
+V03AF09	Glucarpidase
+V03AF10	Sodium levofolinate
+V03AG	Drugs for treatment of hypercalcemia
+V03AG01	Sodium cellulose phosphate
+V03AN	Medical gases
+V03AN01	Oxygen
+V03AN02	Carbon dioxide
+V03AN03	Helium
+V03AN04	Nitrogen
+V03AN05	Medical air
+V03AX	Other therapeutic products
+V03AX02	Nalfurafine
+V04	Diagnostic agents
+V04C	Other diagnostic agents
+V04CA	Tests for diabetes
+V04CA01	Tolbutamide
+V04CB	Tests for fat absorption
+V04CB01	Vitamin a concentrates
+V04CC	Tests for bile duct patency
+V04CC03	Sincalide
+V04CC04	Ceruletide
+V04CD	Tests for pituitary function
+V04CD01	Metyrapone
+V04CD03	Sermorelin
+V04CD04	Corticorelin
+V04CD05	Somatorelin
+V04CD06	Macimorelin
+V04CE	Tests for liver functional capacity
+V04CE02	Sulfobromophthalein
+V04CG	Tests for gastric secretion
+V04CG02	Betazole
+V04CG04	Pentagastrin
+V04CH	Tests for renal function and ureteral injuries
+V04CH01	Inulin and other polyfructosans
+V04CH02	Indigo carmine
+V04CH03	Phenolsulfonphthalein
+V04CH04	Alsactide
+V04CH30	Aminohippuric acid
+V04CJ	Tests for thyreoidea function
+V04CJ01	Thyrotropin
+V04CJ02	Protirelin
+V04CK	Tests for pancreatic function
+V04CK01	Secretin
+V04CK02	Pancreozymin (cholecystokinin)
+V04CK03	Bentiromide
+V04CM	Tests for fertility disturbances
+V04CM01	Gonadorelin
+V06	General nutrients
+V06D	Other nutrients
+V06DC	Carbohydrates
+V06DC02	Fructose
+V08	Contrast media
+V08A	X-ray contrast media, iodinated
+V08AA	Watersoluble, nephrotropic, high osmolar x-ray contrast media
+V08AA01	Diatrizoic acid
+V08AA02	Metrizoic acid
+V08AA03	Iodamide
+V08AA04	Iotalamic acid
+V08AA05	Ioxitalamic acid
+V08AA06	Ioglicic acid
+V08AA07	Acetrizoic acid
+V08AA08	Iocarmic acid
+V08AA09	Methiodal
+V08AA10	Diodone
+V08AB	Watersoluble, nephrotropic, low osmolar x-ray contrast media
+V08AB01	Metrizamide
+V08AB02	Iohexol
+V08AB03	Ioxaglic acid
+V08AB04	Iopamidol
+V08AB05	Iopromide
+V08AB06	Iotrolan
+V08AB07	Ioversol
+V08AB08	Iopentol
+V08AB09	Iodixanol
+V08AB10	Iomeprol
+V08AB11	Iobitridol
+V08AB12	Ioxilan
+V08AC	Watersoluble, hepatotropic x-ray contrast media
+V08AC01	Iodoxamic acid
+V08AC02	Iotroxic acid
+V08AC03	Ioglycamic acid
+V08AC04	Adipiodone
+V08AC05	Iobenzamic acid
+V08AC06	Iopanoic acid
+V08AC07	Iocetamic acid
+V08AC08	Sodium iopodate
+V08AC09	Tyropanoic acid
+V08AD	Non-watersoluble x-ray contrast media
+V08AD02	Iopydol
+V08AD03	Propyliodone
+V08AD04	Iofendylate
+V08B	X-ray contrast media, non-iodinated
+V08BA	Barium sulfate containing x-ray contrast media
+V08BA02	Barium sulfate without suspending agents
+V08C	Magnetic resonance imaging contrast media
+V08CA	Paramagnetic contrast media
+V08CA01	Gadopentetic acid
+V08CA02	Gadoteric acid
+V08CA03	Gadodiamide
+V08CA04	Gadoteridol
+V08CA05	Mangafodipir
+V08CA06	Gadoversetamide
+V08CA07	Ferric ammonium citrate
+V08CA08	Gadobenic acid
+V08CA09	Gadobutrol
+V08CA10	Gadoxetic acid
+V08CA11	Gadofosveset
+V08CB01	Ferumoxsil
+V08CB03	Iron oxide, nanoparticles
+V08CX	Other magnetic resonance imaging contrast media
+V08CX01	Perflubron
+V08D	Ultrasound contrast media
+V08DA	Ultrasound contrast media
+V08DA02	Microparticles of galactose
+V08DA03	Perflenapent
+V08DA05	Sulfur hexafluoride, phospholipid microspheres
+V09	Diagnostic radiopharmaceuticals
+V09A	Central nervous system
+V09AA	Technetium compounds
+V09AA01	Technetium exametazime
+V09AB	Iodine compounds
+V09AB01	Iodine iofetamine
+V09AB03	Iodine ioflupane
+V09AX	Other central nervous system diagnostic radiopharmaceuticals
+V09AX01	Indium pentetic acid
+V09AX04	Flutemetamol
+V09AX05	Florbetapir
+V09AX06	Florbetaben
+V09B	Skeleton
+V09BA	Technetium compounds
+V09BA01	Technetium oxidronic acid
+V09BA02	Technetium medronic acid
+V09BA03	Technetium pyrophosphate
+V09D	Hepatic and reticulo endothelial system
+V09DA	Technetium compounds
+V09DA01	Technetium disofenin
+V09DA02	Technetium etifenin
+V09DA04	Technetium mebrofenin
+V09DB	Technetium, particles and colloids
+V09DB05	Technetium sulfur colloid
+V09E	Respiratory system
+V09EX	Other respiratory system diagnostic radiopharmaceuticals
+V09EX01	Krypton gas
+V09EX03	Xenon gas
+V09F	Thyroid
+V09FX	Various thyroid diagnostic radiopharmaceuticals
+V09FX01	Technetium pertechnetate
+V09FX02	Sodium iodide
+V09FX03	Sodium iodide
+V09G	Cardiovascular system
+V09GA	Technetium compounds
+V09GA01	Technetium sestamibi
+V09GA02	Technetium tetrofosmin
+V09H	Inflammation and infection detection
+V09HA	Technetium compounds
+V09HA04	Technetium sulesomab
+V09I	Tumour detection
+V09IA	Technetium compounds
+V09IA06	Technetium arcitumomab
+V09IA09	Technetium tilmanocept
+V09IB	Indium compounds
+V09IB01	Indium pentetreotide
+V09IB02	Indium satumomab pendetide
+V09IB04	Indium capromab pendetide
+V09IX	Other diagnostic radiopharmaceuticals for tumour detection
+V09IX01	Iobenguane
+V09IX04	Fludeoxyglucose
+V09IX05	Fluorodopa
+V09IX06	Sodium fluoride
+V09IX09	Gallium (68ga) edotreotide
+V09IX12	Fluciclovine
+V09X	Other diagnostic radiopharmaceuticals
+V09XA	Iodine compounds
+V09XA01	Iodine norcholesterol
+V09XA02	Iodocholesterol
+V09XX	Various diagnostic radiopharmaceuticals
+V09XX03	Selenium norcholesterol
+V09XX04	Ferric citrate
+V10	Therapeutic radiopharmaceuticals
+V10A	Antiinflammatory agents
+V10AA	Yttrium compounds
+V10AA01	Yttrium citrate colloid
+V10AX	Other antiinflammatory therapeutic radiopharmaceuticals
+V10AX05	Rhenium sulfide colloid
+V10AX06	Gold colloidal
+V10B	Pain palliation
+V10BX	Various pain palliation radiopharmaceuticals
+V10BX01	Strontium chloride
+V10BX02	Samarium lexidronam
+V10X	Other therapeutic radiopharmaceuticals
+V10XA	Iodine compounds
+V10XA53	Tositumomab/iodine tositumomab
+V10XX	Various therapeutic radiopharmaceuticals
+V10XX02	Ibritumomab tiuxetan
+J05AX12	Dolutegravir
+L01XE	Protein kinase inhibitors
+L01XE01	Imatinib
+L01XE02	Gefitinib
+L01XE03	Erlotinib
+L01XE04	Sunitinib
+L01XE05	Sorafenib
+L01XE06	Dasatinib
+L01XE07	Lapatinib
+L01XE08	Nilotinib
+L01XE09	Temsirolimus
+L01XE10	Everolimus
+L01XE11	Pazopanib
+L01XE12	Vandetanib
+L01XE13	Afatinib
+L01XE14	Bosutinib
+L01XE15	Vemurafenib
+L01XE16	Crizotinib
+L01XE17	Axitinib
+L01XE18	Ruxolitinib
+L01XE19	Ridaforolimus
+L01XE21	Regorafenib
+L01XE22	Masitinib
+L01XE23	Dabrafenib
+L01XE24	Ponatinib
+L01XE25	Trametinib
+L01XE26	Cabozantinib
+L01XE27	Ibrutinib
+L01XE28	Ceritinib
+L01XE29	Lenvatinib
+L01XE31	Nintedanib
+L01XE32	Cediranib
+L01XE33	Palbociclib
+L01XE34	Tivozanib
+L01XE35	Osimertinib
+L01XE36	Alectinib
+L01XE37	Rociletinib
+L01XE38	Cobimetinib
+L01XE39	Midostaurin
+L01XE40	Olmutinib
+L01XE41	Binimetinib
+L01XE42	Ribociclib
+L01XE43	Brigatinib
+L01XE44	Lorlatinib
+L01XE45	Neratinib
+L01XE46	Encorafenib
+L01XE47	Dacomitinib
+L01XE48	Icotinib
+L01XE50	Abemaciclib
+L01XX17	Topotecan
+L01XX19	Irinotecan
+L01XX25	Bexarotene
+L01XX32	Bortezomib
+L01XX38	Vorinostat
+L01XX39	Romidepsin
+L01XX42	Panobinostat
+L01XX43	Vismodegib
+L01XX45	Carfilzomib
+L01XX46	Olaparib
+L01XX47	Idelalisib
+L01XX48	Sonidegib
+L01XX49	Belinostat
+L01XX50	Ixazomib
+L01XX54	Niraparib
+L01XX55	Rucaparib
+L01XX56	Etirinotecan pegol
+L01XX60	Talazoparib
+L01XX61	Copanlisib
+V08CB	Superparamagnetic contrast media

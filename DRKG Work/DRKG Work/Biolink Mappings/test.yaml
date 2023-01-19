@@ -1,0 +1,22 @@
+id: "https://w3id.org/biolink/biolink-model"
+name: Biolink-Model
+description: Entity and association taxonomy and datamodel for life-sciences data
+license: https://creativecommons.org/publicdomain/zero/1.0/
+
+# Version should be kept in sync with primary Git repository release tag
+version: 1.4.0
+
+## --------------------
+## PREDICATES/RELATIONS
+## --------------------
+
+related to:
+  description: >-
+    A relationship that is asserted between two named things
+  domain: named thing
+  range: named thing
+  multivalued: true
+  inherited: true
+  symmetric: true
+  exact_mappings:
+    - skos:relatedMatch

@@ -1,0 +1,20 @@
+C	narrow_mappings	condition associated with gene
+D	narrow_mappings	entity positively regulates entity
+E	narrow_mappings	entity positively regulates entity
+E	narrow_mappings	entity positively regulates entity
+G	narrow_mappings	entity positively regulates entity
+I	narrow_mappings	condition associated with gene
+L	narrow_mappings	entity positively regulates entity
+N	narrow_mappings	entity negatively regulates entity
+O	narrow_mappings	entity negatively regulates entity
+T	narrow_mappings	entity positively regulates entity
+U	narrow_mappings	entity positively regulates entity
+W	narrow_mappings	entity negatively regulates entity
+X	exact_mappings	expresses
+AdG	narrow_mappings	entity negatively regulates entity
+AeG	exact_mappings	expresses
+AuG	narrow_mappings	entity positively regulates entity
+DaG	narrow_mappings	condition associated with gene
+DdG	narrow_mappings	entity negatively regulates entity
+DpS	broad_mappings	has phenotype
+DuG	narrow_mappings	entity positively regulates entity

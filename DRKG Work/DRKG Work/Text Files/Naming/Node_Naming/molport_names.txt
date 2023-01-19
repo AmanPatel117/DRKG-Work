@@ -1,0 +1,228 @@
+molport:MolPort-001-776-387	2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane
+molport:MolPort-001-783-510	1-cyclohexyl-1-phenyl-3-(piperidin-1-yl)propan-1-ol
+molport:MolPort-001-785-595	benzyl(2-chloroethyl)(1-phenoxypropan-2-yl)amine
+molport:MolPort-001-828-300	2-{4-[(2R)-2-hydroxy-3-[(propan-2-yl)amino]propoxy]phenyl}acetamide
+molport:MolPort-001-832-617	2-(diethylamino)ethyl [1,1'-bi(cyclohexane)]-1-carboxylate
+molport:MolPort-001-836-874	N-{2-[4-({[(azepan-1-yl)carbamoyl]amino}sulfonyl)phenyl]ethyl}-5-methyl-1,2-oxazole-3-carboxamide
+molport:MolPort-001-920-086	3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-5-(2-hydroxyethyl)-4-methyl-1,3-thiazol-3-ium
+molport:MolPort-001-955-093	{2-[(2-cyclohexyl-2-hydroxy-2-phenylacetyl)oxy]ethyl}diethylmethylazanium
+molport:MolPort-002-052-010	2-amino-1-(2,5-dimethoxyphenyl)propan-1-ol
+molport:MolPort-002-052-046	dimethyl({2-[(2-methylphenyl)(phenyl)methoxy]ethyl})amine
+molport:MolPort-002-052-088	5-(1-hydroxy-2-{[1-(4-hydroxyphenyl)propan-2-yl]amino}ethyl)benzene-1,3-diol
+molport:MolPort-002-070-273	7-chloro-2-ethyl-4-oxo-1,2,3,4-tetrahydroquinazoline-6-sulfonamide
+molport:MolPort-002-484-045	6-ethyl-5-phenylpyrimidine-2,4-diamine
+molport:MolPort-002-506-307	2-{4-[3-(trifluoromethyl)phenyl]piperazin-1-yl}ethyl 2-{[7-(trifluoromethyl)quinolin-4-yl]amino}benzoate
+molport:MolPort-002-506-322	2-[4-(3-{2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3(8),4,6,9,12,14-heptaen-2-yl}propyl)piperazin-1-yl]ethan-1-ol
+molport:MolPort-002-507-837	[3-(4-chlorophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+molport:MolPort-002-512-506	(3S,4R)-3-ethyl-4-[(1-methyl-1H-imidazol-5-yl)methyl]oxolan-2-one
+molport:MolPort-002-512-839	(1R)-1-{[(2S,3R,11bS)-3-ethyl-9,10-dimethoxy-1H,2H,3H,4H,6H,7H,11bH-pyrido[2,1-a]isoquinolin-2-yl]methyl}-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline
+molport:MolPort-002-515-462	(2S,5R,6R)-3,3-dimethyl-7-oxo-6-(2-phenoxyacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+molport:MolPort-002-964-486	trimethyl[2-({4-oxo-4-[2-(trimethylazaniumyl)ethoxy]butanoyl}oxy)ethyl]azanium
+molport:MolPort-003-665-565	methyl (1R,2R,4S)-4-{[(2R,4S,5S,6S)-4-(dimethylamino)-5-{[(2S,4S,5S,6S)-4-hydroxy-6-methyl-5-{[(2R,6S)-6-methyl-5-oxooxan-2-yl]oxy}oxan-2-yl]oxy}-6-methyloxan-2-yl]oxy}-2-ethyl-2,5,7-trihydroxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracene-1-carboxylate
+molport:MolPort-003-666-698	(3S)-2-[(2S)-2-{[(1S)-1-carboxy-3-phenylpropyl]amino}propanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid
+molport:MolPort-003-803-842	3-[(dimethylcarbamoyl)oxy]-1-methylpyridin-1-ium
+molport:MolPort-003-808-703	1-[3-(2-methanesulfonyl-10H-phenothiazin-10-yl)propyl]piperidine-4-carboxamide
+molport:MolPort-003-846-790	bis(propan-2-yl) phosphorofluoridate
+molport:MolPort-003-847-021	1-(diphenylmethyl)-4-[3-(2-phenyl-1,3-dioxolan-2-yl)propyl]piperazine
+molport:MolPort-003-848-481	2-{[(1R)-2-[(2S)-2-{[(4-carbamimidoylphenyl)methyl]carbamoyl}azetidin-1-yl]-1-cyclohexyl-2-oxoethyl]amino}acetic acid
+molport:MolPort-003-849-343	1-(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)-2-{[2-(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)-2-hydroxyethyl]amino}ethan-1-ol
+molport:MolPort-003-850-880	[(2Z)-3-(4-bromophenyl)-3-(pyridin-3-yl)prop-2-en-1-yl]dimethylamine
+molport:MolPort-003-925-785	diarsorosooxidane
+molport:MolPort-003-926-569	(2R,3S,4R,5R)-N-{3-[(4R)-4-[(1R,3aS,3bR,5aR,7R,9aS,9bS,11S,11aR)-7,11-dihydroxy-9a,11a-dimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-1-yl]-N-{3-[(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanamido]propyl}pentanamido]propyl}-2,3,4,5,6-pentahydroxyhexanamide
+molport:MolPort-003-939-179	(5Z)-7-[(1R,2R,5S)-5-hydroxy-2-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-3-oxocyclopentyl]hept-5-enoic acid
+molport:MolPort-003-940-835	2-[(2E)-3,7-dimethylocta-2,6-dien-1-yl]-5,6-dimethoxy-3-methylcyclohexa-2,5-diene-1,4-dione
+molport:MolPort-003-959-014	(1S,5R,13S,17S)-4-(cyclopropylmethyl)-14-methylidene-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7,9,11(18)-triene-10,17-diol
+molport:MolPort-004-288-389	N-[amino(dimethylamino)methylidene]guanidine
+molport:MolPort-004-758-653	3H-purin-6-amine
+molport:MolPort-005-934-219	N-[2-hydroxy-5-(1-hydroxy-2-{[1-(4-methoxyphenyl)propan-2-yl]amino}ethyl)phenyl]formamide
+molport:MolPort-005-934-296	2-{[4,6-diamino-3-({3-amino-6-[1-(methylamino)ethyl]oxan-2-yl}oxy)-2-hydroxycyclohexyl]oxy}-5-methyl-4-(methylamino)oxane-3,5-diol
+molport:MolPort-005-935-074	(2R,3S,5R)-5-(6-amino-2-chloro-9H-purin-9-yl)-2-(hydroxymethyl)oxolan-3-ol
+molport:MolPort-005-938-576	(1R,2R,4S,5S,7S)-9-methyl-3-oxa-9-azatricyclo[3.3.1.0²,⁴]nonan-7-yl (2S)-3-hydroxy-2-phenylpropanoate
+molport:MolPort-005-940-716	2-[benzyl(phenyl)amino]ethyl 5-(5,5-dimethyl-2-oxo-1,3,2λ⁵-dioxaphosphinan-2-yl)-2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3-carboxylate
+molport:MolPort-005-940-875	(6aS,10aS)-9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6H,6aH,7H,10H,10aH-benzo[c]isochromen-1-ol
+molport:MolPort-005-943-442	(1S,2R,3aS,3bS,5S,9aS,9bR,10S,11aS)-9b-chloro-5-fluoro-10-hydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-006-106-639	4-{bis[4-(dimethylamino)phenyl]methylidene}-N,N-dimethylcyclohexa-2,5-dien-1-iminium
+molport:MolPort-006-110-096	(1R,2R,3aS,3bS,5S,9aR,9bS,10S,11aS)-5-fluoro-1,10-dihydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-006-110-129	(9R)-10-methyl-10-azatetracyclo[7.7.1.0²,⁷.0¹³,¹⁷]heptadeca-1(17),2(7),3,5,13,15-hexaene-3,4-diol
+molport:MolPort-006-110-131	(1S,3aS,3bR,5aS,8R,9aS,9bS,11aS)-1-hydroxy-8,9a,11a-trimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-7-one
+molport:MolPort-006-110-225	1-cyclopentyl-1-phenyl-3-(piperidin-1-yl)propan-1-ol
+molport:MolPort-006-110-420	N-[2-(dimethylamino)ethyl]-N-[(thiophen-2-yl)methyl]pyridin-2-amine
+molport:MolPort-006-111-067	4-(diphenylmethoxy)-1-methylpiperidine
+molport:MolPort-006-111-174	dimethyl(3-{tricyclo[9.4.0.0³,⁸]pentadeca-1(11),3(8),4,6,9,12,14-heptaen-2-ylidene}propyl)amine
+molport:MolPort-006-111-222	N-[5-(2-methoxyethoxy)pyrimidin-2-yl]benzenesulfonamide
+molport:MolPort-006-111-226	6-chloro-2-methyl-1,1-dioxo-3-{[(2,2,2-trifluoroethyl)sulfanyl]methyl}-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+molport:MolPort-006-111-325	{[5-hydroxy-4-(hydroxymethyl)-6-methylpyridin-3-yl]methoxy}phosphonic acid
+molport:MolPort-006-111-618	8-chloro-1,3-dimethyl-2,3,6,9-tetrahydro-1H-purine-2,6-dione; [2-(diphenylmethoxy)ethyl]dimethylamine
+molport:MolPort-006-113-940	13-chloro-10-(4-methylpiperazin-1-yl)-2-thia-9-azatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3(8),4,6,9,12,14-heptaene
+molport:MolPort-006-114-821	7-nitro-2H-indazole
+molport:MolPort-006-114-977	{[(2R,3S,4R,5R)-5-(5-amino-4-carbamoyl-1H-imidazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+molport:MolPort-006-119-381	(6R,7R)-3-[(acetyloxy)methyl]-7-(2-cyanoacetamido)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+molport:MolPort-006-120-095	2-(phosphonooxy)acetic acid
+molport:MolPort-006-123-555	(7-nitro-2-{[(propan-2-yl)amino]methyl}-1,2,3,4-tetrahydroquinolin-6-yl)methanol
+molport:MolPort-006-127-383	(2S)-2-[(2S)-2-{[hydroxy({[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy})phosphoryl]amino}-4-methylpentanamido]-3-(1H-indol-3-yl)propanoic acid
+molport:MolPort-006-131-342	5-chloro-1-{1-[3-(2-hydroxy-1H-1,3-benzodiazol-1-yl)propyl]piperidin-4-yl}-1H-1,3-benzodiazol-2-ol
+molport:MolPort-006-132-043	1-{3-[4-(diphenylmethyl)piperazin-1-yl]propyl}-1H-1,3-benzodiazol-2-ol
+molport:MolPort-006-132-261	(7S)-5-methyl-2,5,19-triazatetracyclo[13.4.0.0²,⁷.0⁸,¹³]nonadeca-1(15),8(13),9,11,16,18-hexaene
+molport:MolPort-006-167-599	N-(1-{2-[(carbamoylmethyl)carbamoyl]pyrrolidin-1-yl}-5-[(diaminomethylidene)amino]-1-oxopentan-2-yl)-2-{2-[2-(3-hydroxy-2-{2-[3-(1H-imidazol-5-yl)-2-[(5-oxopyrrolidin-2-yl)formamido]propanamido]-3-(1H-indol-3-yl)propanamido}propanamido)-3-(4-hydroxyphenyl)propanamido]acetamido}-4-methylpentanamide
+molport:MolPort-006-167-667	2-methanesulfinyl-10-[2-(1-methylpiperidin-2-yl)ethyl]-10H-phenothiazine
+molport:MolPort-006-167-785	(3R,5R,6S,7S,8R,11R,12S,13R,14S,15S)-14-{[(2S,3R,4S,6R)-3-(acetyloxy)-4-(dimethylamino)-6-methyloxan-2-yl]oxy}-12-{[(2R,4S,5S,6S)-5-(acetyloxy)-4-methoxy-6-methyloxan-2-yl]oxy}-5,7,8,11,13,15-hexamethyl-4,10-dioxo-1,9-dioxaspiro[2.13]hexadecan-6-yl acetate
+molport:MolPort-006-167-790	3-[(dimethylcarbamoyl)oxy]-N,N,N-trimethylanilinium
+molport:MolPort-006-167-821	4-{4-[(4-chlorophenyl)(pyridin-2-yl)methoxy]piperidin-1-yl}butanoic acid
+molport:MolPort-006-167-836	(2S)-2-{[(3aS,7aS)-1-{2-[(2S)-2-[(2S)-2-(2-{[(4R)-1-(1-{2-[(2R)-2-amino-5-[(diaminomethylidene)amino]pentanamido]-5-[(diaminomethylidene)amino]pentanoyl}pyrrolidine-2-carbonyl)-4-hydroxypyrrolidin-2-yl]formamido}acetamido)-3-(thiophen-2-yl)propanamido]-3-hydroxypropanoyl]-1,2,3,4-tetrahydroisoquinoline-3-carbonyl}-octahydro-1H-indol-2-yl]formamido}-5-[(diaminomethylidene)amino]pentanoic acid
+molport:MolPort-006-167-840	3-{1-methyl-7-oxo-3-propyl-1H,4H,7H-pyrazolo[4,3-d]pyrimidin-5-yl}-N-[2-(1-methylpyrrolidin-2-yl)ethyl]-4-propoxybenzene-1-sulfonamide
+molport:MolPort-006-168-169	2-(N-hydroxyformamido)acetic acid
+molport:MolPort-006-168-324	phosphorofluoridate
+molport:MolPort-006-168-522	9-hydroxy-8-methoxy-6-nitro-2H-phenanthro[3,4-d][1,3]dioxole-5-carboxylic acid
+molport:MolPort-006-169-233	(E)-N'-phenyl(ethylsulfanyl)methanimidamide
+molport:MolPort-006-170-024	(1S,2R,18R,19R,22S,25R,28R,40S)-2-{[(2R,4S,5R,6S)-4-amino-5-hydroxy-4,6-dimethyloxan-2-yl]oxy}-22-(carbamoylmethyl)-5,15-dichloro-48-{[(2S,3R,4S,5S,6R)-3-{[(2S,4S,5R,6S)-4-[({4'-chloro-[1,1'-biphenyl]-4-yl}methyl)amino]-5-hydroxy-4,6-dimethyloxan-2-yl]oxy}-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-18,32,35,37-tetrahydroxy-19-[(2R)-4-methyl-2-(methylamino)pentanamido]-20,23,26,42,44-pentaoxo-7,13-dioxa-21,24,27,41,43-pentaazaoctacyclo[26.14.2.2³,⁶.2¹⁴,¹⁷.1⁸,¹².1²⁹,³³.0¹⁰,²⁵.0³⁴,³⁹]pentaconta-3,5,8(48),9,11,14,16,29(45),30,32,34(39),35,37,46,49-pentadecaene-40-carboxylic acid
+molport:MolPort-006-170-030	(4S)-4-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1S)-1-[({[(2S)-6-amino-1-[(2S)-2-{[(1S)-1-carbamoyl-2-methylpropyl]carbamoyl}pyrrolidin-1-yl]-1-oxohexan-2-yl]carbamoyl}methyl)carbamoyl]-2-(1H-indol-3-yl)ethyl]carbamoyl}-4-carbamimidamidobutyl]carbamoyl}-2-phenylethyl]carbamoyl}-2-(1H-imidazol-5-yl)ethyl]carbamoyl}-4-[(2S)-2-[(2S)-2-[(2S)-2-[(2S)-2-acetamido-3-hydroxypropanamido]-3-(4-hydroxyphenyl)propanamido]-3-hydroxypropanamido]hexanamido]butanoic acid
+molport:MolPort-006-170-133	(2R,3R,4S)-4-(2H-1,3-benzodioxol-5-yl)-1-[(dibutylcarbamoyl)methyl]-2-(4-methoxyphenyl)pyrrolidine-3-carboxylic acid
+molport:MolPort-006-170-148	3-hydroxy-2-phenyl-N-(1-phenylpropyl)quinoline-4-carboxamide
+molport:MolPort-006-394-522	4-{2-amino-1-methyl-1H-imidazo[4,5-b]pyridin-6-yl}phenol
+molport:MolPort-006-394-799	methyl (3R,4S)-3-methyl-1-(2-phenylethyl)-4-(N-phenylpropanamido)piperidine-4-carboxylate
+molport:MolPort-006-395-758	1-{2-[(2S)-2-hydroxy-3-(propylamino)propoxy]phenyl}-3-phenylpropan-1-one
+molport:MolPort-019-991-309	(1S,3aS,3bR,5aR,9aS,9bS,11aS)-1-acetyl-9a,11a-dimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-7-one
+molport:MolPort-019-996-380	(2S,3R,4S,5R,6R)-6-methyloxane-2,3,4,5-tetrol
+molport:MolPort-020-007-045	5-ethyl-5-(pentan-2-yl)-2-sulfanylidene-1,3-diazinane-4,6-dione
+molport:MolPort-020-172-833	5-(aminomethyl)-2,3-dihydro-1,2-oxazol-3-one
+molport:MolPort-020-349-189	ethyl 3-(4-sulfamoylphenyl)propanoate
+molport:MolPort-021-804-966	(2R,3R,4S)-4-carbamimidamido-2-[(1R,2R)-2,3-dihydroxy-1-methoxypropyl]-3-acetamido-3,4-dihydro-2H-pyran-6-carboxylic acid
+molport:MolPort-023-220-840	{5-[(1S,2S)-2-[(3S,6S,9S,11R,15S,18S,20R,21R,24S,25S,26S)-3-[(1R)-2-carbamoyl-1-hydroxyethyl]-11,20,21,25-tetrahydroxy-15-[(1R)-1-hydroxyethyl]-26-methyl-2,5,8,14,17,23-hexaoxo-18-(4-{5-[4-(pentyloxy)phenyl]-1,2-oxazol-3-yl}benzamido)-1,4,7,13,16,22-hexaazatricyclo[22.3.0.0⁹,¹³]heptacosan-6-yl]-1,2-dihydroxyethyl]-2-hydroxyphenyl}oxidanesulfonic acid
+molport:MolPort-028-751-160	{[(2R,3S,4R,5R)-3,4-dihydroxy-5-(4-hydroxy-2-oxo-1,2-dihydropyrimidin-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+molport:MolPort-028-754-147	(2S)-2-({[(S)-(2-amino-3,4,5,6-tetrahydropyrimidin-4-yl)({[(1S)-3-methyl-1-{[(2S)-1-oxo-3-phenylpropan-2-yl]carbamoyl}butyl]carbamoyl})methyl]carbamoyl}amino)-3-phenylpropanoic acid
+molport:MolPort-035-706-701	(1R,2R,3aS,3bS,4R,9aR,9bS,10S,11aS)-4-chloro-1,10-dihydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-035-800-580	trimethyl[6-(trimethylazaniumyl)hexyl]azanium
+molport:MolPort-035-944-267	selanylidene
+molport:MolPort-036-379-904	9H-purine-2,6,8-triol
+molport:MolPort-039-139-262	4-[(1S)-1-(2,3-dimethylphenyl)ethyl]-1H-imidazole
+molport:MolPort-039-344-961	5-[(3,4,5-trimethoxyphenyl)methyl]-1,2,3,4-tetrahydropyrimidine-2,4-diimine
+molport:MolPort-042-644-434	7-{2-hydroxy-3-[(2-hydroxyethyl)(methyl)amino]propyl}-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+molport:MolPort-042-652-845	(1R,2R,3S,5S)-3-(3,4-dichlorophenyl)-2-(ethoxymethyl)-8-methyl-8-azabicyclo[3.2.1]octane
+molport:MolPort-044-561-436	({[({[(2S,5R)-5-(6-amino-9H-purin-9-yl)oxolan-2-yl]methoxy}(hydroxy)phosphoryl)oxy](hydroxy)phosphoryl}oxy)phosphonic acid
+molport:MolPort-044-567-604	1-[({4-[(4-fluoro-2-methyl-1H-indol-5-yl)oxy]-6-methoxyquinolin-7-yl}oxy)methyl]cyclopropan-1-amine
+molport:MolPort-044-567-967	5-ethynylpyrimidine-2,4-diol
+molport:MolPort-044-724-624	(1R,3aS,3bR,9aR,9bS,11aS)-11a-ethyl-1-ethynyl-7-(hydroxyimino)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-ol
+molport:MolPort-044-728-989	4-tert-butyl-15-fluoro-3,5,10-triazatetracyclo[11.4.0.0²,⁶.0⁷,¹²]heptadeca-1(13),2(6),3,7(12),8,10,14,16-octaen-11-ol
+molport:MolPort-044-729-032	methyl N-(4-amino-2-{1-[(2-fluorophenyl)methyl]-1H-pyrazolo[3,4-b]pyridin-3-yl}-6-imino-1,6-dihydropyrimidin-5-yl)-N-methylcarbamate
+molport:MolPort-046-033-463	2-[(4R,5S,6S,7R,9R,10R,11E,13E,16R)-6-{[(2S,3R,4R,5S,6R)-5-{[(2S,4R,5S,6S)-4,5-dihydroxy-4,6-dimethyloxan-2-yl]oxy}-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy}-10-{[(2R,5S,6S)-5-(dimethylamino)-6-methyloxan-2-yl]oxy}-4-hydroxy-5-methoxy-9,16-dimethyl-2-oxo-1-oxacyclohexadeca-11,13-dien-7-yl]acetaldehyde
+molport:MolPort-046-033-481	(1S,3R,5R)-3-[(2-hydroxy-2,2-diphenylacetyl)oxy]-8λ⁵-azaspiro[bicyclo[3.2.1]octane-8,1'-pyrrolidin]-8-ylium
+molport:MolPort-046-196-532	(2R,3R,4S,5R)-2-{6-amino-2-[2-(4-chlorophenyl)ethoxy]-9H-purin-9-yl}-5-(hydroxymethyl)oxolane-3,4-diol
+molport:MolPort-046-201-088	N-(6-methyl-5-{[4-(pyridin-3-yl)pyrimidin-2-yl]amino}pyridin-3-yl)-4-[(4-methylpiperazin-1-yl)methyl]-3-(trifluoromethyl)benzene-1-carboximidic acid
+molport:MolPort-046-201-089	N-(2,3-dihydropyridazin-3-ylidene)-4-[(3-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenyl)methylidene]piperidine-1-carboxamide
+molport:MolPort-046-418-597	(2S)-2-amino-N-[(2S,3S,4R,5R)-5-[6-(dimethylamino)-9H-purin-9-yl]-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide
+molport:MolPort-046-426-188	{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[hydroxy({hydroxy[(3R)-3-hydroxy-2,2-dimethyl-3-[(2-{[2-(tetradecanoylsulfanyl)ethyl]carbamoyl}ethyl)carbamoyl]propoxy]phosphoryl}oxy)phosphoryl]oxy}methyl)oxolan-3-yl]oxy}phosphonic acid
+molport:MolPort-046-588-736	cyano[(1R,2R,3R,4R,8S,13S,14S,18S,19S)-8,13,18-tris(2-carbamoylethyl)-3,14,19-tris(carbamoylmethyl)-4-(2-{[(2R)-2-{[(2R,3S,4R,5S)-5-(5,6-dimethyl-1H-1,3-benzodiazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl phosphonato]oxy}propyl]carbamoyl}ethyl)-1,4,6,9,9,14,16,19-octamethyl-20,21,22,23-tetraazapentacyclo[15.2.1.1²,⁵.1⁷,¹⁰.1¹²,¹⁵]tricosa-5(23),6,10(22),11,15(21),16-hexaen-20-yl]cobaltylium
+molport:MolPort-046-590-015	(1S,5R,13R,17S)-4-(cyclopropylmethyl)-10,14,17-trihydroxy-N-[2-(3-phenyl-1,2,4-oxadiazol-5-yl)propan-2-yl]-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7,9,11(18),14-tetraene-15-carboxamide
+molport:MolPort-046-594-090	(3R)-3-cyclopentyl-3-(4-{1H-pyrrolo[2,3-d]pyrimidin-4-yl}-1H-pyrazol-1-yl)propanenitrile
+molport:MolPort-046-688-526	{[(2R,3S,4S,5S)-3,4-dihydroxy-5-[(phosphonooxy)methyl]oxolan-2-yl]methoxy}phosphonic acid
+molport:MolPort-046-688-747	{[(2S,3S,5R)-3-azido-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+molport:MolPort-046-689-831	(1R,2R,3aS,3bS,5S,9aS,9bR,10S,11aS)-5,9b-difluoro-1-{[(fluoromethyl)sulfanyl]carbonyl}-10-hydroxy-2,9a,11a-trimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl furan-2-carboxylate
+molport:MolPort-046-689-924	(1R,2S,3aS,3bS,5S,9aS,9bR,10S,11aS)-1-(2-chloroacetyl)-5,9b-difluoro-1,10-dihydroxy-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-046-690-277	4-{[3-(1,4-diazepane-1-carbonyl)-4-fluorophenyl]methyl}-1,2-dihydrophthalazin-1-one
+molport:MolPort-046-690-543	(1R,2R,3aS,3bS,9aS,9bR,10S,11aS)-9b-chloro-1-(2-chloroacetyl)-1,10-dihydroxy-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-046-690-825	[(4S,6S,7R,8S)-11-amino-7-methoxy-5,12-dimethyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.0²,⁷.0⁴,⁶]trideca-1(9),11-dien-8-yl]methyl carbamate
+molport:MolPort-046-691-655	(1R,9R,13R)-1,13-dimethyl-10-(3-methylbut-2-en-1-yl)-10-azatricyclo[7.3.1.0²,⁷]trideca-2(7),3,5-trien-4-ol
+molport:MolPort-046-691-676	(1S,3aS,3bS,11aS)-1,11a-diethyl-1-hydroxy-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-046-691-688	(2S,3S)-3,4-dimethyl-2-phenylmorpholine
+molport:MolPort-046-691-802	3-carbamoyl-1-[(2R,3R,4S,5R)-5-{[({[(2R,3S,4R,5R)-3,4-dihydroxy-5-{3H-imidazo[2,1-f]purin-3-yl}oxolan-2-yl]methoxy}(hydroxy)phosphoryl phosphonato)oxy]methyl}-3,4-dihydroxyoxolan-2-yl]-1λ⁵-pyridin-1-ylium
+molport:MolPort-046-691-951	2-[(Z)-N-methyl-N''-phosphonocarbamimidamido]acetic acid
+molport:MolPort-046-692-474	1,5-dimethyl-6-(2-methyl-4-{[3-(trifluoromethyl)pyridin-2-yl]oxy}phenyl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
+molport:MolPort-046-692-513	methyl N-[(2S)-1-[(6S)-6-[4-(9,9-difluoro-7-{2-[(1R,3S,4S)-2-[(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl]-2-azabicyclo[2.2.1]heptan-3-yl]-1H-1,3-benzodiazol-5-yl}-9H-fluoren-2-yl)-1H-imidazol-2-yl]-5-azaspiro[2.4]heptan-5-yl]-3-methyl-1-oxobutan-2-yl]carbamate
+molport:MolPort-046-692-609	(1S,3aS,3bR,5aR,9aS,9bS,11aS)-1-hydroxy-9a,11a-dimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-7-one
+molport:MolPort-046-692-670	ethyl 4-({6-[(diaminomethylidene)amino]hexanoyl}oxy)benzoate
+molport:MolPort-046-692-679	(2S)-N-[(2S)-1-[(2S)-2-[(carbamoylmethyl)carbamoyl]pyrrolidin-1-yl]-5-[(diaminomethylidene)amino]-1-oxopentan-2-yl]-2-[(2R)-2-[(2S)-2-[(2S)-3-hydroxy-2-[(2S)-2-[(2S)-3-(1H-imidazol-4-yl)-2-{[(2S)-5-oxopyrrolidin-2-yl]formamido}propanamido]-3-(1H-indol-3-yl)propanamido]propanamido]-3-(4-hydroxyphenyl)propanamido]-3-(1H-indol-3-yl)propanamido]-4-methylpentanamide
+molport:MolPort-046-692-719	3-[(methanesulfonylsulfanyl)methyl]-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrol-1-ol
+molport:MolPort-046-692-808	ethyl 2-{[(1R)-1-cyclohexyl-2-[(2S)-2-[({4-[(E)-N'-hydroxycarbamimidoyl]phenyl}methyl)carbamoyl]azetidin-1-yl]-2-oxoethyl]amino}acetate
+molport:MolPort-046-692-891	(1S,2S,3S,4R)-4-[(diaminomethylidene)amino]-3-[(1S)-1-acetamido-2-ethylbutyl]-2-hydroxycyclopentane-1-carboxylic acid
+molport:MolPort-046-693-099	5-[(Z)-[ethoxy(oxido)methylidene]amino]-3-(morpholin-4-yl)-1,2,3λ⁵-oxadiazol-3-ylium
+molport:MolPort-046-693-144	4-{6-[(4-methanesulfonylpiperazin-1-yl)methyl]-4-(morpholin-4-yl)thieno[3,2-d]pyrimidin-2-yl}-2H-indazole
+molport:MolPort-046-693-289	(6R,7R)-7-[(2R)-2-(4-hydroxyphenyl)-2-[(6-methyl-4-oxo-1,4-dihydropyridin-3-yl)formamido]acetamido]-3-{[(1-methyl-1H-1,2,3,4-tetrazol-5-yl)sulfanyl]methyl}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+molport:MolPort-046-693-472	5-{[(2S)-2-amino-3-(4-carbamoyl-2,6-dimethylphenyl)-N-[(1S)-1-(4-phenyl-1H-imidazol-2-yl)ethyl]propanamido]methyl}-2-methoxybenzoic acid
+molport:MolPort-046-701-416	4-methyl-N-[3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenyl]-3-{[4-(pyridin-3-yl)pyrimidin-2-yl]amino}benzene-1-carboximidic acid
+molport:MolPort-046-701-493	N'-cyano-N-methyl-N''-(2-{[(4-methyl-1H-imidazol-5-yl)methyl]sulfanyl}ethyl)guanidine
+molport:MolPort-046-701-496	N-(2-chloro-6-methylphenyl)-2-({6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl}amino)-1,3-thiazole-5-carboximidic acid
+molport:MolPort-046-761-463	(12R,16S)-7,10-diazatetracyclo[8.6.1.0⁵,¹⁷.0¹²,¹⁶]heptadeca-1(17),2,4-triene
+molport:MolPort-046-761-764	(Z)-N''-[6-(4-chlorophenoxy)hexyl]-N'-cyano-N-(1,4-dihydropyridin-4-ylidene)guanidine
+molport:MolPort-046-761-766	gadolinium(3+) 2-({2-[bis(carboxylatomethyl)amino]ethyl}({2-[bis(carboxymethyl)amino]ethyl})amino)acetate
+molport:MolPort-046-761-767	2-[2-(6-hydroxy-2-imino-3,9-dihydro-2H-purin-9-yl)ethyl]propane-1,3-diol
+molport:MolPort-046-761-776	(1s,3r)-3-[8-imino-1-(2-phenylquinolin-7-yl)-7H,8H-imidazo[1,5-a]pyrazin-3-yl]-1-methylcyclobutan-1-ol
+molport:MolPort-046-761-792	2-[(2R)-2-methylpyrrolidin-2-yl]-1H-1,3-benzodiazole-7-carboximidic acid
+molport:MolPort-046-761-813	(1R,3aS,3bS,9aR,9bS,10S,11aS)-1,10-dihydroxy-9a,11a-dimethyl-1-(2-sulfanylacetyl)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+molport:MolPort-046-761-834	1-cyano-N-{4-[(4R)-6-hydroxy-4-methyl-4,5-dihydropyridazin-3-yl]phenyl}methanecarbohydrazonoyl cyanide
+molport:MolPort-046-761-970	({hydroxy[(3-methylbut-3-en-1-yl)oxy]phosphoryl}oxy)phosphonic acid
+molport:MolPort-046-762-050	5-fluoro-4-hydroxy-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+molport:MolPort-046-762-069	5-fluoro-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]-4-imino-1,4-dihydropyrimidin-2-ol
+molport:MolPort-046-762-083	(Z)-N-(4-chlorophenyl)-N'-(3,4-dichlorophenyl)carbamimidic acid
+molport:MolPort-046-762-085	(2S)-2-[(4-{[(4-amino-2-imino-2,3-dihydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid
+molport:MolPort-046-762-099	8-chloro-1-(3,5-difluoro-6-imino-1,6-dihydropyridin-2-yl)-6-fluoro-7-(3-hydroxyazetidin-1-yl)-4-oxo-1,4-dihydroquinoline-3-carboxylic acid
+molport:MolPort-046-762-102	6-(2,3-dichlorophenyl)-3-imino-3,4-dihydro-1,2,4-triazin-5-amine
+molport:MolPort-046-762-145	5-(2-chlorophenyl)-7-nitro-3H-1,4-benzodiazepin-2-ol
+molport:MolPort-046-762-161	2-(2-amino-3-benzoylphenyl)ethanimidic acid
+molport:MolPort-046-762-186	6-(benzyloxy)-3,9-dihydro-2H-purin-2-imine
+molport:MolPort-046-762-213	2-chloro-5-(1,3-dihydroxy-1H-isoindol-1-yl)benzene-1-sulfonamide
+molport:MolPort-046-762-216	4-{[3-(4-cyclopropanecarbonylpiperazine-1-carbonyl)-4-fluorophenyl]methyl}phthalazin-1-ol
+molport:MolPort-046-762-233	9-oxo-2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaene-2-carboximidic acid
+molport:MolPort-046-762-242	7-bromo-5-(pyridin-2-yl)-3H-1,4-benzodiazepin-2-ol
+molport:MolPort-046-762-245	3-bromo-7-nitro-2H-indazole
+molport:MolPort-046-762-247	4-amino-2-(6-hydroxy-2-oxo-2,3,4,5-tetrahydropyridin-3-yl)-2,3-dihydro-1H-isoindole-1,3-dione
+molport:MolPort-046-762-255	6-(trifluoromethoxy)-2,3-dihydro-1,3-benzothiazol-2-imine
+molport:MolPort-046-762-275	(2R,3S,4R,5R)-2-(hydroxymethyl)-5-{4-imino-1H,4H,5H-imidazo[4,5-c]pyridin-1-yl}oxolane-3,4-diol
+molport:MolPort-046-762-288	2-imino-3,9-dihydro-2H-purine-6-thiol
+molport:MolPort-046-762-316	3-(cyclopropylmethoxy)-N-(3,5-dichloro-1,4-dihydropyridin-4-ylidene)-4-(difluoromethoxy)benzamide
+molport:MolPort-046-762-417	6-amino-2-imino-4-(piperidin-1-yl)-2,3-dihydropyrimidin-1-ium-1-olate
+molport:MolPort-046-762-424	5-[2,6-bis(morpholin-4-yl)pyrimidin-4-yl]-4-(trifluoromethyl)-1,2-dihydropyridin-2-imine
+molport:MolPort-046-762-442	methyl N-[(1R)-2-[(2S,4S)-2-(4-{6-[(2S,5S)-1-[(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl]-5-methylpyrrolidin-2-yl]-21-oxa-5,7-diazapentacyclo[11.8.0.0³,¹¹.0⁴,⁸.0¹⁴,¹⁹]henicosa-1,3(11),4(8),5,9,12,14(19),15,17-nonaen-17-yl}-1H-imidazol-2-yl)-4-(methoxymethyl)pyrrolidin-1-yl]-2-oxo-1-phenylethyl]carbamate
+molport:MolPort-046-762-451	N-(3-methylbut-2-en-1-yl)-3H-purin-6-amine
+molport:MolPort-046-762-603	2-[(acetyloxy)methyl]-4-(2-imino-2,9-dihydro-1H-purin-9-yl)butyl acetate
+molport:MolPort-046-762-641	3-[9,14,19-tris(2-carboxyethyl)-5,10,15,20-tetramethyl-21,22,23,24-tetraazapentacyclo[16.2.1.1³,⁶.1⁸,¹¹.1¹³,¹⁶]tetracosa-1,3(24),4,6,8,10,12,14,16(22),17,19-undecaen-4-yl]propanoic acid
+molport:MolPort-046-762-666	3-[(3Z)-5-tert-butyl-2,3-dihydro-1,2-oxazol-3-ylidene]-1-(4-{10-[2-(morpholin-4-yl)ethoxy]-7-thia-2,5-diazatricyclo[6.4.0.0²,⁶]dodeca-1(12),3,5,8,10-pentaen-4-yl}phenyl)urea
+molport:MolPort-046-762-746	1-(2-methylpropyl)-1H,4H,5H-imidazo[4,5-c]quinolin-4-imine
+molport:MolPort-046-762-749	(Z)-N-{[(4E)-4-[(3-methylphenyl)imino]-1,4-dihydropyridin-3-yl]sulfonyl}propane-2-carbamimidic acid
+molport:MolPort-046-762-751	3-(2-imino-2,3-dihydro-1,3-benzoxazol-5-yl)-1-(propan-2-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine
+molport:MolPort-046-762-841	(2R)-2-{[(2Z)-6-(benzylamino)-9-(propan-2-yl)-2,9-dihydro-1H-purin-2-ylidene]amino}butan-1-ol
+molport:MolPort-046-762-870	(2S,5R,6R)-6-[(Z)-[(2R)-2-amino-1-hydroxy-2-phenylethylidene]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+molport:MolPort-046-762-904	4-{[(6Z)-6-({4-[(1E)-2-cyanoeth-1-en-1-yl]-2,6-dimethylphenyl}imino)-1,6-dihydropyrimidin-2-yl]amino}benzonitrile
+molport:MolPort-046-762-912	{[(4S,6S,7R,8S)-11-amino-7-methoxy-12-methyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.0²,⁷.0⁴,⁶]trideca-1(9),11-dien-8-yl]methoxy}carboximidic acid
+molport:MolPort-046-762-915	(6R,7R)-7-[(Z)-[(2R)-2-amino-2-(cyclohexa-1,4-dien-1-yl)-1-hydroxyethylidene]amino]-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+molport:MolPort-046-762-927	(3Z)-3-[(3,5-dimethyl-1H-pyrrol-2-yl)methylidene]-3H-indol-2-ol
+molport:MolPort-046-762-928	3-(5-{[(3Z)-2-hydroxy-3H-indol-3-ylidene]methyl}-2,4-dimethyl-1H-pyrrol-3-yl)propanoic acid
+molport:MolPort-046-762-962	4-{[(6Z)-6-[(2,4,6-trimethylphenyl)imino]-1,6-dihydropyrimidin-2-yl]amino}benzonitrile
+molport:MolPort-046-762-971	(6Z)-2-{[(1R,2S)-2-aminocyclohexyl]amino}-6-[(3-methylphenyl)imino]-1,6-dihydropyrimidine-5-carboximidic acid
+molport:MolPort-046-762-982	1-{2-chloro-4-[(6,7-dimethoxyquinolin-4-yl)oxy]phenyl}-3-[(3Z)-5-methyl-2,3-dihydro-1,2-oxazol-3-ylidene]urea
+molport:MolPort-046-763-009	7,8-dimethylbenzo[g]pteridine-2,4-diol
+molport:MolPort-046-763-010	4-hydroxy-1-[(2S,4R,5S)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2-dihydropyrimidin-2-one
+molport:MolPort-046-763-012	1-[(2R,4S,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-4-hydroxy-5-methyl-1,2-dihydropyrimidin-2-one
+molport:MolPort-046-763-014	4-hydroxy-1-[(2R,5S)-5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-5-methyl-1,2-dihydropyrimidin-2-one
+molport:MolPort-046-763-021	(2S)-2-[(5-{[(4-hydroxy-2-methylquinazolin-6-yl)methyl](methyl)amino}thiophen-2-yl)formamido]pentanedioic acid
+molport:MolPort-046-763-093	5-ethyl-4,6-dihydroxy-5-phenyl-2,5-dihydropyrimidin-2-one
+molport:MolPort-046-763-094	3-(4-aminophenyl)-3-ethyl-6-hydroxy-2,3,4,5-tetrahydropyridin-2-one
+molport:MolPort-046-763-099	5-[(1R)-2-[(5,6-diethyl-2,3-dihydro-1H-inden-2-yl)amino]-1-hydroxyethyl]quinoline-2,8-diol
+molport:MolPort-046-763-104	5-(4-chlorophenyl)-6-ethyl-2-imino-2,3-dihydropyrimidin-4-amine
+molport:MolPort-046-763-220	N-(4-{[3-butyl-2,6-dioxo-1-(prop-2-en-1-yl)-2,3,6,7-tetrahydro-1H-purin-8-yl]methyl}phenyl)acetamide
+molport:MolPort-046-763-233	(E)-N-(6-propoxy-1H-1,3-benzodiazol-2-yl)methoxycarboximidic acid
+molport:MolPort-046-763-237	(E)-N-[6-(propylsulfanyl)-1H-1,3-benzodiazol-2-yl]methoxycarboximidic acid
+molport:MolPort-046-763-344	(2E)-N-[(4Z)-4-({3-chloro-4-[(pyridin-2-yl)methoxy]phenyl}imino)-3-cyano-7-ethoxy-1,4-dihydroquinolin-6-yl]-4-(dimethylamino)but-2-enamide
+molport:MolPort-046-763-600	(2Z)-7-cyclopentyl-N,N-dimethyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]imino}-2H,3H,7H-pyrrolo[2,3-d]pyrimidine-6-carboxamide
+molport:MolPort-046-763-614	(4S)-4-({3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}methyl)-4,5-dihydro-1,3-oxazol-2-ol
+molport:MolPort-046-763-629	2-[(1-{1-[(4-fluorophenyl)methyl]-1H-1,3-benzodiazol-2-yl}piperidin-4-yl)(methyl)amino]pyrimidin-4-ol
+molport:MolPort-046-763-658	(Z)-4-hydroxy-2-methyl-1,1-dioxo-N-(pyridin-2-yl)-2H-1λ⁶-thieno[2,3-e][1,2]thiazine-3-carboximidic acid
+molport:MolPort-046-763-659	3-chloro-5-({1-[(5-hydroxy-4-methyl-4H-1,2,4-triazol-3-yl)methyl]-2-oxo-4-(trifluoromethyl)-1,2-dihydropyridin-3-yl}oxy)benzonitrile
+molport:MolPort-046-763-676	1-methyl-6-phenyl-1H,2H,3H-imidazo[4,5-b]pyridin-2-imine
+molport:MolPort-046-763-678	(2R,3S,4R,5R)-2-(hydroxymethyl)-5-{5-imino-7-methyl-2,6,7,9,11-pentaazatricyclo[6.3.1.0⁴,¹²]dodeca-1(12),3,8,10-tetraen-2-yl}oxolane-3,4-diol
+molport:MolPort-046-763-701	(4E)-4-[(2,4-dichloro-5-methoxyphenyl)imino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]-1,4-dihydroquinoline-3-carbonitrile
+molport:MolPort-046-763-707	N-methyl-2-({3-[(1E)-2-(pyridin-2-yl)ethenyl]-2H-indazol-6-yl}sulfanyl)benzamide
+molport:MolPort-046-763-838	2-[(Z)-[(2E)-3-(3,4-dimethoxyphenyl)-1-hydroxyprop-2-en-1-ylidene]amino]benzoic acid
+molport:MolPort-046-763-851	(6E)-6-{[(3-chloro-4-methoxyphenyl)methyl]imino}-2-[(2S)-2-(hydroxymethyl)pyrrolidin-1-yl]-N-[(pyrimidin-2-yl)methyl]-1,6-dihydropyrimidine-5-carboxamide
+molport:MolPort-046-763-857	(2E)-1-[(4-fluorophenyl)methyl]-N-{1-[2-(4-methoxyphenyl)ethyl]piperidin-4-yl}-2,3-dihydro-1H-1,3-benzodiazol-2-imine
+molport:MolPort-046-764-164	2-imino-1H,2H,3H,4H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+molport:MolPort-046-764-165	9-[(2-hydroxyethoxy)methyl]-2-imino-2,3,6,9-tetrahydro-1H-purin-6-one
+molport:MolPort-046-764-166	(2S)-2-[(4-{[(2-imino-4-oxo-1,2,3,4-tetrahydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid
+molport:MolPort-046-764-168	2-imino-2,3,6,7-tetrahydro-1H-purin-6-one
+molport:MolPort-046-764-620	5-amino-3-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2H,3H,6H,7H-[1,3]thiazolo[4,5-d]pyrimidine-2,7-dione
+molport:MolPort-046-765-044	(2S)-2-{[4-(2-{2-imino-4-oxo-1H,2H,3H,4H,7H-pyrrolo[2,3-d]pyrimidin-5-yl}ethyl)phenyl]formamido}pentanedioic acid
+molport:MolPort-046-765-607	(2S,4S)-4-cyclohexyl-1-{2-[hydroxy(4-phenylbutyl)phosphoryl]acetyl}pyrrolidine-2-carboxylic acid
+molport:MolPort-046-765-609	{[(2R,3S,4R,5R)-3,4-dihydroxy-5-(4-imino-2-oxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+molport:MolPort-046-766-022	1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-4-imino-1,2,3,4-tetrahydropyrimidin-2-one
+molport:MolPort-046-766-023	1-[(2R,4R,5R)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-4-imino-1,2,3,4-tetrahydropyrimidin-2-one
+molport:MolPort-046-766-257	9-{[(1,3-dihydroxypropan-2-yl)oxy]methyl}-2-imino-2,3,6,9-tetrahydro-1H-purin-6-one
+molport:MolPort-046-766-332	N-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-2-[2-(2H-1,2,3,4-tetrazol-5-yl)pyridin-4-yl]pyrimidin-4-yl]-5-methylpyridine-2-sulfonamide

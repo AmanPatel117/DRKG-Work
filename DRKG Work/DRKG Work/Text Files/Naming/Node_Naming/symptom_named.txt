@@ -1,0 +1,415 @@
+D000006	Acute abdomen
+D000270	Holmes-Adie syndrome
+D000334	Aerophagy
+D000370	Decreased taste sensation
+D000419	Albuminuria
+D000425	Alcohol amnestic disorder
+D000472	Respiratory alkalosis
+D000648	Retrograde amnesia
+D000787	Angina pectoris
+D000788	Prinzmetal angina
+D000789	Intermediate coronary syndrome
+D000849	Anomia
+D000855	Anorexia
+D001039	Motor aphasia
+D001044	Loss of voice
+D001049	Apnea
+D001184	articulation disorder
+D001247	Asthenia
+D001260	Ataxia-telangiectasia syndrome
+D001264	Athetosis
+D001416	Back pain
+D001750	Neurogenic bladder
+D001766	Blindness
+D002032	Bulimia
+D002100	Cachexia
+D002385	Cataplexy
+D002422	Complex regional pain syndrome type 2
+D002559	Cerebrospinal fluid rhinorrhoea
+D002637	Chest pain
+D002639	Cheyne-Stokes respiration
+D002832	Choroid hemorrhage
+D003085	Abdominal colic
+D003128	Coma
+D003147	communication disorder
+D003221	Confusion
+D003371	Cough
+D003410	5p partial monosomy syndrome
+D003490	Cyanosis
+D003638	Deafness
+D003967	Diarrhea
+D003968	Infantile diarrhea
+D004172	Diplopia
+D004314	Complete trisomy 21 syndrome
+D004408	Parageusia
+D004412	Dysmenorrhea
+D004415	Dyspepsia
+D004417	Dyspnea
+D004418	Paroxysmal dyspnea
+D004433	Ear pain
+D004438	Ecchymosis
+D004454	Echolalia
+D004489	Cardiac edema
+D004614	Emaciated
+D004688	Functional encopresis
+D004884	Burping
+D005130	Hemorrhage of the eye
+D005132	Eye Manifestations
+D005221	Fatigue
+D005262	Abnormal development of female secondary sexual characteristics
+D005316	Fetal distress
+D005320	Fetal macrosomia
+D005334	Fever
+D005335	Pyrexia of unknown origin
+D005414	Flatulence symptom
+D005483	Flushing
+D005862	Gerstmann syndrome
+D005884	Gingival bleeding
+D005926	Tongue pain
+D006209	Halitosis
+D006261	Headache
+D006311	Hearing problem
+D006312	Bilateral hearing loss
+D006314	Conductive hearing impairment
+D006315	Psychogenic deafness
+D006316	High-frequency hearing impairment
+D006319	Sensorineural hearing loss
+D006337	Heart murmur
+D006356	Heartburn
+D006396	Hematemesis
+D006456	Hemoglobinuria
+D006469	Hemoptysis
+D006472	Oral bleeding
+D006606	Hiccoughs
+D006628	Hirsutism
+D006685	Hoarse voice
+D006732	Horner syndrome
+D006935	Hypercapnia
+D006939	Hyperemesis gravidarum
+D006941	Hyperesthesia
+D006942	Hypergammaglobulinemia
+D006948	Hyperkinesis
+D006963	Polyphagia
+D006985	Hyperventilation
+D006987	Sensory impairment
+D006988	Hyphema
+D007024	Orthostatic hypotension
+D007035	Hypothermia
+D007040	Hypoventilation
+D007383	Intermittent claudication
+D007565	Jaundice
+D007625	Kearns Sayre syndrome
+D007706	Menkes kinky-hair syndrome
+D007806	Language impairment
+D007859	learning disorder
+D007926	Lesch-Nyhan syndrome
+D008065	Lipid proteinosis
+D008569	Memory impairment
+D008580	Meningeal irritation
+D008998	Monoclonal gammopathy of uncertain significance
+D009041	Motion sickness
+D009058	Mouth breathing
+D009122	Hypertonia
+D009128	Spasticity
+D009155	Mutism
+D009325	Nausea
+D009461	Neurological deficit
+D009755	Nyctalopia
+D009765	Obesity
+D009767	Morbid obesity
+D009846	Oliguria
+D009912	Oral Manifestations
+D010146	Pain
+D010148	Pain, Intractable
+D010167	Pallor
+D010243	Paralysis
+D010291	Hemiparesis
+D010845	Extreme obesity with alveolar hypoventilation
+D011141	Polyuria
+D011218	Prader-Willi syndrome
+D011304	Old-aged sensorineural hearing impairment
+D011507	Proteinuria
+D011537	Pruritus
+D011538	Pruritus ani
+D011539	Pruritus vulvae
+D011595	psychomotor agitation
+D011596	Psychomotor retardation
+D011602	Psychophysiologic disorder
+D011693	Purpura
+D011694	Hyperglobulinemic purpura
+D011695	Immunoglobulin a vasculitis
+D011696	Thrombocytopenic purpura
+D012133	Respiratory paralysis
+D012148	Restless legs
+D012166	Retinal hemorrhage
+D012415	Rubinstein-Taybi syndrome
+D012585	Sciatica
+D012877	Skin Manifestations
+D012891	Sleep apnea
+D012893	sleep disorder
+D012912	Sneeze
+D012913	Snoring
+D013009	Somnambulism
+D013035	Muscle cramps
+D013064	Neurological speech impairment
+D013746	Tetany
+D013851	Leanness, inherited
+D014008	Tinea pedis
+D014098	Toothache
+D014103	Torticollis
+D014313	Trismus
+D014474	Loss of consciousness
+D014549	Urinary incontinence
+D014550	Stress urinary incontinence
+D014770	Virilization
+D014823	Vitreous hemorrhage
+D014832	Weak voice
+D014839	Vomiting
+D014840	Anticipatory Vomiting
+D014884	Waterhouse-Friderichsen syndrome
+D015325	Pyruvate dehydrogenase complex deficiency
+D015354	Reduced vision
+D015430	Increased body weight
+D015431	Weight loss
+D015518	Rett syndrome
+D015746	Abdominal pain
+D015845	Tonic pupil
+D015875	Anisocoria
+D015877	Miosis
+D015878	Mydriasis
+D016532	Mucopolysaccharidosis, MPS-II
+D016534	Increased cardiac output
+D016553	Autoimmune thrombocytopenic purpura
+D016857	Hypocapnia
+D017109	Drug-induced akathisia
+D017116	Low back pain
+D017246	Progressive external ophthalmoplegia
+D017288	Pain threshold
+D017566	Cardiac syndrome X
+D017593	Kleine-Levin syndrome
+D017624	Wilms tumor, aniridia, genitourinary anomalies, and mental retardation syndrome
+D017699	Pain in pelvis
+D018458	Vegetative state
+D018496	Hyperoxia
+D018589	Gastroparesis
+D018771	Arthralgia
+D018886	Conduction aphasia
+D018888	Primary progressive aphasia
+D018908	Muscle weakness
+D018980	Williams syndrome
+D019080	Cafe-au-lait spot
+D019462	Vasovagal syncope
+D019547	Neck pain
+D019569	Hemifacial spasm
+D019584	Hot flashes
+D019588	Premature aging
+D019591	Pseudophakia
+D019873	Schnitzler syndrome
+D019954	Neurobehavioral Manifestations
+D020069	Shoulder pain
+D020177	Idiopathic hypersomnia
+D020178	Non-24-hour sleep-wake syndrome
+D020179	Circadian rhythm sleep disorder, jet lag type
+D020181	Obstructive sleep apnea syndrome
+D020183	Nocturnal paroxysmal dystonia
+D020184	Sleep terror
+D020187	REM sleep behavior disorder
+D020188	Sleep paralysis
+D020189	Periodic Limb Movement Disorder
+D020234	Gait ataxia
+D020235	Gait apraxia
+D020236	Transient global amnesia
+D020238	Prosopagnosia
+D020240	Limb-kinetic apraxia
+D020324	Anterograde amnesia
+D020335	Paraparesis
+D020336	Spastic paraparesis
+D020385	Myokymia
+D020447	Parasomnia
+D020757	Amaurosis fugax
+D020795	Photophobia
+D020828	Pseudobulbar paralysis
+D020915	Wernicke-Korsakoff syndrome
+D020921	Confusional arousal
+D021501	Flank pain
+D023341	Chills
+D034062	Fatal familial insomnia
+D034381	Hearing impairment
+D037061	Metatarsalgia
+D038901	X-linked intellectual disability
+D038921	Coffin-Lowry syndrome
+D041781	Obstructive jaundice
+D045262	Reticulocytosis
+D046088	Unilateral deafness
+D046089	Mixed hearing impairment
+D048949	Labor pain
+D050177	Overweight
+D051346	Difficulty walking
+D051474	Postherpetic neuralgia
+D052120	Danon disease
+D053158	Nocturia
+D053159	Dysuria
+D053202	Urge incontinence of urine
+D053448	Prostatism
+D053565	Hypercalciuria
+D053578	Opsoclonus-myoclonus syndrome
+D053584	Urinoma
+D053609	Lethargy
+D054058	Acute coronary syndrome
+D054068	Livedo reticularis
+D054160	systolic heart murmur
+D054546	Choreoacanthocytosis
+D054971	Orthostatic intolerance
+D054972	Postural orthostatic tachycardia syndrome
+D055111	Failed Back Surgery Syndrome
+D055154	Dysphonia
+D055665	Purpura fulminans
+D055948	Sarcopenia
+D055955	Susac syndrome
+D055964	Alien Hand Syndrome
+D056128	Abdominal obesity
+D056844	Renal colic
+D057178	Primary progressive non fluent aphasia
+D057774	Post-Exercise Hypotension
+D057896	Striae distensae
+D058447	Ocular pain
+D058568	Necrolytic migratory erythema
+D059246	Tachypnea
+D059265	Visceral pain
+D059350	Chronic pain
+D059352	Musculoskeletal pain
+D059373	Pain of breast
+D059390	Breakthrough pain
+D059411	Lower urinary tract symptoms
+D059445	Anhedonia
+D059606	Polydipsia
+D059607	Psychogenic polydipsia
+D059787	Acute pain
+D060050	Stable angina
+D060486	Ophthalmoplegic migraine
+D060545	Pudendal neuralgia
+D062026	Alice in wonderland syndrome
+D063766	Childhood obesity
+D063806	Myalgia
+D064250	Hypertriglyceridemic Waist
+D065635	Benign paroxysmal positional vertigo
+D000326	Adrenoleukodystrophy
+D000377	Agnosia
+D000381	Agraphia
+D000550	Amblyopia
+D000647	Amnesia
+D000857	Olfaction Disorders
+D000860	Hypoxia
+D001037	Aphasia
+D001041	Aphasia, Wernicke
+D001072	Apraxias
+D001259	Ataxia
+D001308	Auditory Perceptual Disorders
+D001724	Birth Weight
+D001835	Body Weight
+D001926	Brain Death
+D002303	Cardiac Output, Low
+D002375	Catalepsy
+D002389	Catatonia
+D002524	Cerebellar Ataxia
+D002558	Cerebrospinal Fluid Otorrhea
+D002819	Chorea
+D003117	Color Vision Defects
+D003244	Consciousness Disorders
+D003248	Constipation
+D003635	De Lange Syndrome
+D003639	Hearing Loss, Sudden
+D003655	Decerebrate State
+D003693	Delirium
+D004244	Dizziness
+D004401	Dysarthria
+D004409	Dyskinesia, Drug-Induced
+D004410	Dyslexia
+D004411	Dyslexia, Acquired
+D004421	Dystonia
+D004487	Edema
+D005157	Facial Pain
+D005158	Facial Paralysis
+D005183	Failure to Thrive
+D005207	Fasciculation
+D005222	Mental Fatigue
+D005311	Fetal Hypoxia
+D005600	Fragile X Syndrome
+D006212	Hallucinations
+D006313	Hearing Loss, Central
+D006317	Hearing Loss, Noise-Induced
+D006423	Hemianopsia
+D006429	Hemiplegia
+D006816	Huntington Disease
+D006930	Hyperalgesia
+D006970	Disorders of Excessive Somnolence
+D007088	Illusions
+D007319	Sleep Initiation and Maintenance Disorders
+D007331	Insulin Coma
+D007805	Language Development Disorders
+D008607	Intellectual Disability
+D009120	Muscle Cramp
+D009123	Muscle Hypotonia
+D009127	Muscle Rigidity
+D009133	Muscular Atrophy
+D009207	Myoclonus
+D009222	Myotonia
+D009290	Narcolepsy
+D009437	Neuralgia
+D009886	Ophthalmoplegia
+D009903	Optical Illusions
+D010149	Pain, Postoperative
+D010264	Paraplegia
+D010292	Paresthesia
+D010468	Perceptual Disorders
+D010591	Phantom Limb
+D011681	Pupil Disorders
+D011697	Purpura, Thrombotic Thrombocytopenic
+D011782	Quadriplegia
+D012001	Hyperacusis
+D012021	Reflex, Abnormal
+D012135	Respiratory Sounds
+D012607	Scotoma
+D012640	Seizures
+D012678	Sensation Disorders
+D012892	Sleep Deprivation
+D013342	Stuttering
+D013494	Supranuclear Palsy, Progressive
+D013575	Syncope
+D013651	Taste Disorders
+D014012	Tinnitus
+D014202	Tremor
+D014717	Vertigo
+D014786	Vision Disorders
+D014826	Vocal Cord Paralysis
+D014929	Wolfram Syndrome
+D015160	Hydrops Fetalis
+D017827	Machado-Joseph Disease
+D018437	Brown-Sequard Syndrome
+D018476	Hypokinesia
+D019575	Blindness, Cortical
+D020078	Neurogenic Inflammation
+D020182	Sleep Apnea, Central
+D020186	Sleep Bruxism
+D020233	Gait Disorders, Neurologic
+D020250	Postoperative Nausea and Vomiting
+D020270	Alcohol Withdrawal Seizures
+D020323	Tics
+D020567	Fetal Weight
+D020754	Spinocerebellar Ataxias
+D020820	Dyskinesias
+D020886	Somatosensory Disorders
+D020919	Sleep Disorders, Intrinsic
+D020920	Dyssomnias
+D020922	Sleep-Wake Transition Disorders
+D020923	REM Sleep Parasomnias
+D052245	Usher Syndromes
+D053201	Urinary Bladder, Overactive
+D053591	Pain, Referred
+D053608	Stupor
+D054078	Mevalonate Kinase Deficiency
+D054221	Classical Lissencephalies and Subcortical Band Heterotopias
+D056865	Ideal Body Weight
+D059226	Nociceptive Pain
+D062706	Prodromal Symptoms
+D065634	Cerebrospinal Fluid Leak

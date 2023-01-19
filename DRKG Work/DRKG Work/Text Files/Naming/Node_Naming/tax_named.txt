@@ -1,0 +1,216 @@
+100226	streptomyces coelicolor a3(2)
+10090	mus musculus
+10116	rattus norvegicus
+10141	cavia porcellus
+10243	cowpox virus
+10245	vaccinia virus
+10261	fowlpox virus
+10273	myxoma virus
+10298	human alphaherpesvirus 1
+10310	human alphaherpesvirus 2
+10320	bovine alphaherpesvirus 1
+10335	human alphaherpesvirus 3
+10345	suid alphaherpesvirus 1
+10359	human betaherpesvirus 5
+103690	nostoc sp. pcc 7120 = fachb-418
+10376	human gammaherpesvirus 4
+10381	saimiriine gammaherpesvirus 2
+10407	hepatitis b virus
+10455	spodoptera frugiperda multiple nucleopolyhedrovirus
+10665	escherichia virus t4
+10726	escherichia virus t5
+107806	buchnera aphidicola str. aps (acyrthosiphon pisum)
+10788	canine parvovirus
+10798	human parvovirus b19
+10832	tomato yellow leaf curl virus
+11103	hepacivirus c
+114416	lactococcus phage ul36
+1148	synechocystis sp. pcc 6803
+115711	chlamydia pneumoniae ar39
+11660	caprine arthritis encephalitis virus
+11665	equine infectious anemia virus
+11673	feline immunodeficiency virus
+11676	human immunodeficiency virus 1
+11723	simian immunodeficiency virus
+11741	visna-maedi virus
+11746	jaagsiekte sheep retrovirus
+11757	mouse mammary tumor virus
+11840	gibbon ape leukemia virus
+11855	mason-pfizer monkey virus
+11886	rous sarcoma virus
+11908	human t-cell leukemia virus type i
+119912	salmonella enterica subsp. enterica serovar choleraesuis
+12178	cymbidium mosaic virus
+12183	potato virus x
+12242	tobacco mosaic virus
+122586	neisseria meningitidis mc58
+12461	orthohepevirus a
+12475	hepatitis delta virus
+12618	chicken anemia virus
+1280	staphylococcus aureus
+1351	enterococcus faecalis
+1352	enterococcus faecium
+1358	lactococcus lactis
+13616	monodelphis domestica
+1396	bacillus cereus
+1423	bacillus subtilis
+145481	physcomitrium patens
+155537	microscilla sp. pre1
+160488	pseudomonas putida kt2440
+162145	human metapneumovirus
+169963	listeria monocytogenes egd-e
+176280	staphylococcus epidermidis atcc 12228
+176299	agrobacterium fabrum str. c58
+177439	desulfotalea psychrophila lsv54
+185588	ruegeria sp. pr1b
+186497	pyrococcus furiosus dsm 3638
+187410	yersinia pestis kim10+
+188937	methanosarcina acetivorans c2a
+189518	leptospira interrogans serovar lai str. 56601
+190192	methanopyrus kandleri av19
+190650	caulobacter vibrioides cb15
+192222	campylobacter jejuni subsp. jejuni nctc 11168 = atcc 700819
+194439	chlorobaculum tepidum tls
+196627	corynebacterium glutamicum atcc 13032
+198094	bacillus anthracis str. ames
+198214	shigella flexneri 2a str. 301
+198215	shigella flexneri 2a str. 2457t
+199310	escherichia coli cft073
+205914	histophilus somni 129pt
+206672	bifidobacterium longum ncc2705
+208964	pseudomonas aeruginosa pao1
+209261	salmonella enterica subsp. enterica serovar typhi str. ty2
+211586	shewanella oneidensis mr-1
+216594	mycobacterium marinum m
+221109	oceanobacillus iheyensis hte831
+223926	vibrio parahaemolyticus rimd 2210633
+224308	bacillus subtilis subsp. subtilis str. 168
+224325	archaeoglobus fulgidus dsm 4304
+224326	borreliella burgdorferi b31
+226185	enterococcus faecalis v583
+227882	streptomyces avermitilis ma-4680 = nbrc 14893
+234826	anaplasma marginale str. st. maries
+242619	porphyromonas gingivalis w83
+243090	rhodopirellula baltica sh 1
+243230	deinococcus radiodurans r1
+243231	geobacter sulfurreducens pca
+243273	mycoplasma genitalium g37
+243275	treponema denticola atcc 35405
+243276	treponema pallidum subsp. pallidum str. nichols
+243365	chromobacterium violaceum atcc 12472
+246196	mycolicibacterium smegmatis mc2 155
+257310	bordetella bronchiseptica rb50
+257313	bordetella pertussis tohama i
+2613	plasmid pns1
+262316	mycobacterium avium subsp. paratuberculosis k-10
+264462	bdellovibrio bacteriovorus hd100
+266264	cupriavidus metallidurans ch34
+272551	macaca fuscata rhadinovirus
+272561	chlamydia trachomatis d/uw-3/cx
+272563	clostridioides difficile 630
+272844	pyrococcus abyssi ge5
+272943	rhodobacter sphaeroides 2.4.1
+272947	rickettsia prowazekii str. madrid e
+273063	sulfurisphaera tokodaii str. 7
+273075	thermoplasma acidophilum dsm 1728
+273121	wolinella succinogenes dsm 1740
+279303	actinoplanes phage phiasp2
+283942	idiomarina loihiensis l2tr
+287	pseudomonas aeruginosa
+288681	bacillus cereus e33l
+28875	rotavirus a
+28901	salmonella enterica
+295319	salmonella enterica subsp. enterica serovar paratyphi a str. atcc 9150
+29760	vitis vinifera
+300852	thermus thermophilus hb8
+303	pseudomonas putida
+3055	chlamydomonas reinhardtii
+31033	takifugu rubripes
+31721	beet necrotic yellow vein virus
+321314	salmonella enterica subsp. enterica serovar choleraesuis str. sc-b67
+32264	tetranychus urticae
+333760	human papillomavirus type 16
+33726	mungbean yellow mosaic virus
+339671	actinobacillus succinogenes 130z
+34305	lotus japonicus
+352472	dictyostelium discoideum ax4
+3562	spinacia oleracea
+358	agrobacterium tumefaciens
+36329	plasmodium falciparum 3d7
+3702	arabidopsis thaliana
+37296	human gammaherpesvirus 8
+381124	zea mays subsp. mays
+3847	glycine max
+394	sinorhizobium fredii ngr234
+3988	ricinus communis
+40041	streptococcus equi subsp. zooepidemicus
+40051	bluetongue virus
+405948	saccharopolyspora erythraea nrrl 2338
+4081	solanum lycopersicum
+4097	nicotiana tabacum
+448385	sorangium cellulosum so ce56
+4513	hordeum vulgare
+45455	macacine gammaherpesvirus 4
+4565	triticum aestivum
+4577	zea mays
+46015	autographa californica nucleopolyhedrovirus
+47660	pseudomonas sp. adp
+484021	klebsiella pneumoniae subsp. pneumoniae ntuh-k2044
+4896	schizosaccharomyces pombe
+4932	saccharomyces cerevisiae
+511145	escherichia coli str. k-12 substr. mg1655
+523850	thermococcus onnurineus na1
+526563	escherichia coli 1520
+550538	salmonella enterica subsp. enterica serovar gallinarum str. 287/91
+55601	vibrio anguillarum
+562	escherichia coli
+573	klebsiella pneumoniae
+5833	plasmodium falciparum
+584	proteus mirabilis
+587	providencia rettgeri
+592021	bacillus anthracis str. a0248
+59729	taeniopygia guttata
+6183	schistosoma mansoni
+6239	caenorhabditis elegans
+630	yersinia enterocolitica
+668336	aggregatibacter actinomycetemcomitans d11s-1
+7091	bombyx mori
+7159	aedes aegypti
+7176	culex quinquefasciatus
+72150	anatid alphaherpesvirus 1
+7227	drosophila melanogaster
+7240	drosophila simulans
+7244	drosophila virilis
+727	haemophilus influenzae
+7460	apis mellifera
+76114	aromatoleum aromaticum ebn1
+7719	ciona intestinalis
+7955	danio rerio
+7998	ictalurus punctatus
+8022	oncorhynchus mykiss
+8030	salmo salar
+8090	oryzias latipes
+83332	mycobacterium tuberculosis h37rv
+8355	xenopus laevis
+8364	xenopus tropicalis
+85708	porcine circovirus 2
+85962	helicobacter pylori 26695
+85963	helicobacter pylori j99
+882	desulfovibrio vulgaris str. hildenborough
+9031	gallus gallus
+90322	sphingomonas sp. a1
+90371	salmonella enterica subsp. enterica serovar typhimurium
+9103	meleagris gallopavo
+9483	callithrix jacchus
+9544	macaca mulatta
+9598	pan troglodytes
+9615	canis lupus familiaris
+9685	felis catus
+9796	equus caballus
+9823	sus scrofa
+9913	bos taurus
+9925	capra hircus
+9940	ovis aries
+99802	spirometra erinaceieuropaei
+9986	oryctolagus cuniculus
+

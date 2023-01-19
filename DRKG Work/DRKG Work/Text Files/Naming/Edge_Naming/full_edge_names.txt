@@ -1,0 +1,62 @@
+GNBR	A+	agonism	Compound:Gene
+GNBR	A_	antagonism	Compound:Gene
+GNBR	B	binding	Compound:Gene
+GNBR	B	binding	Gene:Gene
+GNBR	C	inhibits cell growth (esp. cancers)	Compound:Disease
+GNBR	D	drug targets	Disease:Gene
+GNBR	E+	increases expression/production	Compound:Gene
+GNBR	E+	increases expression/production	Gene:Gene
+GNBR	E-	decreases expression/production	Compound:Gene
+GNBR	E	affects expression/production (neutral)	Compound:Gene
+GNBR	E	affects expression/production (neutral)	Gene:Gene
+GNBR	G	promotes progression	Disease:Gene
+GNBR	H	same protein or complex	Gene:Gene
+GNBR	I	signaling pathway	Gene:Gene
+GNBR	J	role in disease pathogenesis	Compound:Disease
+GNBR	J	role in pathogenesis	Disease:Gene
+GNBR	K	metabolism	Compound:Gene
+GNBR	L	improper regulation linked to disease	Disease:Gene
+GNBR	Md	biomarkers (diagnostic)	Disease:Gene
+GNBR	Mp	biomarkers (of disease progression)	Compound:Disease
+GNBR	N	inhibits	Compound:Gene
+GNBR	O	transport	Compound:Gene
+GNBR	Pa	alleviates	Compound:Disease
+GNBR	Pr	prevents	Compound:Disease
+GNBR	Q	production by cell population	Gene:Gene
+GNBR	Rg	regulation	Gene:Gene
+GNBR	Sa	side effect/adverse event	Compound:Disease
+GNBR	T	treatment/therapy (including investigatory)	Compound:Disease
+GNBR	Te	possible therapeutic effect	Disease:Gene
+GNBR	U	causal mutations	Disease:Gene
+GNBR	Ud	mutations affecting disease course	Disease:Gene
+GNBR	V+	activates	Gene:Gene
+GNBR	W	enhances response	Gene:Gene
+GNBR	X	overexpression in disease	Disease:Gene
+GNBR	Y	polymorphisms alter risk	Disease:Gene
+GNBR	Z	enzyme activity	Compound:Gene
+GNBR	in_tax	gene belongs to taxonomy	Gene:Tax
+Hetionet	abbreviation	metaedge
+Hetionet	AdG	Anatomy_downregulates_Gene
+Hetionet	AeG	Anatomy_expresses_Gene
+Hetionet	AuG	Anatomy_upregulates_Gene
+Hetionet	CbG	Compound_binds_Gene
+Hetionet	CcSE	Compound_causes_Side Effect
+Hetionet	CdG	Compound_downregulates_Gene
+Hetionet	CpD	Compound_palliates_Disease
+Hetionet	CrC	Compound_resembles_Compound
+Hetionet	CtD	Compound_treats_Disease
+Hetionet	CuG	Compound_upregulates_Gene
+Hetionet	DaG	Disease_associates_Gene
+Hetionet	DdG	Disease_downregulates_Gene
+Hetionet	DlA	Disease_localizes_Anatomy
+Hetionet	DpS	Disease_presents_Symptom
+Hetionet	DrD	Disease_resembles_Disease
+Hetionet	DuG	Disease_upregulates_Gene
+Hetionet	GcG	Gene_covaries_Gene
+Hetionet	GiG	Gene_interacts_Gene
+Hetionet	GpBP	Gene_participates_Biological Process
+Hetionet	GpCC	Gene_participates_Cellular Component
+Hetionet	GpMF	Gene_participates_Molecular Function
+Hetionet	GpPW	Gene_participates_Pathway
+Hetionet	Gr>G	Gene_regulates_Gene
+Hetionet	PCiC	Pharmacologic Class_includes_Compound
